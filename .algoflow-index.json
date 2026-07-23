@@ -1,0 +1,44 @@
+{
+  "39db0b1e-f6b2-4630-9e6e-09638f1543ac": {
+    "name": "Maximize Active Section with Trade I",
+    "topic": "Strings",
+    "difficulty": "Medium",
+    "folder": "strings/maximize-active-section-with-trade-i",
+    "path": "strings/maximize-active-section-with-trade-i/solution.cpp"
+  },
+  "f773127d-30dd-4a41-a17f-f554991935be": {
+    "name": "Palindrome Number",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/palindrome-number",
+    "path": "arrays/palindrome-number/solution.cpp"
+  },
+  "c3331492-cdd8-4822-812f-1cf60b9e8008": {
+    "name": "Merge Two Sorted Lists",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/merge-two-sorted-lists",
+    "path": "arrays/merge-two-sorted-lists/solution.cpp"
+  },
+  "968d8b85-5671-4170-8001-5a55a88da651": {
+    "name": "Remove Element",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/remove-element",
+    "path": "arrays/remove-element/solution.cpp"
+  },
+  "3a29a885-0bb9-46e3-aeb4-808b8b6555dc": {
+    "name": "3 sum",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/3-sum",
+    "path": "arrays/3-sum/solution.cpp"
+  },
+  "ff613a32-0478-420d-a045-b3fa7bedc3b1": {
+    "name": "Maximize Active Section with Trade II",
+    "topic": "Arrays",
+    "difficulty": "Hard",
+    "folder": "arrays/maximize-active-section-with-trade-ii",
+    "path": "arrays/maximize-active-section-with-trade-ii/solution.cpp"
+  }
+}
