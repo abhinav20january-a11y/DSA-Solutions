@@ -1,9 +1,9 @@
 {
-  "id": "968d8b85-5671-4170-8001-5a55a88da651",
-  "topic": "Arrays",
+  "completedAt": "2026-07-15T19:07:38.000Z",
   "difficulty": "Easy",
+  "id": "968d8b85-5671-4170-8001-5a55a88da651",
   "patterns": [],
   "source": "https://leetcode.com/problems/remove-element/",
-  "completedAt": "2026-07-15T19:07:38.000Z",
-  "syncedBy": "AlgoFlow"
+  "syncedBy": "AlgoFlow",
+  "topic": "Arrays"
 }

@@ -1,9 +1,9 @@
 {
-  "id": "3a29a885-0bb9-46e3-aeb4-808b8b6555dc",
-  "topic": "Arrays",
+  "completedAt": "",
   "difficulty": "Medium",
+  "id": "3a29a885-0bb9-46e3-aeb4-808b8b6555dc",
   "patterns": [],
   "source": "",
-  "completedAt": "",
-  "syncedBy": "AlgoFlow"
+  "syncedBy": "AlgoFlow",
+  "topic": "Arrays"
 }

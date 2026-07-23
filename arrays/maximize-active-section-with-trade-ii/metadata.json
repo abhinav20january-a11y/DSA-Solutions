@@ -1,9 +1,9 @@
 {
-  "id": "ff613a32-0478-420d-a045-b3fa7bedc3b1",
-  "topic": "Arrays",
+  "completedAt": "2026-07-22T18:24:38.021Z",
   "difficulty": "Hard",
+  "id": "ff613a32-0478-420d-a045-b3fa7bedc3b1",
   "patterns": [],
   "source": "https://leetcode.com/problems/maximize-active-section-with-trade-ii/",
-  "completedAt": "2026-07-22T18:24:38.021Z",
-  "syncedBy": "AlgoFlow"
+  "syncedBy": "AlgoFlow",
+  "topic": "Arrays"
 }
