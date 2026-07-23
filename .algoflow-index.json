@@ -40,5 +40,12 @@
     "difficulty": "Hard",
     "folder": "arrays/maximize-active-section-with-trade-ii",
     "path": "arrays/maximize-active-section-with-trade-ii/solution.cpp"
+  },
+  "0822e19f-096a-4608-bbea-292b6a4f9ab9": {
+    "name": "Number of Unique XOR Triplets I",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/number-of-unique-xor-triplets-i",
+    "path": "arrays/number-of-unique-xor-triplets-i/solution.cpp"
   }
 }
