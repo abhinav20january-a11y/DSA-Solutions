@@ -3,7 +3,7 @@
 - **Topic:** Arrays
 - **Difficulty:** Easy
 - **Patterns:** Not classified
-- **Status:** Needs Review
+- **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/merge-two-sorted-lists/)
 - **Completed:** 2026-07-15T15:01:41.000Z
 
