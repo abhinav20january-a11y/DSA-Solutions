@@ -47,5 +47,12 @@
     "difficulty": "Medium",
     "folder": "arrays/number-of-unique-xor-triplets-i",
     "path": "arrays/number-of-unique-xor-triplets-i/solution.cpp"
+  },
+  "76dba418-20b2-44d3-98b9-8d655a7d470c": {
+    "name": "Number of Unique XOR Triplets II",
+    "topic": "Bit Manipulation",
+    "difficulty": "Medium",
+    "folder": "bit-manipulation/3514-number-of-unique-xor-triplets-ii",
+    "path": "bit-manipulation/3514-number-of-unique-xor-triplets-ii/solution.cpp"
   }
 }

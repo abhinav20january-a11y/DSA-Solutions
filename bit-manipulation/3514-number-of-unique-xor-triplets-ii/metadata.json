@@ -1,0 +1,9 @@
+{
+  "completedAt": "2026-07-24T18:38:23.241Z",
+  "difficulty": "Medium",
+  "id": "76dba418-20b2-44d3-98b9-8d655a7d470c",
+  "patterns": [],
+  "source": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Bit Manipulation"
+}
