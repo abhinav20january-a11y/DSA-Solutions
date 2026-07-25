@@ -11,4 +11,5 @@ A structured record of solved data-structures and algorithms problems, generated
 - [Palindrome Number](./arrays/palindrome-number/) — Arrays · Easy
 - [Remove Element](./arrays/remove-element/) — Arrays · Easy
 - [Number of Unique XOR Triplets II](./bit-manipulation/3514-number-of-unique-xor-triplets-ii/) — Bit Manipulation · Medium
+- [Maximum Product of Two Digits](./math-geometry/3536-maximum-product-of-two-digits/) — Math & Geometry · Easy
 - [Maximize Active Section with Trade I](./strings/maximize-active-section-with-trade-i/) — Strings · Medium

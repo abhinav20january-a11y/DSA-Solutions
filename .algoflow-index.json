@@ -54,5 +54,12 @@
     "difficulty": "Medium",
     "folder": "bit-manipulation/3514-number-of-unique-xor-triplets-ii",
     "path": "bit-manipulation/3514-number-of-unique-xor-triplets-ii/solution.cpp"
+  },
+  "5b39ecf6-3d06-4a28-9461-6c676b458631": {
+    "name": "Maximum Product of Two Digits",
+    "topic": "Math & Geometry",
+    "difficulty": "Easy",
+    "folder": "math-geometry/3536-maximum-product-of-two-digits",
+    "path": "math-geometry/3536-maximum-product-of-two-digits/solution.cpp"
   }
 }
