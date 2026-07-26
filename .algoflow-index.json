@@ -61,5 +61,12 @@
     "difficulty": "Easy",
     "folder": "math-geometry/3536-maximum-product-of-two-digits",
     "path": "math-geometry/3536-maximum-product-of-two-digits/solution.cpp"
+  },
+  "dab3918c-1213-48a7-a205-09ec6e4f0a20": {
+    "name": "Maximum Product of Three Numbers",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/0628-maximum-product-of-three-numbers",
+    "path": "arrays/0628-maximum-product-of-three-numbers/solution.cpp"
   }
 }

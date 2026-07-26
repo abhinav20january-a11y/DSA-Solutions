@@ -6,6 +6,7 @@ A structured record of solved data-structures and algorithms problems, generated
 
 - [3 sum](./arrays/3-sum/) — Arrays · Medium
 - [Maximize Active Section with Trade II](./arrays/maximize-active-section-with-trade-ii/) — Arrays · Hard
+- [Maximum Product of Three Numbers](./arrays/0628-maximum-product-of-three-numbers/) — Arrays · Easy
 - [Merge Two Sorted Lists](./arrays/merge-two-sorted-lists/) — Arrays · Easy
 - [Number of Unique XOR Triplets I](./arrays/number-of-unique-xor-triplets-i/) — Arrays · Medium
 - [Palindrome Number](./arrays/palindrome-number/) — Arrays · Easy
