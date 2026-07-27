@@ -24,8 +24,8 @@
     "name": "Remove Element",
     "topic": "Arrays",
     "difficulty": "Easy",
-    "folder": "arrays/remove-element",
-    "path": "arrays/remove-element/solution.cpp"
+    "folder": "arrays/0027-remove-element",
+    "path": "arrays/0027-remove-element/solution.cpp"
   },
   "3a29a885-0bb9-46e3-aeb4-808b8b6555dc": {
     "name": "3 sum",
