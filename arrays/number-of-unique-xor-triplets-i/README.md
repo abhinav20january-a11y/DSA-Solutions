@@ -1,6 +1,6 @@
 # Number of Unique XOR Triplets I
 
-- **Topic:** Bit Manipulation
+- **Topic:** Arrays
 - **Difficulty:** Medium
 - **Patterns:** Array, Math, Bit Manipulation
 - **Status:** Completed
