@@ -68,5 +68,12 @@
     "difficulty": "Easy",
     "folder": "arrays/0628-maximum-product-of-three-numbers",
     "path": "arrays/0628-maximum-product-of-three-numbers/solution.cpp"
+  },
+  "2e111e72-86d2-4e6d-9ac6-273b56f876c9": {
+    "name": "Maximum Product of Two Elements in an Array",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/1464-maximum-product-of-two-elements-in-an-array",
+    "path": "arrays/1464-maximum-product-of-two-elements-in-an-array/solution.cpp"
   }
 }
