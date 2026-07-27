@@ -1,9 +1,9 @@
 # Number of Unique XOR Triplets I
 
-- **Topic:** Bit Manipulation
+- **Topic:** Arrays
 - **Difficulty:** Medium
-- **Patterns:** Array, Math, Bit Manipulation
-- **Status:** Needs Review
+- **Patterns:** Not classified
+- **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/number-of-unique-xor-triplets-i/)
 - **Completed:** 2026-07-23T17:34:47.000Z
 
