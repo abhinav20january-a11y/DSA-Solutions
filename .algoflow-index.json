@@ -75,5 +75,12 @@
     "difficulty": "Easy",
     "folder": "arrays/1464-maximum-product-of-two-elements-in-an-array",
     "path": "arrays/1464-maximum-product-of-two-elements-in-an-array/solution.cpp"
+  },
+  "d4f89855-5feb-4959-a267-c5973c43401a": {
+    "name": "Two Sum",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/two-sum",
+    "path": "arrays/two-sum/solution.cpp"
   }
 }

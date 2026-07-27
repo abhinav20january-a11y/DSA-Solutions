@@ -11,6 +11,7 @@ A structured record of solved data-structures and algorithms problems, generated
 - [Merge Two Sorted Lists](./arrays/merge-two-sorted-lists/) — Arrays · Easy
 - [Palindrome Number](./arrays/palindrome-number/) — Arrays · Easy
 - [Remove Element](./arrays/remove-element/) — Arrays · Easy
+- [Two Sum](./arrays/two-sum/) — Arrays · Easy
 - [Number of Unique XOR Triplets I](./bit-manipulation/number-of-unique-xor-triplets-i/) — Bit Manipulation · Medium
 - [Number of Unique XOR Triplets II](./bit-manipulation/3514-number-of-unique-xor-triplets-ii/) — Bit Manipulation · Medium
 - [Maximum Product of Two Digits](./math-geometry/3536-maximum-product-of-two-digits/) — Math & Geometry · Easy
