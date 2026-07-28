@@ -45,8 +45,8 @@
     "name": "Number of Unique XOR Triplets I",
     "topic": "Arrays",
     "difficulty": "Medium",
-    "folder": "arrays/number-of-unique-xor-triplets-i",
-    "path": "arrays/number-of-unique-xor-triplets-i/solution.cpp"
+    "folder": "arrays/3513-number-of-unique-xor-triplets-i",
+    "path": "arrays/3513-number-of-unique-xor-triplets-i/solution.cpp"
   },
   "76dba418-20b2-44d3-98b9-8d655a7d470c": {
     "name": "Number of Unique XOR Triplets II",

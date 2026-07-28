@@ -1,4 +1,4 @@
-# Number of Unique XOR Triplets I
+# 3513. Number of Unique XOR Triplets I
 
 - **Topic:** Arrays
 - **Difficulty:** Medium
