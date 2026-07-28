@@ -2,10 +2,10 @@
 
 - **Topic:** Arrays
 - **Difficulty:** Easy
-- **Patterns:** Array, Math, Sorting
-- **Status:** Completed
+- **Patterns:** Not classified
+- **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/maximum-product-of-three-numbers/)
-- **Completed:** 2026-07-26T15:28:37.702Z
+- **Completed:** 2026-07-26T15:28:37.000Z
 
 ## Approach
 
