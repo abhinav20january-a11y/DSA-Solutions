@@ -5,7 +5,7 @@
 - **Patterns:** Not classified
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/merge-two-sorted-lists/)
-- **Completed:** 2026-07-27T17:29:02.959Z
+- **Completed:** 2026-07-28T05:42:20.481Z
 
 ## Approach
 
