@@ -10,8 +10,8 @@
     "name": "Palindrome Number",
     "topic": "Arrays",
     "difficulty": "Easy",
-    "folder": "arrays/palindrome-number",
-    "path": "arrays/palindrome-number/solution.cpp"
+    "folder": "arrays/0009-palindrome-number",
+    "path": "arrays/0009-palindrome-number/solution.cpp"
   },
   "c3331492-cdd8-4822-812f-1cf60b9e8008": {
     "name": "Merge Two Sorted Lists",
