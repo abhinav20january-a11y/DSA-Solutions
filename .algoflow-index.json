@@ -82,5 +82,12 @@
     "difficulty": "Easy",
     "folder": "arrays/two-sum",
     "path": "arrays/two-sum/solution.cpp"
+  },
+  "a7ad3562-fdb7-4459-853a-0090bc5e0098": {
+    "name": "Smallest Palindromic Rearrangement I",
+    "topic": "Strings",
+    "difficulty": "Medium",
+    "folder": "strings/3517-smallest-palindromic-rearrangement-i",
+    "path": "strings/3517-smallest-palindromic-rearrangement-i/solution.cpp"
   }
 }
