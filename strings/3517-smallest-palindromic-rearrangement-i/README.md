@@ -2,10 +2,10 @@
 
 - **Topic:** Strings
 - **Difficulty:** Medium
-- **Patterns:** String, Sorting, Counting Sort
-- **Status:** Completed
+- **Patterns:** Not classified
+- **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/)
-- **Completed:** 2026-07-28T09:49:07.944Z
+- **Completed:** 2026-07-28T09:49:07.000Z
 
 ## Approach
 
