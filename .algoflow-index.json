@@ -89,5 +89,12 @@
     "difficulty": "Medium",
     "folder": "strings/3517-smallest-palindromic-rearrangement-i",
     "path": "strings/3517-smallest-palindromic-rearrangement-i/solution.cpp"
+  },
+  "347ecefe-50e6-4773-a29e-4ecaf81b0410": {
+    "name": "Smallest Palindromic Rearrangement II",
+    "topic": "Hash Tables",
+    "difficulty": "Hard",
+    "folder": "hash-tables/3518-smallest-palindromic-rearrangement-ii",
+    "path": "hash-tables/3518-smallest-palindromic-rearrangement-ii/solution.cpp"
   }
 }
