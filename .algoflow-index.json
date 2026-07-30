@@ -96,5 +96,12 @@
     "difficulty": "Hard",
     "folder": "hash-tables/3518-smallest-palindromic-rearrangement-ii",
     "path": "hash-tables/3518-smallest-palindromic-rearrangement-ii/solution.cpp"
+  },
+  "ee082382-2f16-4f4b-99e2-ca8b7ea87ad3": {
+    "name": "Minimum Number of Pushes to Type Word I",
+    "topic": "Greedy Algorithms",
+    "difficulty": "Easy",
+    "folder": "greedy-algorithms/3014-minimum-number-of-pushes-to-type-word-i",
+    "path": "greedy-algorithms/3014-minimum-number-of-pushes-to-type-word-i/solution.cpp"
   }
 }
