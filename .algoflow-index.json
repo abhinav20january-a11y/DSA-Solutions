@@ -43,10 +43,10 @@
   },
   "0822e19f-096a-4608-bbea-292b6a4f9ab9": {
     "name": "Number of Unique XOR Triplets I",
-    "topic": "Arrays",
+    "topic": "Bit Manipulation",
     "difficulty": "Medium",
-    "folder": "arrays/3513-number-of-unique-xor-triplets-i",
-    "path": "arrays/3513-number-of-unique-xor-triplets-i/solution.cpp"
+    "folder": "bit-manipulation/3513-number-of-unique-xor-triplets-i",
+    "path": "bit-manipulation/3513-number-of-unique-xor-triplets-i/solution.cpp"
   },
   "76dba418-20b2-44d3-98b9-8d655a7d470c": {
     "name": "Number of Unique XOR Triplets II",

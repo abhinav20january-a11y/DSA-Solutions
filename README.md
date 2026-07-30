@@ -9,10 +9,10 @@ A structured record of solved data-structures and algorithms problems, generated
 - [Maximum Product of Three Numbers](./arrays/0628-maximum-product-of-three-numbers/) — Arrays · Easy
 - [Maximum Product of Two Elements in an Array](./arrays/1464-maximum-product-of-two-elements-in-an-array/) — Arrays · Easy
 - [Merge Two Sorted Lists](./arrays/merge-two-sorted-lists/) — Arrays · Easy
-- [Number of Unique XOR Triplets I](./arrays/3513-number-of-unique-xor-triplets-i/) — Arrays · Medium
 - [Palindrome Number](./arrays/0009-palindrome-number/) — Arrays · Easy
 - [Remove Element](./arrays/0027-remove-element/) — Arrays · Easy
 - [Two Sum](./arrays/two-sum/) — Arrays · Easy
+- [Number of Unique XOR Triplets I](./bit-manipulation/3513-number-of-unique-xor-triplets-i/) — Bit Manipulation · Medium
 - [Number of Unique XOR Triplets II](./bit-manipulation/3514-number-of-unique-xor-triplets-ii/) — Bit Manipulation · Medium
 - [Minimum Number of Pushes to Type Word I](./greedy-algorithms/3014-minimum-number-of-pushes-to-type-word-i/) — Greedy Algorithms · Easy
 - [Smallest Palindromic Rearrangement II](./hash-tables/3518-smallest-palindromic-rearrangement-ii/) — Hash Tables · Hard

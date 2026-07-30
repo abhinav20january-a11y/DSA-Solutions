@@ -1,6 +1,6 @@
 # 3513. Number of Unique XOR Triplets I
 
-- **Topic:** Arrays
+- **Topic:** Bit Manipulation
 - **Difficulty:** Medium
 - **Patterns:** Not classified
 - **Status:** Completed
