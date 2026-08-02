@@ -1,6 +1,18 @@
 # AlgoFlow DSA Solutions
 
-A structured record of solved data-structures and algorithms problems, generated from AlgoFlow.
+A structured, automatically verified record of data-structures and algorithms practice.
+
+![Quality](https://github.com/actions/workflow/status/abhinav20january-a11y/DSA-Solutions/algoflow-quality.yml?label=solution%20quality)
+
+## Roadmap statistics
+
+| Solutions | Topics | Easy | Medium | Hard |
+| ---: | ---: | ---: | ---: | ---: |
+| 15 | 6 | 8 | 5 | 2 |
+
+## Quality automation
+
+Every push verifies the folder structure and performs a C++20 syntax compilation for every published C++ solution.
 
 ## Solutions
 

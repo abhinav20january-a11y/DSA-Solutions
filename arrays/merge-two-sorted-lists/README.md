@@ -13,4 +13,6 @@ Add your explanation in AlgoFlow.
 
 ## Complexity
 
-Document time and space complexity here.
+- **Estimated time:** O(n)
+- **Estimated auxiliary space:** O(1)
+- **Confidence:** 60%

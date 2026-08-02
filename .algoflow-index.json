@@ -18,7 +18,8 @@
     "topic": "Arrays",
     "difficulty": "Easy",
     "folder": "arrays/merge-two-sorted-lists",
-    "path": "arrays/merge-two-sorted-lists/solution.cpp"
+    "path": "arrays/merge-two-sorted-lists/solution.cpp",
+    "pinned": false
   },
   "968d8b85-5671-4170-8001-5a55a88da651": {
     "name": "Remove Element",
