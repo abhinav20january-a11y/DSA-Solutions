@@ -34,7 +34,8 @@
     "topic": "Arrays",
     "difficulty": "Medium",
     "folder": "arrays/3-sum",
-    "path": "arrays/3-sum/solution.cpp"
+    "path": "arrays/3-sum/solution.cpp",
+    "pinned": false
   },
   "ff613a32-0478-420d-a045-b3fa7bedc3b1": {
     "name": "Maximize Active Section with Trade II",

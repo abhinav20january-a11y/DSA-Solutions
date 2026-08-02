@@ -12,4 +12,6 @@ Add your explanation in AlgoFlow.
 
 ## Complexity
 
-Document time and space complexity here.
+- **Estimated time:** Not analysed
+- **Estimated auxiliary space:** Not analysed
+- **Confidence:** Not available
