@@ -11,7 +11,8 @@
     "topic": "Arrays",
     "difficulty": "Easy",
     "folder": "arrays/0009-palindrome-number",
-    "path": "arrays/0009-palindrome-number/solution.cpp"
+    "path": "arrays/0009-palindrome-number/solution.cpp",
+    "pinned": false
   },
   "c3331492-cdd8-4822-812f-1cf60b9e8008": {
     "name": "Merge Two Sorted Lists",
