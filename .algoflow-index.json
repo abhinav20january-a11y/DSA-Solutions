@@ -108,5 +108,13 @@
     "difficulty": "Easy",
     "folder": "greedy-algorithms/3014-minimum-number-of-pushes-to-type-word-i",
     "path": "greedy-algorithms/3014-minimum-number-of-pushes-to-type-word-i/solution.cpp"
+  },
+  "4ce29dc8-3203-400a-9431-ead69794a233": {
+    "name": "Remove Linked List Elements",
+    "topic": "Linked Lists",
+    "difficulty": "Easy",
+    "folder": "linked-lists/0203-remove-linked-list-elements",
+    "path": "linked-lists/0203-remove-linked-list-elements/solution.cpp",
+    "pinned": false
   }
 }
