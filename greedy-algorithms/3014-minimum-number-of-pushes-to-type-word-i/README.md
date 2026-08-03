@@ -3,9 +3,9 @@
 - **Topic:** Greedy Algorithms
 - **Difficulty:** Easy
 - **Patterns:** Math, String, Greedy
-- **Status:** Completed
+- **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/)
-- **Completed:** 2026-07-30T15:08:21.837Z
+- **Completed:** 2026-07-30T15:08:22.000Z
 
 ## Approach
 
@@ -13,4 +13,6 @@ Add your explanation in AlgoFlow.
 
 ## Complexity
 
-Document time and space complexity here.
+- **Estimated time:** Not analysed
+- **Estimated auxiliary space:** Not analysed
+- **Confidence:** Not available

@@ -4,7 +4,8 @@
     "topic": "Strings",
     "difficulty": "Medium",
     "folder": "strings/maximize-active-section-with-trade-i",
-    "path": "strings/maximize-active-section-with-trade-i/solution.cpp"
+    "path": "strings/maximize-active-section-with-trade-i/solution.cpp",
+    "pinned": false
   },
   "f773127d-30dd-4a41-a17f-f554991935be": {
     "name": "Palindrome Number",
@@ -43,35 +44,40 @@
     "topic": "Arrays",
     "difficulty": "Hard",
     "folder": "arrays/maximize-active-section-with-trade-ii",
-    "path": "arrays/maximize-active-section-with-trade-ii/solution.cpp"
+    "path": "arrays/maximize-active-section-with-trade-ii/solution.cpp",
+    "pinned": false
   },
   "0822e19f-096a-4608-bbea-292b6a4f9ab9": {
     "name": "Number of Unique XOR Triplets I",
     "topic": "Bit Manipulation",
     "difficulty": "Medium",
     "folder": "bit-manipulation/3513-number-of-unique-xor-triplets-i",
-    "path": "bit-manipulation/3513-number-of-unique-xor-triplets-i/solution.cpp"
+    "path": "bit-manipulation/3513-number-of-unique-xor-triplets-i/solution.cpp",
+    "pinned": false
   },
   "76dba418-20b2-44d3-98b9-8d655a7d470c": {
     "name": "Number of Unique XOR Triplets II",
     "topic": "Bit Manipulation",
     "difficulty": "Medium",
     "folder": "bit-manipulation/3514-number-of-unique-xor-triplets-ii",
-    "path": "bit-manipulation/3514-number-of-unique-xor-triplets-ii/solution.cpp"
+    "path": "bit-manipulation/3514-number-of-unique-xor-triplets-ii/solution.cpp",
+    "pinned": false
   },
   "5b39ecf6-3d06-4a28-9461-6c676b458631": {
     "name": "Maximum Product of Two Digits",
     "topic": "Math & Geometry",
     "difficulty": "Easy",
     "folder": "math-geometry/3536-maximum-product-of-two-digits",
-    "path": "math-geometry/3536-maximum-product-of-two-digits/solution.cpp"
+    "path": "math-geometry/3536-maximum-product-of-two-digits/solution.cpp",
+    "pinned": false
   },
   "dab3918c-1213-48a7-a205-09ec6e4f0a20": {
     "name": "Maximum Product of Three Numbers",
     "topic": "Arrays",
     "difficulty": "Easy",
     "folder": "arrays/0628-maximum-product-of-three-numbers",
-    "path": "arrays/0628-maximum-product-of-three-numbers/solution.cpp"
+    "path": "arrays/0628-maximum-product-of-three-numbers/solution.cpp",
+    "pinned": false
   },
   "2e111e72-86d2-4e6d-9ac6-273b56f876c9": {
     "name": "Maximum Product of Two Elements in an Array",
@@ -93,21 +99,24 @@
     "topic": "Strings",
     "difficulty": "Medium",
     "folder": "strings/3517-smallest-palindromic-rearrangement-i",
-    "path": "strings/3517-smallest-palindromic-rearrangement-i/solution.cpp"
+    "path": "strings/3517-smallest-palindromic-rearrangement-i/solution.cpp",
+    "pinned": false
   },
   "347ecefe-50e6-4773-a29e-4ecaf81b0410": {
     "name": "Smallest Palindromic Rearrangement II",
     "topic": "Hash Tables",
     "difficulty": "Hard",
     "folder": "hash-tables/3518-smallest-palindromic-rearrangement-ii",
-    "path": "hash-tables/3518-smallest-palindromic-rearrangement-ii/solution.cpp"
+    "path": "hash-tables/3518-smallest-palindromic-rearrangement-ii/solution.cpp",
+    "pinned": false
   },
   "ee082382-2f16-4f4b-99e2-ca8b7ea87ad3": {
     "name": "Minimum Number of Pushes to Type Word I",
     "topic": "Greedy Algorithms",
     "difficulty": "Easy",
     "folder": "greedy-algorithms/3014-minimum-number-of-pushes-to-type-word-i",
-    "path": "greedy-algorithms/3014-minimum-number-of-pushes-to-type-word-i/solution.cpp"
+    "path": "greedy-algorithms/3014-minimum-number-of-pushes-to-type-word-i/solution.cpp",
+    "pinned": false
   },
   "4ce29dc8-3203-400a-9431-ead69794a233": {
     "name": "Remove Linked List Elements",

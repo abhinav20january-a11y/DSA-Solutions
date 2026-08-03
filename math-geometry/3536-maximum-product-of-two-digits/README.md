@@ -3,9 +3,9 @@
 - **Topic:** Math & Geometry
 - **Difficulty:** Easy
 - **Patterns:** Math, Sorting
-- **Status:** Completed
+- **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/maximum-product-of-two-digits/)
-- **Completed:** 2026-07-25T04:47:05.744Z
+- **Completed:** 2026-07-25T04:47:06.000Z
 
 ## Approach
 
@@ -13,4 +13,6 @@ Add your explanation in AlgoFlow.
 
 ## Complexity
 
-Document time and space complexity here.
+- **Estimated time:** Not analysed
+- **Estimated auxiliary space:** Not analysed
+- **Confidence:** Not available
