@@ -2,7 +2,7 @@
 
 - **Topic:** Linked Lists
 - **Difficulty:** Easy
-- **Patterns:** Linked List, Recursion
+- **Patterns:** Not classified
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/remove-linked-list-elements/)
 - **Completed:** 2026-08-03T18:49:32.082Z
