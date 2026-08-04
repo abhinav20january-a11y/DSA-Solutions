@@ -141,5 +141,13 @@
     "folder": "linked-lists/0328-odd-even-linked-list",
     "path": "linked-lists/0328-odd-even-linked-list/solution.cpp",
     "pinned": false
+  },
+  "b8a9d978-655f-4f02-833a-87e99e6e6908": {
+    "name": "Reverse Linked List II",
+    "topic": "Linked Lists",
+    "difficulty": "Medium",
+    "folder": "linked-lists/0092-reverse-linked-list-ii",
+    "path": "linked-lists/0092-reverse-linked-list-ii/solution.cpp",
+    "pinned": false
   }
 }
