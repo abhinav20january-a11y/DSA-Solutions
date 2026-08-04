@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
+        vector<int>ans;
         int s=*min_element(nums.begin(),nums.end());
         int m=*max_element(nums.begin(),nums.end());
         for(int i=s;i<=m;i++){

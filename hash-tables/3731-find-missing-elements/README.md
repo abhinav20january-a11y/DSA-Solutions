@@ -5,7 +5,7 @@
 - **Patterns:** Array, Hash Table, Sorting
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/find-missing-elements/)
-- **Completed:** 2026-08-04T18:22:30.187Z
+- **Completed:** 2026-08-04T18:22:47.054Z
 
 ## Approach
 
