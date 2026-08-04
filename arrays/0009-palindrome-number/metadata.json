@@ -1,6 +1,39 @@
 {
   "completedAt": "2026-08-02T13:32:22.336Z",
-  "complexity": null,
+  "complexity": {
+    "astAvailable": true,
+    "auxiliarySpace": "O(1)",
+    "averageTime": "O(reversedHalf)",
+    "bestTime": "O(1)",
+    "callGraph": [],
+    "confidence": 84,
+    "disclaimer": "Estimate, not a mathematical proof. Data-dependent branches, library internals and amortized behaviour can change the bound.",
+    "engine": "Apple Clang AST",
+    "explanation": "Clang structurally linked loop bounds to reversedHalf.",
+    "findings": [
+      {
+        "detail": "Clang linked this loop bound to reversedHalf.",
+        "kind": "time",
+        "label": "Symbolic loop over reversedHalf",
+        "line": 13,
+        "snippet": "while (x > reversedHalf)",
+        "weight": 3
+      }
+    ],
+    "functionComplexities": [
+      {
+        "complexity": "O(reversedHalf)",
+        "name": "isPalindrome",
+        "symbols": {
+          "x": "x"
+        }
+      }
+    ],
+    "symbolicVariables": [
+      "reversedHalf"
+    ],
+    "worstTime": "O(reversedHalf)"
+  },
   "difficulty": "Easy",
   "id": "f773127d-30dd-4a41-a17f-f554991935be",
   "patterns": [
