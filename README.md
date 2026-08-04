@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 17 | 7 | 10 | 5 | 2 |
+| 18 | 7 | 10 | 6 | 2 |
 
 ## Quality automation
 
@@ -29,6 +29,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Minimum Number of Pushes to Type Word I](./greedy-algorithms/3014-minimum-number-of-pushes-to-type-word-i/) — Greedy Algorithms · Easy
 - [Find Missing Elements](./hash-tables/3731-find-missing-elements/) — Hash Tables · Easy
 - [Smallest Palindromic Rearrangement II](./hash-tables/3518-smallest-palindromic-rearrangement-ii/) — Hash Tables · Hard
+- [Odd Even Linked List](./linked-lists/0328-odd-even-linked-list/) — Linked Lists · Medium
 - [Remove Linked List Elements](./linked-lists/0203-remove-linked-list-elements/) — Linked Lists · Easy
 - [Maximum Product of Two Digits](./math-geometry/3536-maximum-product-of-two-digits/) — Math & Geometry · Easy
 - [Maximize Active Section with Trade I](./strings/maximize-active-section-with-trade-i/) — Strings · Medium
