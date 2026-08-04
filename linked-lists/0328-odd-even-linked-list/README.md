@@ -5,7 +5,7 @@
 - **Patterns:** Linked List
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/odd-even-linked-list/)
-- **Completed:** 2026-08-04T17:46:29.178Z
+- **Completed:** 2026-08-04T17:46:42.703Z
 
 ## Approach
 
