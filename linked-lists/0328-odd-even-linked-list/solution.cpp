@@ -20,20 +20,20 @@ public:
         if(temp){
             arr.push_back(temp->val);
         }
-        ListNode *temp=head->next;
-         while(temp!=NULL && temp->next!=NULL){
-            arr.push_back(temp->val);
-            temp=temp->next->next;
+        ListNode *temp2=head->next;
+         while(temp2!=NULL && temp2->next!=NULL){
+            arr.push_back(temp2->val);
+            temp2=temp2->next->next;
         }
-        if(temp){
+        if(temp2){
             arr.push_back(temp->val);
         }
-        ListNode *temp=head;
+        ListNode *temp3=head;
         int i=0;
-        while(temp!=NULL){
-            temp->data=arr[i];
+        while(temp3!=NULL){
+            temp3->data=arr[i];
             i++;
-            temp=temp->next;
+            temp3=temp3->next;
 
         }
         return head;
