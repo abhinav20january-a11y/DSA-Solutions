@@ -19,7 +19,7 @@ public:
                 ans.push_back(i);
             }
         }
-        ans.sort();
+        ans.sort(ans.begin(),ans.edn());
         return ans;
 
         
