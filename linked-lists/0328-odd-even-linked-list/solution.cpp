@@ -31,7 +31,7 @@ public:
         ListNode *temp3=head;
         int i=0;
         while(temp3!=NULL){
-            temp3->val;=arr[i];
+            temp3->val=arr[i];
             i++;
             temp3=temp3->next;
 
