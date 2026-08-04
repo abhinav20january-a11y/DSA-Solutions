@@ -125,5 +125,13 @@
     "folder": "linked-lists/0203-remove-linked-list-elements",
     "path": "linked-lists/0203-remove-linked-list-elements/solution.cpp",
     "pinned": false
+  },
+  "34dceb97-c38b-4964-b05e-b2935d6b7815": {
+    "name": "Find Missing Elements",
+    "topic": "Hash Tables",
+    "difficulty": "Easy",
+    "folder": "hash-tables/3731-find-missing-elements",
+    "path": "hash-tables/3731-find-missing-elements/solution.cpp",
+    "pinned": false
   }
 }
