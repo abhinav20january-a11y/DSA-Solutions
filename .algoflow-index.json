@@ -149,5 +149,13 @@
     "folder": "linked-lists/0092-reverse-linked-list-ii",
     "path": "linked-lists/0092-reverse-linked-list-ii/solution.cpp",
     "pinned": false
+  },
+  "0a378de2-742c-4511-a3fd-23b6b760910b": {
+    "name": "Sort List",
+    "topic": "Two Pointers",
+    "difficulty": "Medium",
+    "folder": "two-pointers/0148-sort-list",
+    "path": "two-pointers/0148-sort-list/solution.cpp",
+    "pinned": false
   }
 }
