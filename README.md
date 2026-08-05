@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 20 | 8 | 10 | 8 | 2 |
+| 21 | 8 | 10 | 9 | 2 |
 
 ## Quality automation
 
@@ -35,4 +35,5 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Maximum Product of Two Digits](./math-geometry/3536-maximum-product-of-two-digits/) — Math & Geometry · Easy
 - [Maximize Active Section with Trade I](./strings/maximize-active-section-with-trade-i/) — Strings · Medium
 - [Smallest Palindromic Rearrangement I](./strings/3517-smallest-palindromic-rearrangement-i/) — Strings · Medium
+- [Remove Nth Node From End of List](./two-pointers/0019-remove-nth-node-from-end-of-list/) — Two Pointers · Medium
 - [Sort List](./two-pointers/0148-sort-list/) — Two Pointers · Medium

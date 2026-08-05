@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-08-05T15:31:32.576Z",
+  "complexity": null,
+  "difficulty": "Medium",
+  "id": "53137a02-be4b-40b9-b48f-13f193cca540",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Two Pointers"
+}
