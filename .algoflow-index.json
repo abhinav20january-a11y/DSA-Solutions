@@ -165,5 +165,13 @@
     "folder": "two-pointers/0019-remove-nth-node-from-end-of-list",
     "path": "two-pointers/0019-remove-nth-node-from-end-of-list/solution.cpp",
     "pinned": false
+  },
+  "e0cf4b8a-cc4e-4ae9-a513-efbe9521bcdd": {
+    "name": "Trapping Rain Water",
+    "topic": "Dynamic Programming",
+    "difficulty": "Hard",
+    "folder": "dynamic-programming/0042-trapping-rain-water",
+    "path": "dynamic-programming/0042-trapping-rain-water/solution.cpp",
+    "pinned": false
   }
 }
