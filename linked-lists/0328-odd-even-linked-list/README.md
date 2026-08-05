@@ -2,7 +2,7 @@
 
 - **Topic:** Linked Lists
 - **Difficulty:** Medium
-- **Patterns:** Linked List
+- **Patterns:** Not classified
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/odd-even-linked-list/)
 - **Completed:** 2026-08-05T14:33:22.268Z
@@ -13,6 +13,6 @@ Add your explanation in AlgoFlow.
 
 ## Complexity
 
-- **Estimated time:** Not analysed
-- **Estimated auxiliary space:** Not analysed
-- **Confidence:** Not available
+- **Estimated time:** O(next)
+- **Estimated auxiliary space:** O(1)
+- **Confidence:** 84%
