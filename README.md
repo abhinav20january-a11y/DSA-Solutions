@@ -37,4 +37,4 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Maximize Active Section with Trade I](./strings/maximize-active-section-with-trade-i/) — Strings · Medium
 - [Smallest Palindromic Rearrangement I](./strings/3517-smallest-palindromic-rearrangement-i/) — Strings · Medium
 - [Remove Nth Node From End of List](./two-pointers/0019-remove-nth-node-from-end-of-list/) — Two Pointers · Medium
-- [Sort List](./two-pointers/0148-sort-list/) — Two Pointers · Medium
+- [Sort List](./two-pointers/sort-list/) — Two Pointers · Medium

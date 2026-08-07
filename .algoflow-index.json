@@ -154,8 +154,8 @@
     "name": "Sort List",
     "topic": "Two Pointers",
     "difficulty": "Medium",
-    "folder": "two-pointers/0148-sort-list",
-    "path": "two-pointers/0148-sort-list/solution.cpp",
+    "folder": "two-pointers/sort-list",
+    "path": "two-pointers/sort-list/solution.cpp",
     "pinned": false
   },
   "53137a02-be4b-40b9-b48f-13f193cca540": {

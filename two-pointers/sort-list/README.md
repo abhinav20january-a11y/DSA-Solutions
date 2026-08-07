@@ -1,8 +1,8 @@
-# 148. Sort List
+# Sort List
 
 - **Topic:** Two Pointers
 - **Difficulty:** Medium
-- **Patterns:** Linked List, Two Pointers, Divide and Conquer, Sorting, Merge Sort
+- **Patterns:** Not classified
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/sort-list/)
 - **Completed:** 2026-08-05T14:11:37.140Z
