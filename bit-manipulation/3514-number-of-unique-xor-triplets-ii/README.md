@@ -2,7 +2,7 @@
 
 - **Topic:** Bit Manipulation
 - **Difficulty:** Medium
-- **Patterns:** Array, Math, Bit Manipulation, Enumeration
+- **Patterns:** Not classified
 - **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/)
 - **Completed:** 2026-07-24T18:38:23.000Z
