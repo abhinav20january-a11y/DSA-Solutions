@@ -2,7 +2,7 @@
 
 - **Topic:** Stacks & Queues
 - **Difficulty:** Medium
-- **Patterns:** Stack, Design
+- **Patterns:** Not classified
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/min-stack/)
 - **Completed:** 2026-08-12T15:02:29.264Z
