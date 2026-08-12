@@ -2,8 +2,8 @@
 
 - **Topic:** Linked Lists
 - **Difficulty:** Medium
-- **Patterns:** Linked List
-- **Status:** Completed
+- **Patterns:** Not classified
+- **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/reverse-linked-list-ii/)
 - **Completed:** 2026-08-04T18:45:39.459Z
 
