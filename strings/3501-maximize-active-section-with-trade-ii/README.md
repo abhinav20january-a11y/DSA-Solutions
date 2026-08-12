@@ -1,11 +1,11 @@
-# Maximize Active Section with Trade II
+# 3501. Maximize Active Section with Trade II
 
-- **Topic:** Arrays
+- **Topic:** Strings
 - **Difficulty:** Hard
 - **Patterns:** Not classified
-- **Status:** Needs Review
+- **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/maximize-active-section-with-trade-ii/)
-- **Completed:** 2026-07-22T18:24:38.000Z
+- **Completed:** 2026-08-12T17:06:48.599Z
 
 ## Approach
 

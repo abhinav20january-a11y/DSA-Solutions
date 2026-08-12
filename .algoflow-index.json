@@ -41,10 +41,10 @@
   },
   "ff613a32-0478-420d-a045-b3fa7bedc3b1": {
     "name": "Maximize Active Section with Trade II",
-    "topic": "Arrays",
+    "topic": "Strings",
     "difficulty": "Hard",
-    "folder": "arrays/maximize-active-section-with-trade-ii",
-    "path": "arrays/maximize-active-section-with-trade-ii/solution.cpp",
+    "folder": "strings/3501-maximize-active-section-with-trade-ii",
+    "path": "strings/3501-maximize-active-section-with-trade-ii/solution.cpp",
     "pinned": false
   },
   "0822e19f-096a-4608-bbea-292b6a4f9ab9": {

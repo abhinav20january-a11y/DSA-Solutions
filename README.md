@@ -19,7 +19,6 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [3 sum](./arrays/3-sum/) — Arrays · Medium
 - [Capacity To Ship Packages Within D Days](./arrays/1011-capacity-to-ship-packages-within-d-days/) — Arrays · Medium
 - [Koko Eating Bananas](./arrays/0875-koko-eating-bananas/) — Arrays · Medium
-- [Maximize Active Section with Trade II](./arrays/maximize-active-section-with-trade-ii/) — Arrays · Hard
 - [Maximum Product of Three Numbers](./arrays/0628-maximum-product-of-three-numbers/) — Arrays · Easy
 - [Maximum Product of Two Elements in an Array](./arrays/1464-maximum-product-of-two-elements-in-an-array/) — Arrays · Easy
 - [Merge Two Sorted Lists](./arrays/merge-two-sorted-lists/) — Arrays · Easy
@@ -40,6 +39,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Maximum Product of Two Digits](./math-geometry/3536-maximum-product-of-two-digits/) — Math & Geometry · Easy
 - [Min Stack](./stacks-queues/0155-min-stack/) — Stacks & Queues · Medium
 - [Maximize Active Section with Trade I](./strings/maximize-active-section-with-trade-i/) — Strings · Medium
+- [Maximize Active Section with Trade II](./strings/3501-maximize-active-section-with-trade-ii/) — Strings · Hard
 - [Smallest Palindromic Rearrangement I](./strings/3517-smallest-palindromic-rearrangement-i/) — Strings · Medium
 - [Delete the Middle Node of a Linked List](./two-pointers/2095-delete-the-middle-node-of-a-linked-list/) — Two Pointers · Medium
 - [Intersection of Two Linked Lists](./two-pointers/0160-intersection-of-two-linked-lists/) — Two Pointers · Easy
