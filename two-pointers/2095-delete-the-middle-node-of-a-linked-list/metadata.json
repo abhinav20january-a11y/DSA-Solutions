@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-08-11T17:30:14.939Z",
+  "complexity": null,
+  "difficulty": "Medium",
+  "id": "09a2568d-a0a3-444c-b210-7029227c6634",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Two Pointers"
+}

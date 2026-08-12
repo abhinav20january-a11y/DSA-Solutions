@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 22 | 9 | 10 | 9 | 3 |
+| 30 | 10 | 13 | 14 | 3 |
 
 ## Quality automation
 
@@ -17,6 +17,8 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 ## Solutions
 
 - [3 sum](./arrays/3-sum/) — Arrays · Medium
+- [Capacity To Ship Packages Within D Days](./arrays/1011-capacity-to-ship-packages-within-d-days/) — Arrays · Medium
+- [Koko Eating Bananas](./arrays/0875-koko-eating-bananas/) — Arrays · Medium
 - [Maximize Active Section with Trade II](./arrays/maximize-active-section-with-trade-ii/) — Arrays · Hard
 - [Maximum Product of Three Numbers](./arrays/0628-maximum-product-of-three-numbers/) — Arrays · Easy
 - [Maximum Product of Two Elements in an Array](./arrays/1464-maximum-product-of-two-elements-in-an-array/) — Arrays · Easy
@@ -30,11 +32,17 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Minimum Number of Pushes to Type Word I](./greedy-algorithms/3014-minimum-number-of-pushes-to-type-word-i/) — Greedy Algorithms · Easy
 - [Find Missing Elements](./hash-tables/3731-find-missing-elements/) — Hash Tables · Easy
 - [Smallest Palindromic Rearrangement II](./hash-tables/3518-smallest-palindromic-rearrangement-ii/) — Hash Tables · Hard
+- [Add Two Numbers](./linked-lists/0002-add-two-numbers/) — Linked Lists · Medium
 - [Odd Even Linked List](./linked-lists/0328-odd-even-linked-list/) — Linked Lists · Medium
 - [Remove Linked List Elements](./linked-lists/0203-remove-linked-list-elements/) — Linked Lists · Easy
+- [Reverse Linked List](./linked-lists/0206-reverse-linked-list/) — Linked Lists · Easy
 - [Reverse Linked List II](./linked-lists/0092-reverse-linked-list-ii/) — Linked Lists · Medium
 - [Maximum Product of Two Digits](./math-geometry/3536-maximum-product-of-two-digits/) — Math & Geometry · Easy
+- [Min Stack](./stacks-queues/0155-min-stack/) — Stacks & Queues · Medium
 - [Maximize Active Section with Trade I](./strings/maximize-active-section-with-trade-i/) — Strings · Medium
 - [Smallest Palindromic Rearrangement I](./strings/3517-smallest-palindromic-rearrangement-i/) — Strings · Medium
+- [Delete the Middle Node of a Linked List](./two-pointers/2095-delete-the-middle-node-of-a-linked-list/) — Two Pointers · Medium
+- [Intersection of Two Linked Lists](./two-pointers/0160-intersection-of-two-linked-lists/) — Two Pointers · Easy
+- [Middle of the Linked List](./two-pointers/0876-middle-of-the-linked-list/) — Two Pointers · Easy
 - [Remove Nth Node From End of List](./two-pointers/0019-remove-nth-node-from-end-of-list/) — Two Pointers · Medium
 - [Sort List](./two-pointers/sort-list/) — Two Pointers · Medium

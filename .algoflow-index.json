@@ -173,5 +173,69 @@
     "folder": "dynamic-programming/0042-trapping-rain-water",
     "path": "dynamic-programming/0042-trapping-rain-water/solution.cpp",
     "pinned": false
+  },
+  "650e25ae-4282-4f69-9069-0aa22b060641": {
+    "name": "Capacity To Ship Packages Within D Days",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/1011-capacity-to-ship-packages-within-d-days",
+    "path": "arrays/1011-capacity-to-ship-packages-within-d-days/solution.cpp",
+    "pinned": false
+  },
+  "53b9f0d7-41ce-4402-b55c-191bee2dd06d": {
+    "name": "Koko Eating Bananas",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/0875-koko-eating-bananas",
+    "path": "arrays/0875-koko-eating-bananas/solution.cpp",
+    "pinned": false
+  },
+  "5b16df16-3443-45ee-b347-2d8ccd4f1dd6": {
+    "name": "Min Stack",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "folder": "stacks-queues/0155-min-stack",
+    "path": "stacks-queues/0155-min-stack/solution.cpp",
+    "pinned": false
+  },
+  "13504aca-5ebd-4092-8fa3-ed9a87bcab56": {
+    "name": "Reverse Linked List",
+    "topic": "Linked Lists",
+    "difficulty": "Easy",
+    "folder": "linked-lists/0206-reverse-linked-list",
+    "path": "linked-lists/0206-reverse-linked-list/solution.cpp",
+    "pinned": false
+  },
+  "8c23b6a2-6e32-4e50-b7b4-e8879d917a83": {
+    "name": "Add Two Numbers",
+    "topic": "Linked Lists",
+    "difficulty": "Medium",
+    "folder": "linked-lists/0002-add-two-numbers",
+    "path": "linked-lists/0002-add-two-numbers/solution.cpp",
+    "pinned": false
+  },
+  "7a407500-1eb6-499d-a539-a7ecd85afe0c": {
+    "name": "Middle of the Linked List",
+    "topic": "Two Pointers",
+    "difficulty": "Easy",
+    "folder": "two-pointers/0876-middle-of-the-linked-list",
+    "path": "two-pointers/0876-middle-of-the-linked-list/solution.cpp",
+    "pinned": false
+  },
+  "7b172868-a6fc-48e1-b49e-7c6c05e83731": {
+    "name": "Intersection of Two Linked Lists",
+    "topic": "Two Pointers",
+    "difficulty": "Easy",
+    "folder": "two-pointers/0160-intersection-of-two-linked-lists",
+    "path": "two-pointers/0160-intersection-of-two-linked-lists/solution.cpp",
+    "pinned": false
+  },
+  "09a2568d-a0a3-444c-b210-7029227c6634": {
+    "name": "Delete the Middle Node of a Linked List",
+    "topic": "Two Pointers",
+    "difficulty": "Medium",
+    "folder": "two-pointers/2095-delete-the-middle-node-of-a-linked-list",
+    "path": "two-pointers/2095-delete-the-middle-node-of-a-linked-list/solution.cpp",
+    "pinned": false
   }
 }
