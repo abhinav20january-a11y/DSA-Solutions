@@ -17,10 +17,10 @@
   },
   "c3331492-cdd8-4822-812f-1cf60b9e8008": {
     "name": "Merge Two Sorted Lists",
-    "topic": "Arrays",
+    "topic": "Linked Lists",
     "difficulty": "Easy",
-    "folder": "arrays/merge-two-sorted-lists",
-    "path": "arrays/merge-two-sorted-lists/solution.cpp",
+    "folder": "linked-lists/0021-merge-two-sorted-lists",
+    "path": "linked-lists/0021-merge-two-sorted-lists/solution.cpp",
     "pinned": false
   },
   "968d8b85-5671-4170-8001-5a55a88da651": {
