@@ -237,5 +237,13 @@
     "folder": "two-pointers/2095-delete-the-middle-node-of-a-linked-list",
     "path": "two-pointers/2095-delete-the-middle-node-of-a-linked-list/solution.cpp",
     "pinned": false
+  },
+  "fb48e629-1dad-4d6c-b9f3-3fa9ac2fd9cd": {
+    "name": "Next Greater Element I",
+    "topic": "Stacks & Queues",
+    "difficulty": "Easy",
+    "folder": "stacks-queues/0496-next-greater-element-i",
+    "path": "stacks-queues/0496-next-greater-element-i/solution.cpp",
+    "pinned": false
   }
 }
