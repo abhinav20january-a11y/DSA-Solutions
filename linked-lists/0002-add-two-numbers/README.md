@@ -2,10 +2,10 @@
 
 - **Topic:** Linked Lists
 - **Difficulty:** Medium
-- **Patterns:** Linked List, Math, Recursion
-- **Status:** Completed
+- **Patterns:** Not classified
+- **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/add-two-numbers/)
-- **Completed:** 2026-08-10T17:56:32.669Z
+- **Completed:** 2026-08-10T17:56:51.000Z
 
 ## Approach
 
