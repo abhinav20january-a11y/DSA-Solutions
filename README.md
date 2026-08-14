@@ -35,7 +35,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Odd Even Linked List](./linked-lists/0328-odd-even-linked-list/) — Linked Lists · Medium
 - [Remove Linked List Elements](./linked-lists/0203-remove-linked-list-elements/) — Linked Lists · Easy
 - [Reverse Linked List](./linked-lists/0206-reverse-linked-list/) — Linked Lists · Easy
-- [Reverse Linked List II](./linked-lists/0092-reverse-linked-list-ii/) — Linked Lists · Medium
+- [Reverse Linked List II](./linked-lists/reverse-linked-list-ii/) — Linked Lists · Medium
 - [Maximum Product of Two Digits](./math-geometry/3536-maximum-product-of-two-digits/) — Math & Geometry · Easy
 - [Min Stack](./stacks-queues/0155-min-stack/) — Stacks & Queues · Medium
 - [Next Greater Element I](./stacks-queues/0496-next-greater-element-i/) — Stacks & Queues · Easy
