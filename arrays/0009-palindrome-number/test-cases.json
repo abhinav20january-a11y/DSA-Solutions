@@ -4,17 +4,5 @@
     "id": "91d5ebf4-c3b9-4f29-ab27-ae679f9e3eb4",
     "input": "",
     "name": "Test 1"
-  },
-  {
-    "expected": "",
-    "id": "ae6bee50-9800-4d0f-8c08-cebf771ed792",
-    "input": "",
-    "name": "Test 2"
-  },
-  {
-    "expected": "",
-    "id": "e61329a1-a13d-4374-932e-48df731e093f",
-    "input": "",
-    "name": "Test 3"
   }
 ]

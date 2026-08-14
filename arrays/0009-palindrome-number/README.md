@@ -2,10 +2,10 @@
 
 - **Topic:** Arrays
 - **Difficulty:** Easy
-- **Patterns:** Two Pointers
-- **Status:** Completed
+- **Patterns:** Not classified
+- **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/palindrome-number/)
-- **Completed:** 2026-08-02T13:32:22.336Z
+- **Completed:** 2026-07-15T08:43:58.000Z
 
 ## Approach
 
@@ -13,6 +13,6 @@ Add your explanation in AlgoFlow.
 
 ## Complexity
 
-- **Estimated time:** O(reversedHalf)
-- **Estimated auxiliary space:** O(1)
-- **Confidence:** 84%
+- **Estimated time:** Not analysed
+- **Estimated auxiliary space:** Not analysed
+- **Confidence:** Not available
