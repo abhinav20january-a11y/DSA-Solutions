@@ -18,8 +18,11 @@ public:
 
 
         }
+        if(minl==INT_MAX){
+            return 0;
+        }
         return minl;
-        
+
 
         
     }
