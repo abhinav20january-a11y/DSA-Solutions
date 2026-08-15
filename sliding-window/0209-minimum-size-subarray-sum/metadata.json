@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-08-15T14:06:07.328Z",
+  "complexity": null,
+  "difficulty": "Medium",
+  "id": "535c4f4d-9e1c-4b4f-bbb5-0f5994ebd406",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Sliding Window"
+}

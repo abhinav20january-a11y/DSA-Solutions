@@ -245,5 +245,13 @@
     "folder": "stacks-queues/0496-next-greater-element-i",
     "path": "stacks-queues/0496-next-greater-element-i/solution.cpp",
     "pinned": false
+  },
+  "535c4f4d-9e1c-4b4f-bbb5-0f5994ebd406": {
+    "name": "Minimum Size Subarray Sum",
+    "topic": "Sliding Window",
+    "difficulty": "Medium",
+    "folder": "sliding-window/0209-minimum-size-subarray-sum",
+    "path": "sliding-window/0209-minimum-size-subarray-sum/solution.cpp",
+    "pinned": false
   }
 }
