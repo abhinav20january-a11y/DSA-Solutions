@@ -5,7 +5,7 @@
 - **Patterns:** Array, Binary Search, Sliding Window, Prefix Sum
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/minimum-size-subarray-sum/)
-- **Completed:** 2026-08-15T14:07:32.274Z
+- **Completed:** 2026-08-15T14:29:27.593Z
 
 ## Approach
 

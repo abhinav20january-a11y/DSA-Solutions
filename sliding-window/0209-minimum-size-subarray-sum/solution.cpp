@@ -8,13 +8,13 @@ public:
         int sum=0;
         while(r<n){
             sum+=nums[r];
-            while(sum>=target){
-                 minl=min(minl,r-l+1);
-                 sum-=nums[l];
-                 l++;
-            }
-          
-            r++;
+        while(sum>=target){
+                minl=min(minl,r-l+1);
+              sum-=nums[l];
+             l++;
+        }
+           
+         r++;
 
 
         }
