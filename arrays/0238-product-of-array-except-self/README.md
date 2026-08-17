@@ -5,7 +5,7 @@
 - **Patterns:** Array, Prefix Sum
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/product-of-array-except-self/)
-- **Completed:** 2026-08-17T18:48:20.862Z
+- **Completed:** 2026-08-17T18:48:26.623Z
 
 ## Approach
 
