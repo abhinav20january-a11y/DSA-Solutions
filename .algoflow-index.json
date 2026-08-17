@@ -269,5 +269,13 @@
     "folder": "stacks-queues/0503-next-greater-element-ii",
     "path": "stacks-queues/0503-next-greater-element-ii/solution.cpp",
     "pinned": false
+  },
+  "131d8dde-8f93-43d6-b290-0d1dd1c5da0f": {
+    "name": "Product of Array Except Self",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/0238-product-of-array-except-self",
+    "path": "arrays/0238-product-of-array-except-self/solution.cpp",
+    "pinned": false
   }
 }

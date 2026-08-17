@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-08-17T18:48:20.862Z",
+  "complexity": null,
+  "difficulty": "Medium",
+  "id": "131d8dde-8f93-43d6-b290-0d1dd1c5da0f",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/product-of-array-except-self/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Arrays"
+}
