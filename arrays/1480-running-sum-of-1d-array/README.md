@@ -5,7 +5,7 @@
 - **Patterns:** Array, Prefix Sum
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/running-sum-of-1d-array/)
-- **Completed:** 2026-08-17T08:19:12.187Z
+- **Completed:** 2026-08-17T08:19:20.331Z
 
 ## Approach
 
