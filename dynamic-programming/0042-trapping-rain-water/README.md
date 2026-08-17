@@ -5,7 +5,7 @@
 - **Patterns:** Not classified
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/trapping-rain-water/)
-- **Completed:** 2026-08-17T19:09:24.761Z
+- **Completed:** 2026-08-17T19:09:33.980Z
 
 ## Approach
 
