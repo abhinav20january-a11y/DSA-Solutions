@@ -5,7 +5,7 @@
 - **Patterns:** Hash Table, Linked List, Two Pointers
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/intersection-of-two-linked-lists/)
-- **Completed:** 2026-08-11T16:32:58.963Z
+- **Completed:** 2026-08-17T15:53:43.665Z
 
 ## Approach
 
