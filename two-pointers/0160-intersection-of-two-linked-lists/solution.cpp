@@ -8,10 +8,11 @@
  */
 class Solution {
 public:
-    ListNode *collision(ListNode *headA, ListNode *headB,int n){
-        ListNode *t1=headA;
+    ListNode *collison(ListNode *headA, ListNode *headB,int n){
+        ListNode *t1=headB;
         while(n){
             t1=t1->next;
+            n--;
         }
         ListNode *t2=headA;
         while(t1!=t2){
@@ -25,6 +26,7 @@ public:
     }
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
         ListNode *temp=headA;
+        ListNode *temp2=headB;
         int cnt1=0;
         while(temp){
             cnt1++;
@@ -32,7 +34,7 @@ public:
             
         }
         int cnt2=0;
-        while(temp2)2{
+        while(temp2){
             cnt2++;
             temp2=temp2->next;
             
