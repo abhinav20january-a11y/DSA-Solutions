@@ -277,5 +277,13 @@
     "folder": "arrays/0238-product-of-array-except-self",
     "path": "arrays/0238-product-of-array-except-self/solution.cpp",
     "pinned": false
+  },
+  "2a199a59-05a9-4888-8d12-dc1a572fc855": {
+    "name": "Range Sum Query - Immutable",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/0303-range-sum-query-immutable",
+    "path": "arrays/0303-range-sum-query-immutable/solution.cpp",
+    "pinned": false
   }
 }
