@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-08-17T17:34:53.140Z",
+  "complexity": null,
+  "difficulty": "Medium",
+  "id": "f4b00f0d-91b4-494a-a409-42b15202c059",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/next-greater-element-ii/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Stacks & Queues"
+}

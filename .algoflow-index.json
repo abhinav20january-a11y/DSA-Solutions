@@ -261,5 +261,13 @@
     "folder": "arrays/1480-running-sum-of-1d-array",
     "path": "arrays/1480-running-sum-of-1d-array/solution.cpp",
     "pinned": false
+  },
+  "f4b00f0d-91b4-494a-a409-42b15202c059": {
+    "name": "Next Greater Element II",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "folder": "stacks-queues/0503-next-greater-element-ii",
+    "path": "stacks-queues/0503-next-greater-element-ii/solution.cpp",
+    "pinned": false
   }
 }

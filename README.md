@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 33 | 11 | 15 | 15 | 3 |
+| 34 | 11 | 15 | 16 | 3 |
 
 ## Quality automation
 
@@ -41,6 +41,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Minimum Size Subarray Sum](./sliding-window/0209-minimum-size-subarray-sum/) — Sliding Window · Medium
 - [Min Stack](./stacks-queues/0155-min-stack/) — Stacks & Queues · Medium
 - [Next Greater Element I](./stacks-queues/0496-next-greater-element-i/) — Stacks & Queues · Easy
+- [Next Greater Element II](./stacks-queues/0503-next-greater-element-ii/) — Stacks & Queues · Medium
 - [Maximize Active Section with Trade I](./strings/maximize-active-section-with-trade-i/) — Strings · Medium
 - [Maximize Active Section with Trade II](./strings/3501-maximize-active-section-with-trade-ii/) — Strings · Hard
 - [Smallest Palindromic Rearrangement I](./strings/3517-smallest-palindromic-rearrangement-i/) — Strings · Medium
