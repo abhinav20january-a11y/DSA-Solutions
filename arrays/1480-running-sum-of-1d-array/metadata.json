@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-08-17T08:12:09.627Z",
+  "complexity": null,
+  "difficulty": "Easy",
+  "id": "a2a6c326-7025-446b-9aa4-af20f78d8f9b",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/running-sum-of-1d-array/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Arrays"
+}

@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 32 | 11 | 14 | 15 | 3 |
+| 33 | 11 | 15 | 15 | 3 |
 
 ## Quality automation
 
@@ -23,6 +23,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Maximum Product of Two Elements in an Array](./arrays/1464-maximum-product-of-two-elements-in-an-array/) — Arrays · Easy
 - [Palindrome Number](./arrays/0009-palindrome-number/) — Arrays · Easy
 - [Remove Element](./arrays/0027-remove-element/) — Arrays · Easy
+- [Running Sum of 1d Array](./arrays/1480-running-sum-of-1d-array/) — Arrays · Easy
 - [Two Sum](./arrays/two-sum/) — Arrays · Easy
 - [Number of Unique XOR Triplets I](./bit-manipulation/3513-number-of-unique-xor-triplets-i/) — Bit Manipulation · Medium
 - [Number of Unique XOR Triplets II](./bit-manipulation/3514-number-of-unique-xor-triplets-ii/) — Bit Manipulation · Medium

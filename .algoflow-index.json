@@ -253,5 +253,13 @@
     "folder": "sliding-window/0209-minimum-size-subarray-sum",
     "path": "sliding-window/0209-minimum-size-subarray-sum/solution.cpp",
     "pinned": false
+  },
+  "a2a6c326-7025-446b-9aa4-af20f78d8f9b": {
+    "name": "Running Sum of 1d Array",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/1480-running-sum-of-1d-array",
+    "path": "arrays/1480-running-sum-of-1d-array/solution.cpp",
+    "pinned": false
   }
 }
