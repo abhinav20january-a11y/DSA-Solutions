@@ -5,7 +5,7 @@
 - **Patterns:** Array, Stack, Monotonic Stack
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/next-greater-element-ii/)
-- **Completed:** 2026-08-17T17:34:53.140Z
+- **Completed:** 2026-08-17T17:35:21.012Z
 
 ## Approach
 
