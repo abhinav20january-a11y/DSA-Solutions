@@ -2,10 +2,10 @@
 
 - **Topic:** Dynamic Programming
 - **Difficulty:** Hard
-- **Patterns:** Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack
+- **Patterns:** Not classified
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/trapping-rain-water/)
-- **Completed:** 2026-08-05T16:49:57.528Z
+- **Completed:** 2026-08-17T19:09:24.761Z
 
 ## Approach
 
