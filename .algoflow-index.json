@@ -285,5 +285,13 @@
     "folder": "arrays/0303-range-sum-query-immutable",
     "path": "arrays/0303-range-sum-query-immutable/solution.cpp",
     "pinned": false
+  },
+  "f2ef102c-c679-4a4b-9765-61bec670ad03": {
+    "name": "Next Smaller Element",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/next-smaller-element",
+    "path": "arrays/next-smaller-element/solution.cpp",
+    "pinned": false
   }
 }
