@@ -2,7 +2,7 @@
 
 - **Topic:** Arrays
 - **Difficulty:** Easy
-- **Patterns:** Array, Design, Prefix Sum
+- **Patterns:** Not classified
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/range-sum-query-immutable/)
 - **Completed:** 2026-08-18T16:11:53.443Z
