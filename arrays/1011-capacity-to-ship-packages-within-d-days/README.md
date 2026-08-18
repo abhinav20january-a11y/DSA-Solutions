@@ -2,7 +2,7 @@
 
 - **Topic:** Arrays
 - **Difficulty:** Medium
-- **Patterns:** Array, Binary Search
+- **Patterns:** Not classified
 - **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 - **Completed:** 2026-08-10T17:52:19.974Z
