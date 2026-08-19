@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 37 | 11 | 16 | 18 | 3 |
+| 38 | 11 | 16 | 19 | 3 |
 
 ## Quality automation
 
@@ -30,6 +30,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Two Sum](./arrays/two-sum/) — Arrays · Easy
 - [Number of Unique XOR Triplets I](./bit-manipulation/3513-number-of-unique-xor-triplets-i/) — Bit Manipulation · Medium
 - [Number of Unique XOR Triplets II](./bit-manipulation/3514-number-of-unique-xor-triplets-ii/) — Bit Manipulation · Medium
+- [Sum of Subarray Minimums](./dynamic-programming/0907-sum-of-subarray-minimums/) — Dynamic Programming · Medium
 - [Trapping Rain Water](./dynamic-programming/0042-trapping-rain-water/) — Dynamic Programming · Hard
 - [Minimum Number of Pushes to Type Word I](./greedy-algorithms/3014-minimum-number-of-pushes-to-type-word-i/) — Greedy Algorithms · Easy
 - [Find Missing Elements](./hash-tables/3731-find-missing-elements/) — Hash Tables · Easy
