@@ -1,6 +1,87 @@
 {
-  "completedAt": "2026-08-17T18:51:22.537Z",
-  "complexity": null,
+  "completedAt": "2026-08-17T18:51:10.000Z",
+  "complexity": {
+    "astAvailable": true,
+    "auxiliarySpace": "O(n)",
+    "averageTime": "O(n)",
+    "bestTime": "O(1)",
+    "callGraph": [],
+    "confidence": 91,
+    "disclaimer": "Estimate, not a mathematical proof. Data-dependent branches, library internals and amortized behaviour can change the bound.",
+    "engine": "Apple Clang AST",
+    "explanation": "Clang structurally linked loop bounds to n.",
+    "findings": [
+      {
+        "detail": "Clang linked this loop bound to n.",
+        "kind": "time",
+        "label": "Symbolic loop over n",
+        "line": 10,
+        "snippet": "for(int i=1;i<nums.size();i++)",
+        "weight": 3
+      },
+      {
+        "detail": "Clang linked this loop bound to n.",
+        "kind": "time",
+        "label": "Symbolic loop over n",
+        "line": 16,
+        "snippet": "for(int i=n-2;i>=0;i--)",
+        "weight": 3
+      },
+      {
+        "detail": "Clang linked this loop bound to n.",
+        "kind": "time",
+        "label": "Symbolic loop over n",
+        "line": 19,
+        "snippet": "for(int i=0;i<n;i++)",
+        "weight": 3
+      },
+      {
+        "detail": "This container can grow with the input size.",
+        "kind": "space",
+        "label": "Dynamic container",
+        "line": 3,
+        "snippet": "vector<int> productExceptSelf(vector<int>& nums) {",
+        "weight": 1
+      },
+      {
+        "detail": "This container can grow with the input size.",
+        "kind": "space",
+        "label": "Dynamic container",
+        "line": 4,
+        "snippet": "vector<int>arr(nums.size());",
+        "weight": 1
+      },
+      {
+        "detail": "This container can grow with the input size.",
+        "kind": "space",
+        "label": "Dynamic container",
+        "line": 5,
+        "snippet": "vector<int>prefix(nums.size());",
+        "weight": 1
+      },
+      {
+        "detail": "This container can grow with the input size.",
+        "kind": "space",
+        "label": "Dynamic container",
+        "line": 11,
+        "snippet": "vector<int>suffix(nums.size());",
+        "weight": 1
+      }
+    ],
+    "functionComplexities": [
+      {
+        "complexity": "O(n)",
+        "name": "productExceptSelf",
+        "symbols": {
+          "nums": "n"
+        }
+      }
+    ],
+    "symbolicVariables": [
+      "n"
+    ],
+    "worstTime": "O(n)"
+  },
   "difficulty": "Medium",
   "id": "131d8dde-8f93-43d6-b290-0d1dd1c5da0f",
   "patterns": [],
