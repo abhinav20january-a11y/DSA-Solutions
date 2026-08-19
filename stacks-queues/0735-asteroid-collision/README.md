@@ -5,7 +5,7 @@
 - **Patterns:** Array, Stack, Simulation
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/asteroid-collision/)
-- **Completed:** 2026-08-19T10:54:13.478Z
+- **Completed:** 2026-08-19T10:54:26.104Z
 
 ## Approach
 

@@ -14,7 +14,7 @@ public:
 
                 }
 
-            }
+            
             if(!ls.empty() && ls.back()==abs(asteroids[i])){
                 ls.pop_back();
 
@@ -22,8 +22,8 @@ public:
             else if(ls.empty() || ls.back()<0){
                 ls.push_back(asteroids[i]);
             }
-        }
-        return ls;
+        }}
+         return vector<int>(ls.begin(), ls.end());
 
         
        
