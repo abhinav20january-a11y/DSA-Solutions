@@ -301,5 +301,13 @@
     "folder": "dynamic-programming/0907-sum-of-subarray-minimums",
     "path": "dynamic-programming/0907-sum-of-subarray-minimums/solution.cpp",
     "pinned": false
+  },
+  "8471cdd6-f849-4c01-98eb-00898715320e": {
+    "name": "Asteroid Collision",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "folder": "stacks-queues/0735-asteroid-collision",
+    "path": "stacks-queues/0735-asteroid-collision/solution.cpp",
+    "pinned": false
   }
 }

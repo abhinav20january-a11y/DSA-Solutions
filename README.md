@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 38 | 11 | 16 | 19 | 3 |
+| 39 | 11 | 16 | 20 | 3 |
 
 ## Quality automation
 
@@ -43,6 +43,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Reverse Linked List II](./linked-lists/reverse-linked-list-ii/) — Linked Lists · Medium
 - [Maximum Product of Two Digits](./math-geometry/3536-maximum-product-of-two-digits/) — Math & Geometry · Easy
 - [Minimum Size Subarray Sum](./sliding-window/0209-minimum-size-subarray-sum/) — Sliding Window · Medium
+- [Asteroid Collision](./stacks-queues/0735-asteroid-collision/) — Stacks & Queues · Medium
 - [Min Stack](./stacks-queues/0155-min-stack/) — Stacks & Queues · Medium
 - [Next Greater Element I](./stacks-queues/0496-next-greater-element-i/) — Stacks & Queues · Easy
 - [Next Greater Element II](./stacks-queues/0503-next-greater-element-ii/) — Stacks & Queues · Medium
