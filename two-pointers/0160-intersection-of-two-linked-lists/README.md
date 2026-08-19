@@ -2,10 +2,10 @@
 
 - **Topic:** Two Pointers
 - **Difficulty:** Easy
-- **Patterns:** Hash Table, Linked List, Two Pointers
-- **Status:** Completed
+- **Patterns:** Not classified
+- **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/intersection-of-two-linked-lists/)
-- **Completed:** 2026-08-17T15:54:31.445Z
+- **Completed:** 2026-08-17T15:53:46.000Z
 
 ## Approach
 
