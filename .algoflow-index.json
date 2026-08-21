@@ -309,5 +309,13 @@
     "folder": "stacks-queues/0735-asteroid-collision",
     "path": "stacks-queues/0735-asteroid-collision/solution.cpp",
     "pinned": false
+  },
+  "2e755633-3e05-42b0-8146-c97fa8858f82": {
+    "name": "Daily Temperatures",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "folder": "stacks-queues/0739-daily-temperatures",
+    "path": "stacks-queues/0739-daily-temperatures/solution.cpp",
+    "pinned": false
   }
 }
