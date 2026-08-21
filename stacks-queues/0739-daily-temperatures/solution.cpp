@@ -12,6 +12,7 @@ public:
             }
             if(st.empty()){
                 arr[i]=0;
+                cnt++;
 
             }
             else{
