@@ -5,7 +5,7 @@
 - **Patterns:** Array, Stack, Monotonic Stack
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/daily-temperatures/)
-- **Completed:** 2026-08-21T17:34:30.965Z
+- **Completed:** 2026-08-21T17:37:20.437Z
 
 ## Approach
 
