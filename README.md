@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 40 | 11 | 16 | 21 | 3 |
+| 41 | 11 | 17 | 21 | 3 |
 
 ## Quality automation
 
@@ -34,6 +34,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Trapping Rain Water](./dynamic-programming/0042-trapping-rain-water/) — Dynamic Programming · Hard
 - [Minimum Number of Pushes to Type Word I](./greedy-algorithms/3014-minimum-number-of-pushes-to-type-word-i/) — Greedy Algorithms · Easy
 - [Find Missing Elements](./hash-tables/3731-find-missing-elements/) — Hash Tables · Easy
+- [How Many Numbers Are Smaller Than the Current Number](./hash-tables/1365-how-many-numbers-are-smaller-than-the-current-number/) — Hash Tables · Easy
 - [Smallest Palindromic Rearrangement II](./hash-tables/3518-smallest-palindromic-rearrangement-ii/) — Hash Tables · Hard
 - [Add Two Numbers](./linked-lists/0002-add-two-numbers/) — Linked Lists · Medium
 - [Merge Two Sorted Lists](./linked-lists/0021-merge-two-sorted-lists/) — Linked Lists · Easy

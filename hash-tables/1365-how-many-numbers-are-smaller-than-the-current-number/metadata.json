@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-08-23T18:17:01.564Z",
+  "complexity": null,
+  "difficulty": "Easy",
+  "id": "f51d2a96-c323-4bef-a0db-1b30deb58fc2",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Hash Tables"
+}
