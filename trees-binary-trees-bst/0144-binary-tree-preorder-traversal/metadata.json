@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-08-24T07:31:55.509Z",
+  "complexity": null,
+  "difficulty": "Easy",
+  "id": "a490761c-fba2-45aa-b291-aae78ab35230",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Trees (Binary Trees, BST)"
+}

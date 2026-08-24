@@ -325,5 +325,13 @@
     "folder": "hash-tables/1365-how-many-numbers-are-smaller-than-the-current-number",
     "path": "hash-tables/1365-how-many-numbers-are-smaller-than-the-current-number/solution.cpp",
     "pinned": false
+  },
+  "a490761c-fba2-45aa-b291-aae78ab35230": {
+    "name": "Binary Tree Preorder Traversal",
+    "topic": "Trees (Binary Trees, BST)",
+    "difficulty": "Easy",
+    "folder": "trees-binary-trees-bst/0144-binary-tree-preorder-traversal",
+    "path": "trees-binary-trees-bst/0144-binary-tree-preorder-traversal/solution.cpp",
+    "pinned": false
   }
 }
