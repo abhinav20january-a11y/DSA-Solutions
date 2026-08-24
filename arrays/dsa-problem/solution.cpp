@@ -14,7 +14,7 @@ int main(){
     root->left=new treenode(5);
     root->right=new treenode(8);
     cout<<root->left->data;
-
+  
 
 
 
