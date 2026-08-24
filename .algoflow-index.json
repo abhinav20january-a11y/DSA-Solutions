@@ -337,7 +337,7 @@
   "5f51921e-5e5d-4a82-bc3e-c314e0cb5ab4": {
     "name": "Preorder Traversal",
     "topic": "Arrays",
-    "difficulty": "Medium",
+    "difficulty": "Easy",
     "folder": "arrays/preorder-traversal",
     "path": "arrays/preorder-traversal/solution.cpp",
     "pinned": false

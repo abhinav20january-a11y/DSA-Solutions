@@ -1,11 +1,11 @@
 {
-  "completedAt": "2026-08-24T08:16:54.941Z",
+  "completedAt": "2026-08-24T19:55:16.012Z",
   "complexity": null,
-  "difficulty": "Medium",
+  "difficulty": "Easy",
   "id": "5f51921e-5e5d-4a82-bc3e-c314e0cb5ab4",
   "patterns": [],
   "pinned": false,
-  "source": "https://www.geeksforgeeks.org/problems/preorder-traversal/1",
+  "source": "https://www.geeksforgeeks.org/problems/preorder-traversal",
   "syncedBy": "AlgoFlow",
   "topic": "Arrays"
 }

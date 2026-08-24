@@ -1,11 +1,11 @@
 # Preorder Traversal
 
 - **Topic:** Arrays
-- **Difficulty:** Medium
+- **Difficulty:** Easy
 - **Patterns:** Not classified
 - **Status:** Completed
-- **Problem:** [Open original](https://www.geeksforgeeks.org/problems/preorder-traversal/1)
-- **Completed:** 2026-08-24T08:16:54.941Z
+- **Problem:** [Open original](https://www.geeksforgeeks.org/problems/preorder-traversal)
+- **Completed:** 2026-08-24T19:55:16.012Z
 
 ## Approach
 
