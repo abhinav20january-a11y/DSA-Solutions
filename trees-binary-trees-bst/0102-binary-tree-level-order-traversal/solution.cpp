@@ -29,7 +29,7 @@ public:
                 q.push(ne->left);
             }
             if(ne->right!=NULL){
-                q.push(ne->left);
+                q.push(ne->right);
             }
             arr.push_back(ne->val);
             }
