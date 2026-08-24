@@ -5,7 +5,7 @@
 - **Patterns:** Stack, Tree, Depth-First Search, Binary Tree
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/binary-tree-preorder-traversal/)
-- **Completed:** 2026-08-24T07:31:55.509Z
+- **Completed:** 2026-08-24T07:32:07.566Z
 
 ## Approach
 
