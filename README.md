@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 44 | 12 | 19 | 22 | 3 |
+| 45 | 12 | 19 | 23 | 3 |
 
 ## Quality automation
 
@@ -18,6 +18,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 
 - [3 sum](./arrays/3-sum/) — Arrays · Medium
 - [Capacity To Ship Packages Within D Days](./arrays/1011-capacity-to-ship-packages-within-d-days/) — Arrays · Medium
+- [DSA Problem](./arrays/dsa-problem/) — Arrays · Medium
 - [Koko Eating Bananas](./arrays/0875-koko-eating-bananas/) — Arrays · Medium
 - [Maximum Product of Three Numbers](./arrays/0628-maximum-product-of-three-numbers/) — Arrays · Easy
 - [Maximum Product of Two Elements in an Array](./arrays/1464-maximum-product-of-two-elements-in-an-array/) — Arrays · Easy

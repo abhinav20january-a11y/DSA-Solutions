@@ -349,5 +349,13 @@
     "folder": "trees-binary-trees-bst/0102-binary-tree-level-order-traversal",
     "path": "trees-binary-trees-bst/0102-binary-tree-level-order-traversal/solution.cpp",
     "pinned": false
+  },
+  "gfg-arr-5": {
+    "name": "DSA Problem",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/dsa-problem",
+    "path": "arrays/dsa-problem/solution.cpp",
+    "pinned": false
   }
 }
