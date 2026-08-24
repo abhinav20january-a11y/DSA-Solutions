@@ -3,9 +3,9 @@
 - **Topic:** Stacks & Queues
 - **Difficulty:** Easy
 - **Patterns:** Array, Hash Table, Stack, Monotonic Stack
-- **Status:** Completed
+- **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/next-greater-element-i/)
-- **Completed:** 2026-08-17T16:08:16.029Z
+- **Completed:** 2026-08-13T16:29:04.000Z
 
 ## Approach
 

@@ -3,9 +3,9 @@
 - **Topic:** Sliding Window
 - **Difficulty:** Medium
 - **Patterns:** Array, Binary Search, Sliding Window, Prefix Sum
-- **Status:** Completed
+- **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/minimum-size-subarray-sum/)
-- **Completed:** 2026-08-15T14:40:00.176Z
+- **Completed:** 2026-08-15T14:29:27.000Z
 
 ## Approach
 

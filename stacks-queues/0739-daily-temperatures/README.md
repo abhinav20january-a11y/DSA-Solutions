@@ -3,9 +3,9 @@
 - **Topic:** Stacks & Queues
 - **Difficulty:** Medium
 - **Patterns:** Array, Stack, Monotonic Stack
-- **Status:** Completed
+- **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/daily-temperatures/)
-- **Completed:** 2026-08-21T17:37:20.437Z
+- **Completed:** 2026-08-21T17:34:20.000Z
 
 ## Approach
 

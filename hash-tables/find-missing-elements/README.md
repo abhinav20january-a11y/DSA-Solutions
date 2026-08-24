@@ -1,8 +1,8 @@
-# 3731. Find Missing Elements
+# Find Missing Elements
 
 - **Topic:** Hash Tables
 - **Difficulty:** Easy
-- **Patterns:** Array, Hash Table, Sorting
+- **Patterns:** Not classified
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/find-missing-elements/)
 - **Completed:** 2026-08-04T18:23:52.278Z

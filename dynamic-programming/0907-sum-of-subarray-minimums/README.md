@@ -3,9 +3,9 @@
 - **Topic:** Dynamic Programming
 - **Difficulty:** Medium
 - **Patterns:** Array, Dynamic Programming, Stack, Monotonic Stack
-- **Status:** Completed
+- **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/sum-of-subarray-minimums/)
-- **Completed:** 2026-08-19T08:50:04.278Z
+- **Completed:** 2026-08-19T08:50:06.324Z
 
 ## Approach
 

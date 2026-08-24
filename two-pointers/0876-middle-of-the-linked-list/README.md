@@ -3,9 +3,9 @@
 - **Topic:** Two Pointers
 - **Difficulty:** Easy
 - **Patterns:** Linked List, Two Pointers
-- **Status:** Completed
+- **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/middle-of-the-linked-list/)
-- **Completed:** 2026-08-11T16:27:36.486Z
+- **Completed:** 2026-08-11T16:27:44.000Z
 
 ## Approach
 

@@ -1,47 +1,6 @@
 {
   "completedAt": "2026-07-27T17:17:56.000Z",
-  "complexity": {
-    "astAvailable": true,
-    "auxiliarySpace": "O(n)",
-    "averageTime": "O(n)",
-    "bestTime": "O(1)",
-    "callGraph": [],
-    "confidence": 84,
-    "disclaimer": "Estimate, not a mathematical proof. Data-dependent branches, library internals and amortized behaviour can change the bound.",
-    "engine": "Apple Clang AST",
-    "explanation": "Clang structurally linked loop bounds to n.",
-    "findings": [
-      {
-        "detail": "Clang linked this loop bound to n.",
-        "kind": "time",
-        "label": "Symbolic loop over n",
-        "line": 9,
-        "snippet": "for (int x : nums)",
-        "weight": 3
-      },
-      {
-        "detail": "This container can grow with the input size.",
-        "kind": "space",
-        "label": "Dynamic container",
-        "line": 3,
-        "snippet": "int maxProduct(vector<int>& nums) {",
-        "weight": 1
-      }
-    ],
-    "functionComplexities": [
-      {
-        "complexity": "O(n)",
-        "name": "maxProduct",
-        "symbols": {
-          "nums": "n"
-        }
-      }
-    ],
-    "symbolicVariables": [
-      "n"
-    ],
-    "worstTime": "O(n)"
-  },
+  "complexity": null,
   "difficulty": "Easy",
   "id": "2e111e72-86d2-4e6d-9ac6-273b56f876c9",
   "patterns": [],

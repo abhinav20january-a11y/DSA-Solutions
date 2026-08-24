@@ -3,9 +3,9 @@
 - **Topic:** Arrays
 - **Difficulty:** Easy
 - **Patterns:** Not classified
-- **Status:** Completed
+- **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/range-sum-query-immutable/)
-- **Completed:** 2026-08-18T16:11:53.443Z
+- **Completed:** 2026-08-18T16:11:38.000Z
 
 ## Approach
 

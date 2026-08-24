@@ -5,7 +5,7 @@
 - **Patterns:** Not classified
 - **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- **Completed:** 2026-08-10T16:44:40.706Z
+- **Completed:** 2026-08-20T15:44:21.793Z
 
 ## Approach
 

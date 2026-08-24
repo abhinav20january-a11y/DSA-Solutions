@@ -3,9 +3,9 @@
 - **Topic:** Linked Lists
 - **Difficulty:** Easy
 - **Patterns:** Linked List, Recursion
-- **Status:** Completed
+- **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/reverse-linked-list/)
-- **Completed:** 2026-08-20T16:40:57.421Z
+- **Completed:** 2026-08-20T16:40:48.000Z
 
 ## Approach
 

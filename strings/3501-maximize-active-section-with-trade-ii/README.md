@@ -3,9 +3,9 @@
 - **Topic:** Strings
 - **Difficulty:** Hard
 - **Patterns:** Not classified
-- **Status:** Completed
+- **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/maximize-active-section-with-trade-ii/)
-- **Completed:** 2026-08-12T17:06:48.599Z
+- **Completed:** 2026-07-22T18:24:38.000Z
 
 ## Approach
 

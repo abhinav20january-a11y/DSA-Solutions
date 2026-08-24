@@ -130,16 +130,16 @@
     "name": "Find Missing Elements",
     "topic": "Hash Tables",
     "difficulty": "Easy",
-    "folder": "hash-tables/3731-find-missing-elements",
-    "path": "hash-tables/3731-find-missing-elements/solution.cpp",
+    "folder": "hash-tables/find-missing-elements",
+    "path": "hash-tables/find-missing-elements/solution.cpp",
     "pinned": false
   },
   "cb8d875f-3771-4163-9c53-321470b9d89e": {
     "name": "Odd Even Linked List",
     "topic": "Linked Lists",
     "difficulty": "Medium",
-    "folder": "linked-lists/0328-odd-even-linked-list",
-    "path": "linked-lists/0328-odd-even-linked-list/solution.cpp",
+    "folder": "linked-lists/odd-even-linked-list",
+    "path": "linked-lists/odd-even-linked-list/solution.cpp",
     "pinned": false
   },
   "b8a9d978-655f-4f02-833a-87e99e6e6908": {

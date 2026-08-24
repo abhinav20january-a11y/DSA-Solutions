@@ -33,12 +33,12 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Sum of Subarray Minimums](./dynamic-programming/0907-sum-of-subarray-minimums/) — Dynamic Programming · Medium
 - [Trapping Rain Water](./dynamic-programming/0042-trapping-rain-water/) — Dynamic Programming · Hard
 - [Minimum Number of Pushes to Type Word I](./greedy-algorithms/3014-minimum-number-of-pushes-to-type-word-i/) — Greedy Algorithms · Easy
-- [Find Missing Elements](./hash-tables/3731-find-missing-elements/) — Hash Tables · Easy
+- [Find Missing Elements](./hash-tables/find-missing-elements/) — Hash Tables · Easy
 - [How Many Numbers Are Smaller Than the Current Number](./hash-tables/1365-how-many-numbers-are-smaller-than-the-current-number/) — Hash Tables · Easy
 - [Smallest Palindromic Rearrangement II](./hash-tables/3518-smallest-palindromic-rearrangement-ii/) — Hash Tables · Hard
 - [Add Two Numbers](./linked-lists/0002-add-two-numbers/) — Linked Lists · Medium
 - [Merge Two Sorted Lists](./linked-lists/0021-merge-two-sorted-lists/) — Linked Lists · Easy
-- [Odd Even Linked List](./linked-lists/0328-odd-even-linked-list/) — Linked Lists · Medium
+- [Odd Even Linked List](./linked-lists/odd-even-linked-list/) — Linked Lists · Medium
 - [Remove Linked List Elements](./linked-lists/0203-remove-linked-list-elements/) — Linked Lists · Easy
 - [Reverse Linked List](./linked-lists/0206-reverse-linked-list/) — Linked Lists · Easy
 - [Reverse Linked List II](./linked-lists/reverse-linked-list-ii/) — Linked Lists · Medium

@@ -3,9 +3,9 @@
 - **Topic:** Two Pointers
 - **Difficulty:** Medium
 - **Patterns:** Linked List, Two Pointers
-- **Status:** Completed
+- **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
-- **Completed:** 2026-08-11T17:30:14.939Z
+- **Completed:** 2026-08-11T17:31:46.000Z
 
 ## Approach
 

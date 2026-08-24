@@ -3,9 +3,9 @@
 - **Topic:** Stacks & Queues
 - **Difficulty:** Medium
 - **Patterns:** Not classified
-- **Status:** Completed
+- **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/asteroid-collision/)
-- **Completed:** 2026-08-19T10:54:50.059Z
+- **Completed:** 2026-08-19T10:54:17.000Z
 
 ## Approach
 

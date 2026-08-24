@@ -3,7 +3,7 @@
 - **Topic:** Arrays
 - **Difficulty:** Medium
 - **Patterns:** Array, Binary Search
-- **Status:** Completed
+- **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/koko-eating-bananas/)
 - **Completed:** 2026-08-10T17:58:58.952Z
 
