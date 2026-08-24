@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 42 | 12 | 18 | 21 | 3 |
+| 43 | 12 | 18 | 22 | 3 |
 
 ## Quality automation
 
@@ -23,6 +23,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Maximum Product of Two Elements in an Array](./arrays/1464-maximum-product-of-two-elements-in-an-array/) — Arrays · Easy
 - [Next Smaller Element](./arrays/next-smaller-element/) — Arrays · Medium
 - [Palindrome Number](./arrays/0009-palindrome-number/) — Arrays · Easy
+- [Preorder Traversal](./arrays/preorder-traversal/) — Arrays · Medium
 - [Product of Array Except Self](./arrays/0238-product-of-array-except-self/) — Arrays · Medium
 - [Range Sum Query - Immutable](./arrays/0303-range-sum-query-immutable/) — Arrays · Easy
 - [Remove Element](./arrays/0027-remove-element/) — Arrays · Easy
