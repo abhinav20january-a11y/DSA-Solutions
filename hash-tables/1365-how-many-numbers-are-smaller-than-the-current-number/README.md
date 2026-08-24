@@ -3,9 +3,9 @@
 - **Topic:** Hash Tables
 - **Difficulty:** Easy
 - **Patterns:** Array, Hash Table, Sorting, Counting Sort
-- **Status:** Completed
+- **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
-- **Completed:** 2026-08-23T18:17:01.564Z
+- **Completed:** 2026-08-23T18:16:56.000Z
 
 ## Approach
 
