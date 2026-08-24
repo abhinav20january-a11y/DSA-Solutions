@@ -341,5 +341,13 @@
     "folder": "arrays/preorder-traversal",
     "path": "arrays/preorder-traversal/solution.cpp",
     "pinned": false
+  },
+  "6afa069a-3f63-4f70-9ac9-a37353ba06ac": {
+    "name": "Binary Tree Level Order Traversal",
+    "topic": "Trees (Binary Trees, BST)",
+    "difficulty": "Medium",
+    "folder": "trees-binary-trees-bst/0102-binary-tree-level-order-traversal",
+    "path": "trees-binary-trees-bst/0102-binary-tree-level-order-traversal/solution.cpp",
+    "pinned": false
   }
 }
