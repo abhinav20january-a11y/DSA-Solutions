@@ -2,7 +2,7 @@
 
 - **Topic:** Trees (Binary Trees, BST)
 - **Difficulty:** Easy
-- **Patterns:** Stack, Tree, Depth-First Search, Binary Tree
+- **Patterns:** Not classified
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 - **Completed:** 2026-08-25T17:09:33.129Z
