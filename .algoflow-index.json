@@ -357,5 +357,13 @@
     "folder": "arrays/dsa-problem",
     "path": "arrays/dsa-problem/solution.cpp",
     "pinned": false
+  },
+  "918deaa4-cedf-4ff2-b445-75a32cbcf0b9": {
+    "name": "Binary Tree Postorder Traversal",
+    "topic": "Trees (Binary Trees, BST)",
+    "difficulty": "Easy",
+    "folder": "trees-binary-trees-bst/0145-binary-tree-postorder-traversal",
+    "path": "trees-binary-trees-bst/0145-binary-tree-postorder-traversal/solution.cpp",
+    "pinned": false
   }
 }
