@@ -5,7 +5,7 @@
 - **Patterns:** Stack, Tree, Depth-First Search, Binary Tree
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/binary-tree-postorder-traversal/)
-- **Completed:** 2026-08-25T17:09:20.440Z
+- **Completed:** 2026-08-25T17:09:33.129Z
 
 ## Approach
 
