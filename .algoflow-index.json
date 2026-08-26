@@ -365,5 +365,13 @@
     "folder": "trees-binary-trees-bst/0145-binary-tree-postorder-traversal",
     "path": "trees-binary-trees-bst/0145-binary-tree-postorder-traversal/solution.cpp",
     "pinned": false
+  },
+  "de0a8ae8-87c9-426f-9307-d68e41d9c943": {
+    "name": "hello",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/hello",
+    "path": "arrays/hello/solution.cpp",
+    "pinned": false
   }
 }
