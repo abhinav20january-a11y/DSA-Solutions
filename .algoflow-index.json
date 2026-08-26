@@ -346,8 +346,8 @@
     "name": "Binary Tree Level Order Traversal",
     "topic": "Trees (Binary Trees, BST)",
     "difficulty": "Medium",
-    "folder": "trees-binary-trees-bst/0102-binary-tree-level-order-traversal",
-    "path": "trees-binary-trees-bst/0102-binary-tree-level-order-traversal/solution.cpp",
+    "folder": "trees-binary-trees-bst/binary-tree-level-order-traversal",
+    "path": "trees-binary-trees-bst/binary-tree-level-order-traversal/solution.cpp",
     "pinned": false
   },
   "gfg-arr-5": {

@@ -55,7 +55,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Maximize Active Section with Trade I](./strings/maximize-active-section-with-trade-i/) — Strings · Medium
 - [Maximize Active Section with Trade II](./strings/3501-maximize-active-section-with-trade-ii/) — Strings · Hard
 - [Smallest Palindromic Rearrangement I](./strings/3517-smallest-palindromic-rearrangement-i/) — Strings · Medium
-- [Binary Tree Level Order Traversal](./trees-binary-trees-bst/0102-binary-tree-level-order-traversal/) — Trees (Binary Trees, BST) · Medium
+- [Binary Tree Level Order Traversal](./trees-binary-trees-bst/binary-tree-level-order-traversal/) — Trees (Binary Trees, BST) · Medium
 - [Binary Tree Postorder Traversal](./trees-binary-trees-bst/0145-binary-tree-postorder-traversal/) — Trees (Binary Trees, BST) · Easy
 - [Binary Tree Preorder Traversal](./trees-binary-trees-bst/0144-binary-tree-preorder-traversal/) — Trees (Binary Trees, BST) · Easy
 - [Delete the Middle Node of a Linked List](./two-pointers/2095-delete-the-middle-node-of-a-linked-list/) — Two Pointers · Medium
