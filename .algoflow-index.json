@@ -381,5 +381,13 @@
     "folder": "trees-binary-trees-bst/0094-binary-tree-inorder-traversal",
     "path": "trees-binary-trees-bst/0094-binary-tree-inorder-traversal/solution.cpp",
     "pinned": false
+  },
+  "af8d8369-d95c-46ac-a92e-f8ebc9e9709d": {
+    "name": "Two Sum",
+    "topic": "Hash Tables",
+    "difficulty": "Easy",
+    "folder": "hash-tables/0001-two-sum",
+    "path": "hash-tables/0001-two-sum/solution.cpp",
+    "pinned": false
   }
 }
