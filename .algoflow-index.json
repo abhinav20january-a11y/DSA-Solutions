@@ -373,5 +373,13 @@
     "folder": "graphs/hello",
     "path": "graphs/hello/solution.cpp",
     "pinned": false
+  },
+  "da39723c-bca5-4fa2-9d69-4cceaf249132": {
+    "name": "Binary Tree Inorder Traversal",
+    "topic": "Trees (Binary Trees, BST)",
+    "difficulty": "Easy",
+    "folder": "trees-binary-trees-bst/0094-binary-tree-inorder-traversal",
+    "path": "trees-binary-trees-bst/0094-binary-tree-inorder-traversal/solution.cpp",
+    "pinned": false
   }
 }
