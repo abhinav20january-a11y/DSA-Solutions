@@ -3,7 +3,7 @@
 - **Topic:** Arrays
 - **Difficulty:** Medium
 - **Patterns:** Not classified
-- **Status:** Todo
+- **Status:** Needs Review
 - **Completed:** Not recorded
 
 ## Approach
