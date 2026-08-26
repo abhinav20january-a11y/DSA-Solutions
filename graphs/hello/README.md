@@ -1,6 +1,6 @@
 # hello
 
-- **Topic:** Arrays
+- **Topic:** Graphs
 - **Difficulty:** Medium
 - **Patterns:** Not classified
 - **Status:** In Progress

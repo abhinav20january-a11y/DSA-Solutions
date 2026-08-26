@@ -368,10 +368,10 @@
   },
   "de0a8ae8-87c9-426f-9307-d68e41d9c943": {
     "name": "hello",
-    "topic": "Arrays",
+    "topic": "Graphs",
     "difficulty": "Medium",
-    "folder": "arrays/hello",
-    "path": "arrays/hello/solution.cpp",
+    "folder": "graphs/hello",
+    "path": "graphs/hello/solution.cpp",
     "pinned": false
   }
 }

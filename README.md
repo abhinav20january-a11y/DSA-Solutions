@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 47 | 12 | 20 | 24 | 3 |
+| 47 | 13 | 20 | 24 | 3 |
 
 ## Quality automation
 
@@ -19,7 +19,6 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [3 sum](./arrays/3-sum/) — Arrays · Medium
 - [Capacity To Ship Packages Within D Days](./arrays/1011-capacity-to-ship-packages-within-d-days/) — Arrays · Medium
 - [DSA Problem](./arrays/dsa-problem/) — Arrays · Medium
-- [hello](./arrays/hello/) — Arrays · Medium
 - [Koko Eating Bananas](./arrays/0875-koko-eating-bananas/) — Arrays · Medium
 - [Maximum Product of Three Numbers](./arrays/0628-maximum-product-of-three-numbers/) — Arrays · Easy
 - [Maximum Product of Two Elements in an Array](./arrays/1464-maximum-product-of-two-elements-in-an-array/) — Arrays · Easy
@@ -35,6 +34,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Number of Unique XOR Triplets II](./bit-manipulation/3514-number-of-unique-xor-triplets-ii/) — Bit Manipulation · Medium
 - [Sum of Subarray Minimums](./dynamic-programming/0907-sum-of-subarray-minimums/) — Dynamic Programming · Medium
 - [Trapping Rain Water](./dynamic-programming/0042-trapping-rain-water/) — Dynamic Programming · Hard
+- [hello](./graphs/hello/) — Graphs · Medium
 - [Minimum Number of Pushes to Type Word I](./greedy-algorithms/3014-minimum-number-of-pushes-to-type-word-i/) — Greedy Algorithms · Easy
 - [Find Missing Elements](./hash-tables/find-missing-elements/) — Hash Tables · Easy
 - [How Many Numbers Are Smaller Than the Current Number](./hash-tables/1365-how-many-numbers-are-smaller-than-the-current-number/) — Hash Tables · Easy
