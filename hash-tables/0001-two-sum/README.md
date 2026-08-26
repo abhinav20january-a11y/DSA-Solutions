@@ -2,7 +2,7 @@
 
 - **Topic:** Hash Tables
 - **Difficulty:** Easy
-- **Patterns:** Array, Hash Table
+- **Patterns:** Not classified
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/two-sum/)
 - **Completed:** 2026-08-26T17:36:02.153Z
