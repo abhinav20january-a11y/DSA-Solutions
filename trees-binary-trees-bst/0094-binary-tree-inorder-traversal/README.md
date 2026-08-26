@@ -2,7 +2,7 @@
 
 - **Topic:** Trees (Binary Trees, BST)
 - **Difficulty:** Easy
-- **Patterns:** Stack, Tree, Depth-First Search, Binary Tree
+- **Patterns:** Not classified
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - **Completed:** 2026-08-26T09:37:31.209Z
@@ -13,6 +13,6 @@ Add your explanation in AlgoFlow.
 
 ## Complexity
 
-- **Estimated time:** Not analysed
-- **Estimated auxiliary space:** Not analysed
-- **Confidence:** Not available
+- **Estimated time:** O(1)
+- **Estimated auxiliary space:** O(n)
+- **Confidence:** 84%

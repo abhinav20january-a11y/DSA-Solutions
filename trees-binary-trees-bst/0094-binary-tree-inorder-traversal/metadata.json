@@ -1,6 +1,75 @@
 {
   "completedAt": "2026-08-26T09:37:31.209Z",
-  "complexity": null,
+  "complexity": {
+    "astAvailable": true,
+    "auxiliarySpace": "O(n)",
+    "averageTime": "O(1)",
+    "bestTime": "O(1)",
+    "callGraph": [
+      {
+        "from": "inorderTraversal",
+        "line": 17,
+        "to": "solve"
+      }
+    ],
+    "confidence": 84,
+    "disclaimer": "Estimate, not a mathematical proof. Data-dependent branches, library internals and amortized behaviour can change the bound.",
+    "engine": "Apple Clang AST",
+    "explanation": "Clang structurally linked loop bounds to constant-sized data.",
+    "findings": [
+      {
+        "detail": "Interprocedural analysis includes solve when estimating inorderTraversal.",
+        "kind": "time",
+        "label": "inorderTraversal → solve",
+        "line": 17,
+        "snippet": "inorderTraversal(…) calls solve(…)",
+        "weight": 3
+      },
+      {
+        "detail": "This container can grow with the input size.",
+        "kind": "space",
+        "label": "Dynamic container",
+        "line": 3,
+        "snippet": "void solve(TreeNode* root, vector<int>& ans) {",
+        "weight": 1
+      },
+      {
+        "detail": "This container can grow with the input size.",
+        "kind": "space",
+        "label": "Dynamic container",
+        "line": 11,
+        "snippet": "vector<int> inorderTraversal(TreeNode* root) {",
+        "weight": 1
+      },
+      {
+        "detail": "This container can grow with the input size.",
+        "kind": "space",
+        "label": "Dynamic container",
+        "line": 12,
+        "snippet": "vector<int> ans;",
+        "weight": 1
+      }
+    ],
+    "functionComplexities": [
+      {
+        "complexity": "O(1)",
+        "name": "solve",
+        "symbols": {
+          "ans": "m",
+          "root": "n"
+        }
+      },
+      {
+        "complexity": "O(1)",
+        "name": "inorderTraversal",
+        "symbols": {
+          "root": "n"
+        }
+      }
+    ],
+    "symbolicVariables": [],
+    "worstTime": "O(1)"
+  },
   "difficulty": "Easy",
   "id": "da39723c-bca5-4fa2-9d69-4cceaf249132",
   "patterns": [],
