@@ -389,5 +389,13 @@
     "folder": "hash-tables/0001-two-sum",
     "path": "hash-tables/0001-two-sum/solution.cpp",
     "pinned": false
+  },
+  "cf76aaf4-8e33-4cd6-b618-c89f98191083": {
+    "name": "Reverse String",
+    "topic": "Strings",
+    "difficulty": "Easy",
+    "folder": "strings/0344-reverse-string",
+    "path": "strings/0344-reverse-string/solution.cpp",
+    "pinned": false
   }
 }
