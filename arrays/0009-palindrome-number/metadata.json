@@ -1,5 +1,5 @@
 {
-  "completedAt": "2026-08-17T10:42:13.037Z",
+  "completedAt": "2026-07-15T08:43:58.000Z",
   "complexity": {
     "astAvailable": true,
     "auxiliarySpace": "O(1)",
@@ -36,7 +36,9 @@
   },
   "difficulty": "Easy",
   "id": "f773127d-30dd-4a41-a17f-f554991935be",
-  "patterns": [],
+  "patterns": [
+    "Two Pointers"
+  ],
   "pinned": false,
   "source": "https://leetcode.com/problems/palindrome-number/",
   "syncedBy": "AlgoFlow",

@@ -2,10 +2,10 @@
 
 - **Topic:** Arrays
 - **Difficulty:** Easy
-- **Patterns:** Not classified
+- **Patterns:** Two Pointers
 - **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/palindrome-number/)
-- **Completed:** 2026-08-17T10:42:13.037Z
+- **Completed:** 2026-07-15T08:43:58.000Z
 
 ## Approach
 
