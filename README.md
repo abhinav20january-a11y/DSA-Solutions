@@ -22,6 +22,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Koko Eating Bananas](./arrays/0875-koko-eating-bananas/) — Arrays · Medium
 - [Maximum Product of Three Numbers](./arrays/0628-maximum-product-of-three-numbers/) — Arrays · Easy
 - [Maximum Product of Two Elements in an Array](./arrays/1464-maximum-product-of-two-elements-in-an-array/) — Arrays · Easy
+- [Merge Two Sorted Lists](./arrays/merge-two-sorted-lists/) — Arrays · Easy
 - [Next Smaller Element](./arrays/next-smaller-element/) — Arrays · Medium
 - [Palindrome Number](./arrays/0009-palindrome-number/) — Arrays · Easy
 - [Preorder Traversal](./arrays/preorder-traversal/) — Arrays · Easy
@@ -41,7 +42,6 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Smallest Palindromic Rearrangement II](./hash-tables/3518-smallest-palindromic-rearrangement-ii/) — Hash Tables · Hard
 - [Two Sum](./hash-tables/0001-two-sum/) — Hash Tables · Easy
 - [Add Two Numbers](./linked-lists/0002-add-two-numbers/) — Linked Lists · Medium
-- [Merge Two Sorted Lists](./linked-lists/0021-merge-two-sorted-lists/) — Linked Lists · Easy
 - [Odd Even Linked List](./linked-lists/odd-even-linked-list/) — Linked Lists · Medium
 - [Remove Linked List Elements](./linked-lists/0203-remove-linked-list-elements/) — Linked Lists · Easy
 - [Reverse Linked List](./linked-lists/0206-reverse-linked-list/) — Linked Lists · Easy
