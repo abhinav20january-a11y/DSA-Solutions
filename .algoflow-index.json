@@ -298,8 +298,8 @@
     "name": "Sum of Subarray Minimums",
     "topic": "Dynamic Programming",
     "difficulty": "Medium",
-    "folder": "dynamic-programming/0907-sum-of-subarray-minimums",
-    "path": "dynamic-programming/0907-sum-of-subarray-minimums/solution.cpp",
+    "folder": "dynamic-programming/sum-of-subarray-minimums",
+    "path": "dynamic-programming/sum-of-subarray-minimums/solution.cpp",
     "pinned": false
   },
   "8471cdd6-f849-4c01-98eb-00898715320e": {
