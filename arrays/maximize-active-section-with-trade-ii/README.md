@@ -1,6 +1,6 @@
-# 3501. Maximize Active Section with Trade II
+# Maximize Active Section with Trade II
 
-- **Topic:** Strings
+- **Topic:** Arrays
 - **Difficulty:** Hard
 - **Patterns:** Not classified
 - **Status:** Needs Review

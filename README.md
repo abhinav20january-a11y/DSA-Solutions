@@ -20,6 +20,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Capacity To Ship Packages Within D Days](./arrays/1011-capacity-to-ship-packages-within-d-days/) — Arrays · Medium
 - [DSA Problem](./arrays/dsa-problem/) — Arrays · Medium
 - [Koko Eating Bananas](./arrays/0875-koko-eating-bananas/) — Arrays · Medium
+- [Maximize Active Section with Trade II](./arrays/maximize-active-section-with-trade-ii/) — Arrays · Hard
 - [Maximum Product of Three Numbers](./arrays/0628-maximum-product-of-three-numbers/) — Arrays · Easy
 - [Maximum Product of Two Elements in an Array](./arrays/1464-maximum-product-of-two-elements-in-an-array/) — Arrays · Easy
 - [Merge Two Sorted Lists](./arrays/merge-two-sorted-lists/) — Arrays · Easy
@@ -54,7 +55,6 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Next Greater Element I](./stacks-queues/0496-next-greater-element-i/) — Stacks & Queues · Easy
 - [Next Greater Element II](./stacks-queues/0503-next-greater-element-ii/) — Stacks & Queues · Medium
 - [Maximize Active Section with Trade I](./strings/maximize-active-section-with-trade-i/) — Strings · Medium
-- [Maximize Active Section with Trade II](./strings/3501-maximize-active-section-with-trade-ii/) — Strings · Hard
 - [Reverse String](./strings/0344-reverse-string/) — Strings · Easy
 - [Smallest Palindromic Rearrangement I](./strings/3517-smallest-palindromic-rearrangement-i/) — Strings · Medium
 - [Binary Tree Inorder Traversal](./trees-binary-trees-bst/0094-binary-tree-inorder-traversal/) — Trees (Binary Trees, BST) · Easy
