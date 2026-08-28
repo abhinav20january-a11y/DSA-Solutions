@@ -1,4 +1,4 @@
-# 145. Binary Tree Postorder Traversal
+# Binary Tree Postorder Traversal
 
 - **Topic:** Trees (Binary Trees, BST)
 - **Difficulty:** Easy
