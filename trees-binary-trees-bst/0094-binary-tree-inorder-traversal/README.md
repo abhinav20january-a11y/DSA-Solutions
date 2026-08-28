@@ -3,9 +3,9 @@
 - **Topic:** Trees (Binary Trees, BST)
 - **Difficulty:** Easy
 - **Patterns:** Not classified
-- **Status:** Completed
+- **Status:** Needs Review
 - **Problem:** [Open original](https://leetcode.com/problems/binary-tree-inorder-traversal/)
-- **Completed:** 2026-08-26T09:37:31.209Z
+- **Completed:** 2026-08-26T09:37:16.000Z
 
 ## Approach
 
