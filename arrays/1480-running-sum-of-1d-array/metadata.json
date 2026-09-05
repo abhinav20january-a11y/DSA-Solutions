@@ -1,6 +1,47 @@
 {
   "completedAt": "2026-08-17T08:24:03.000Z",
-  "complexity": null,
+  "complexity": {
+    "astAvailable": true,
+    "auxiliarySpace": "O(n)",
+    "averageTime": "O(n)",
+    "bestTime": "O(1)",
+    "callGraph": [],
+    "confidence": 84,
+    "disclaimer": "Estimate, not a mathematical proof. Data-dependent branches, library internals and amortized behaviour can change the bound.",
+    "engine": "Apple Clang AST",
+    "explanation": "Clang structurally linked loop bounds to n.",
+    "findings": [
+      {
+        "detail": "Clang linked this loop bound to n.",
+        "kind": "time",
+        "label": "Symbolic loop over n",
+        "line": 10,
+        "snippet": "for(int i = 0; i < nums.size(); i++)",
+        "weight": 3
+      },
+      {
+        "detail": "This container can grow with the input size.",
+        "kind": "space",
+        "label": "Dynamic container",
+        "line": 3,
+        "snippet": "vector<int> runningSum(vector<int>& nums) {",
+        "weight": 1
+      }
+    ],
+    "functionComplexities": [
+      {
+        "complexity": "O(n)",
+        "name": "runningSum",
+        "symbols": {
+          "nums": "n"
+        }
+      }
+    ],
+    "symbolicVariables": [
+      "n"
+    ],
+    "worstTime": "O(n)"
+  },
   "difficulty": "Easy",
   "id": "a2a6c326-7025-446b-9aa4-af20f78d8f9b",
   "patterns": [],

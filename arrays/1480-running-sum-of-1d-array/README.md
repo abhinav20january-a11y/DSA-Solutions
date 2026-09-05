@@ -13,6 +13,6 @@ Add your explanation in AlgoFlow.
 
 ## Complexity
 
-- **Estimated time:** Not analysed
-- **Estimated auxiliary space:** Not analysed
-- **Confidence:** Not available
+- **Estimated time:** O(n)
+- **Estimated auxiliary space:** O(n)
+- **Confidence:** 84%
