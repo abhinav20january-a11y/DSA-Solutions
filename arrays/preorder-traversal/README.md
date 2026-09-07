@@ -5,7 +5,7 @@
 - **Patterns:** Not classified
 - **Status:** Completed
 - **Problem:** [Open original](https://www.geeksforgeeks.org/problems/preorder-traversal)
-- **Completed:** 2026-09-07T05:41:18.381Z
+- **Completed:** 2026-09-07T05:44:44.608Z
 
 ## Approach
 
