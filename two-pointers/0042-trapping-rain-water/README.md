@@ -1,6 +1,6 @@
 # 42. Trapping Rain Water
 
-- **Topic:** Dynamic Programming
+- **Topic:** Two Pointers
 - **Difficulty:** Hard
 - **Patterns:** Not classified
 - **Status:** Needs Review

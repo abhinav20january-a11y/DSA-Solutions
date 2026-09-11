@@ -168,10 +168,10 @@
   },
   "e0cf4b8a-cc4e-4ae9-a513-efbe9521bcdd": {
     "name": "Trapping Rain Water",
-    "topic": "Dynamic Programming",
+    "topic": "Two Pointers",
     "difficulty": "Hard",
-    "folder": "dynamic-programming/0042-trapping-rain-water",
-    "path": "dynamic-programming/0042-trapping-rain-water/solution.cpp",
+    "folder": "two-pointers/0042-trapping-rain-water",
+    "path": "two-pointers/0042-trapping-rain-water/solution.cpp",
     "pinned": false
   },
   "650e25ae-4282-4f69-9069-0aa22b060641": {
