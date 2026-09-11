@@ -397,5 +397,21 @@
     "folder": "strings/0344-reverse-string",
     "path": "strings/0344-reverse-string/solution.cpp",
     "pinned": false
+  },
+  "3dfc883c-4f83-438b-9093-e7346e5b4f2e": {
+    "name": "Subarrays with equal 1s and 0s",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/subarrays-with-equal-1s-and-0s",
+    "path": "arrays/subarrays-with-equal-1s-and-0s/solution.cpp",
+    "pinned": false
+  },
+  "e59755c7-4042-449c-8f4b-ecd4cdfbd7c0": {
+    "name": "Longest Subarray with Sum K",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/longest-subarray-with-sum-k",
+    "path": "arrays/longest-subarray-with-sum-k/solution.cpp",
+    "pinned": false
   }
 }

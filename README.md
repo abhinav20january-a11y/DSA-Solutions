@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 50 | 13 | 23 | 24 | 3 |
+| 52 | 13 | 23 | 26 | 3 |
 
 ## Quality automation
 
@@ -20,6 +20,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Capacity To Ship Packages Within D Days](./arrays/1011-capacity-to-ship-packages-within-d-days/) — Arrays · Medium
 - [DSA Problem](./arrays/dsa-problem/) — Arrays · Medium
 - [Koko Eating Bananas](./arrays/0875-koko-eating-bananas/) — Arrays · Medium
+- [Longest Subarray with Sum K](./arrays/longest-subarray-with-sum-k/) — Arrays · Medium
 - [Maximize Active Section with Trade II](./arrays/maximize-active-section-with-trade-ii/) — Arrays · Hard
 - [Maximum Product of Three Numbers](./arrays/0628-maximum-product-of-three-numbers/) — Arrays · Easy
 - [Maximum Product of Two Elements in an Array](./arrays/1464-maximum-product-of-two-elements-in-an-array/) — Arrays · Easy
@@ -31,6 +32,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Range Sum Query - Immutable](./arrays/0303-range-sum-query-immutable/) — Arrays · Easy
 - [Remove Element](./arrays/0027-remove-element/) — Arrays · Easy
 - [Running Sum of 1d Array](./arrays/1480-running-sum-of-1d-array/) — Arrays · Easy
+- [Subarrays with equal 1s and 0s](./arrays/subarrays-with-equal-1s-and-0s/) — Arrays · Medium
 - [Two Sum](./arrays/two-sum/) — Arrays · Easy
 - [Number of Unique XOR Triplets I](./bit-manipulation/3513-number-of-unique-xor-triplets-i/) — Bit Manipulation · Medium
 - [Number of Unique XOR Triplets II](./bit-manipulation/3514-number-of-unique-xor-triplets-ii/) — Bit Manipulation · Medium
