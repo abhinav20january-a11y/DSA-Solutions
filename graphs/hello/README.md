@@ -3,7 +3,7 @@
 - **Topic:** Graphs
 - **Difficulty:** Medium
 - **Patterns:** Not classified
-- **Status:** In Progress
+- **Status:** Completed
 - **Completed:** Not recorded
 
 ## Approach

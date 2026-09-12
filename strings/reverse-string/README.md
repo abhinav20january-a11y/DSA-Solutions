@@ -1,10 +1,11 @@
-# 3 sum
+# Reverse String
 
-- **Topic:** Arrays
-- **Difficulty:** Medium
+- **Topic:** Strings
+- **Difficulty:** Easy
 - **Patterns:** Not classified
-- **Status:** Todo
-- **Completed:** Not recorded
+- **Status:** Completed
+- **Problem:** [Open original](https://leetcode.com/problems/reverse-string/)
+- **Completed:** 2026-08-27T17:51:43.106Z
 
 ## Approach
 

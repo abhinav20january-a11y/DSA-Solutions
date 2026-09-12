@@ -1,11 +1,11 @@
-# 27. Remove Element
+# Binary Tree Inorder Traversal
 
-- **Topic:** Arrays
+- **Topic:** Trees (Binary Trees, BST)
 - **Difficulty:** Easy
 - **Patterns:** Not classified
 - **Status:** Completed
-- **Problem:** [Open original](https://leetcode.com/problems/remove-element/)
-- **Completed:** 2026-09-11T17:41:00.938Z
+- **Problem:** [Open original](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- **Completed:** 2026-08-26T09:37:16.000Z
 
 ## Approach
 

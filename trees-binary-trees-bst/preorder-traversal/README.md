@@ -1,10 +1,10 @@
-# Subarrays with equal 1s and 0s
+# Preorder Traversal
 
-- **Topic:** Arrays
-- **Difficulty:** Medium
+- **Topic:** Trees (Binary Trees, BST)
+- **Difficulty:** Easy
 - **Patterns:** Not classified
 - **Status:** Completed
-- **Problem:** [Open original](https://www.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620)
+- **Problem:** [Open original](https://www.geeksforgeeks.org/problems/preorder-traversal)
 - **Completed:** 2026-09-12T16:22:57.664Z
 
 ## Approach

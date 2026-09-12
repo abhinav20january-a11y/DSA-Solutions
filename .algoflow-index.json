@@ -9,18 +9,18 @@
   },
   "f773127d-30dd-4a41-a17f-f554991935be": {
     "name": "Palindrome Number",
-    "topic": "Arrays",
+    "topic": "Math & Geometry",
     "difficulty": "Easy",
-    "folder": "arrays/0009-palindrome-number",
-    "path": "arrays/0009-palindrome-number/solution.cpp",
+    "folder": "math-geometry/0009-palindrome-number",
+    "path": "math-geometry/0009-palindrome-number/solution.cpp",
     "pinned": false
   },
   "c3331492-cdd8-4822-812f-1cf60b9e8008": {
     "name": "Merge Two Sorted Lists",
-    "topic": "Arrays",
+    "topic": "Linked Lists",
     "difficulty": "Easy",
-    "folder": "arrays/merge-two-sorted-lists",
-    "path": "arrays/merge-two-sorted-lists/solution.cpp",
+    "folder": "linked-lists/0021-merge-two-sorted-lists",
+    "path": "linked-lists/0021-merge-two-sorted-lists/solution.cpp",
     "pinned": false
   },
   "968d8b85-5671-4170-8001-5a55a88da651": {
@@ -41,10 +41,10 @@
   },
   "ff613a32-0478-420d-a045-b3fa7bedc3b1": {
     "name": "Maximize Active Section with Trade II",
-    "topic": "Arrays",
+    "topic": "Strings",
     "difficulty": "Hard",
-    "folder": "arrays/maximize-active-section-with-trade-ii",
-    "path": "arrays/maximize-active-section-with-trade-ii/solution.cpp",
+    "folder": "strings/3501-maximize-active-section-with-trade-ii",
+    "path": "strings/3501-maximize-active-section-with-trade-ii/solution.cpp",
     "pinned": false
   },
   "0822e19f-096a-4608-bbea-292b6a4f9ab9": {
@@ -73,18 +73,18 @@
   },
   "dab3918c-1213-48a7-a205-09ec6e4f0a20": {
     "name": "Maximum Product of Three Numbers",
-    "topic": "Arrays",
+    "topic": "Math & Geometry",
     "difficulty": "Easy",
-    "folder": "arrays/0628-maximum-product-of-three-numbers",
-    "path": "arrays/0628-maximum-product-of-three-numbers/solution.cpp",
+    "folder": "math-geometry/0628-maximum-product-of-three-numbers",
+    "path": "math-geometry/0628-maximum-product-of-three-numbers/solution.cpp",
     "pinned": false
   },
   "2e111e72-86d2-4e6d-9ac6-273b56f876c9": {
     "name": "Maximum Product of Two Elements in an Array",
-    "topic": "Arrays",
+    "topic": "Stacks & Queues",
     "difficulty": "Easy",
-    "folder": "arrays/1464-maximum-product-of-two-elements-in-an-array",
-    "path": "arrays/1464-maximum-product-of-two-elements-in-an-array/solution.cpp",
+    "folder": "stacks-queues/1464-maximum-product-of-two-elements-in-an-array",
+    "path": "stacks-queues/1464-maximum-product-of-two-elements-in-an-array/solution.cpp",
     "pinned": false
   },
   "d4f89855-5feb-4959-a267-c5973c43401a": {
@@ -128,10 +128,10 @@
   },
   "34dceb97-c38b-4964-b05e-b2935d6b7815": {
     "name": "Find Missing Elements",
-    "topic": "Hash Tables",
+    "topic": "Arrays",
     "difficulty": "Easy",
-    "folder": "hash-tables/find-missing-elements",
-    "path": "hash-tables/find-missing-elements/solution.cpp",
+    "folder": "arrays/find-missing-elements",
+    "path": "arrays/find-missing-elements/solution.cpp",
     "pinned": false
   },
   "cb8d875f-3771-4163-9c53-321470b9d89e": {
@@ -152,18 +152,18 @@
   },
   "0a378de2-742c-4511-a3fd-23b6b760910b": {
     "name": "Sort List",
-    "topic": "Two Pointers",
+    "topic": "Arrays",
     "difficulty": "Medium",
-    "folder": "two-pointers/sort-list",
-    "path": "two-pointers/sort-list/solution.cpp",
+    "folder": "arrays/sort-list",
+    "path": "arrays/sort-list/solution.cpp",
     "pinned": false
   },
   "53137a02-be4b-40b9-b48f-13f193cca540": {
     "name": "Remove Nth Node From End of List",
-    "topic": "Two Pointers",
+    "topic": "Linked Lists",
     "difficulty": "Medium",
-    "folder": "two-pointers/0019-remove-nth-node-from-end-of-list",
-    "path": "two-pointers/0019-remove-nth-node-from-end-of-list/solution.cpp",
+    "folder": "linked-lists/0019-remove-nth-node-from-end-of-list",
+    "path": "linked-lists/0019-remove-nth-node-from-end-of-list/solution.cpp",
     "pinned": false
   },
   "e0cf4b8a-cc4e-4ae9-a513-efbe9521bcdd": {
@@ -216,26 +216,26 @@
   },
   "7a407500-1eb6-499d-a539-a7ecd85afe0c": {
     "name": "Middle of the Linked List",
-    "topic": "Two Pointers",
+    "topic": "Linked Lists",
     "difficulty": "Easy",
-    "folder": "two-pointers/0876-middle-of-the-linked-list",
-    "path": "two-pointers/0876-middle-of-the-linked-list/solution.cpp",
+    "folder": "linked-lists/0876-middle-of-the-linked-list",
+    "path": "linked-lists/0876-middle-of-the-linked-list/solution.cpp",
     "pinned": false
   },
   "7b172868-a6fc-48e1-b49e-7c6c05e83731": {
     "name": "Intersection of Two Linked Lists",
-    "topic": "Two Pointers",
+    "topic": "Linked Lists",
     "difficulty": "Easy",
-    "folder": "two-pointers/0160-intersection-of-two-linked-lists",
-    "path": "two-pointers/0160-intersection-of-two-linked-lists/solution.cpp",
+    "folder": "linked-lists/0160-intersection-of-two-linked-lists",
+    "path": "linked-lists/0160-intersection-of-two-linked-lists/solution.cpp",
     "pinned": false
   },
   "09a2568d-a0a3-444c-b210-7029227c6634": {
     "name": "Delete the Middle Node of a Linked List",
-    "topic": "Two Pointers",
+    "topic": "Linked Lists",
     "difficulty": "Medium",
-    "folder": "two-pointers/2095-delete-the-middle-node-of-a-linked-list",
-    "path": "two-pointers/2095-delete-the-middle-node-of-a-linked-list/solution.cpp",
+    "folder": "linked-lists/2095-delete-the-middle-node-of-a-linked-list",
+    "path": "linked-lists/2095-delete-the-middle-node-of-a-linked-list/solution.cpp",
     "pinned": false
   },
   "fb48e629-1dad-4d6c-b9f3-3fa9ac2fd9cd": {
@@ -288,18 +288,18 @@
   },
   "f2ef102c-c679-4a4b-9765-61bec670ad03": {
     "name": "Next Smaller Element",
-    "topic": "Arrays",
+    "topic": "Stacks & Queues",
     "difficulty": "Medium",
-    "folder": "arrays/next-smaller-element",
-    "path": "arrays/next-smaller-element/solution.cpp",
+    "folder": "stacks-queues/next-smaller-element",
+    "path": "stacks-queues/next-smaller-element/solution.cpp",
     "pinned": false
   },
   "7d930b73-ab08-41b1-8ac7-07ca31384993": {
     "name": "Sum of Subarray Minimums",
-    "topic": "Dynamic Programming",
+    "topic": "Stacks & Queues",
     "difficulty": "Medium",
-    "folder": "dynamic-programming/sum-of-subarray-minimums",
-    "path": "dynamic-programming/sum-of-subarray-minimums/solution.cpp",
+    "folder": "stacks-queues/0907-sum-of-subarray-minimums",
+    "path": "stacks-queues/0907-sum-of-subarray-minimums/solution.cpp",
     "pinned": false
   },
   "8471cdd6-f849-4c01-98eb-00898715320e": {
@@ -336,18 +336,18 @@
   },
   "5f51921e-5e5d-4a82-bc3e-c314e0cb5ab4": {
     "name": "Preorder Traversal",
-    "topic": "Arrays",
+    "topic": "Trees (Binary Trees, BST)",
     "difficulty": "Easy",
-    "folder": "arrays/preorder-traversal",
-    "path": "arrays/preorder-traversal/solution.cpp",
+    "folder": "trees-binary-trees-bst/preorder-traversal",
+    "path": "trees-binary-trees-bst/preorder-traversal/solution.cpp",
     "pinned": false
   },
   "6afa069a-3f63-4f70-9ac9-a37353ba06ac": {
     "name": "Binary Tree Level Order Traversal",
     "topic": "Trees (Binary Trees, BST)",
     "difficulty": "Medium",
-    "folder": "trees-binary-trees-bst/binary-tree-level-order-traversal",
-    "path": "trees-binary-trees-bst/binary-tree-level-order-traversal/solution.cpp",
+    "folder": "trees-binary-trees-bst/0102-binary-tree-level-order-traversal",
+    "path": "trees-binary-trees-bst/0102-binary-tree-level-order-traversal/solution.cpp",
     "pinned": false
   },
   "gfg-arr-5": {
@@ -362,8 +362,8 @@
     "name": "Binary Tree Postorder Traversal",
     "topic": "Trees (Binary Trees, BST)",
     "difficulty": "Easy",
-    "folder": "trees-binary-trees-bst/binary-tree-postorder-traversal",
-    "path": "trees-binary-trees-bst/binary-tree-postorder-traversal/solution.cpp",
+    "folder": "trees-binary-trees-bst/0145-binary-tree-postorder-traversal",
+    "path": "trees-binary-trees-bst/0145-binary-tree-postorder-traversal/solution.cpp",
     "pinned": false
   },
   "de0a8ae8-87c9-426f-9307-d68e41d9c943": {
@@ -378,8 +378,8 @@
     "name": "Binary Tree Inorder Traversal",
     "topic": "Trees (Binary Trees, BST)",
     "difficulty": "Easy",
-    "folder": "trees-binary-trees-bst/0094-binary-tree-inorder-traversal",
-    "path": "trees-binary-trees-bst/0094-binary-tree-inorder-traversal/solution.cpp",
+    "folder": "trees-binary-trees-bst/binary-tree-inorder-traversal",
+    "path": "trees-binary-trees-bst/binary-tree-inorder-traversal/solution.cpp",
     "pinned": false
   },
   "af8d8369-d95c-46ac-a92e-f8ebc9e9709d": {
@@ -394,8 +394,8 @@
     "name": "Reverse String",
     "topic": "Strings",
     "difficulty": "Easy",
-    "folder": "strings/0344-reverse-string",
-    "path": "strings/0344-reverse-string/solution.cpp",
+    "folder": "strings/reverse-string",
+    "path": "strings/reverse-string/solution.cpp",
     "pinned": false
   },
   "3dfc883c-4f83-438b-9093-e7346e5b4f2e": {
@@ -412,6 +412,14 @@
     "difficulty": "Medium",
     "folder": "arrays/longest-subarray-with-sum-k",
     "path": "arrays/longest-subarray-with-sum-k/solution.cpp",
+    "pinned": false
+  },
+  "2f0be646-f98e-4bbc-96fa-73df00436989": {
+    "name": "Two Sum",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/0001-two-sum",
+    "path": "arrays/0001-two-sum/solution.cpp",
     "pinned": false
   }
 }

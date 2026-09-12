@@ -1,11 +1,11 @@
-# 144. Binary Tree Preorder Traversal
+# 145. Binary Tree Postorder Traversal
 
 - **Topic:** Trees (Binary Trees, BST)
 - **Difficulty:** Easy
-- **Patterns:** Stack, Tree, Depth-First Search, Binary Tree
+- **Patterns:** Not classified
 - **Status:** Needs Review
-- **Problem:** [Open original](https://leetcode.com/problems/binary-tree-preorder-traversal/)
-- **Completed:** 2026-08-24T07:32:05.000Z
+- **Problem:** [Open original](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+- **Completed:** 2026-08-25T17:09:23.000Z
 
 ## Approach
 

@@ -1,11 +1,11 @@
-# 735. Asteroid Collision
+# 1. Two Sum
 
-- **Topic:** Stacks & Queues
-- **Difficulty:** Medium
+- **Topic:** Arrays
+- **Difficulty:** Easy
 - **Patterns:** Not classified
 - **Status:** Needs Review
-- **Problem:** [Open original](https://leetcode.com/problems/asteroid-collision/)
-- **Completed:** 2026-09-03T16:54:48.000Z
+- **Problem:** [Open original](https://leetcode.com/problems/two-sum/)
+- **Completed:** 2026-08-26T17:35:52.000Z
 
 ## Approach
 

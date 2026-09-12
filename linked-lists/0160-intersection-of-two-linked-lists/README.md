@@ -1,11 +1,11 @@
-# 735. Asteroid Collision
+# 160. Intersection of Two Linked Lists
 
-- **Topic:** Stacks & Queues
-- **Difficulty:** Medium
+- **Topic:** Linked Lists
+- **Difficulty:** Easy
 - **Patterns:** Not classified
 - **Status:** Needs Review
-- **Problem:** [Open original](https://leetcode.com/problems/asteroid-collision/)
-- **Completed:** 2026-09-03T16:54:48.000Z
+- **Problem:** [Open original](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- **Completed:** 2026-08-17T15:53:46.000Z
 
 ## Approach
 

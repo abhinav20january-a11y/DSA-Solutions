@@ -1,11 +1,11 @@
-# 735. Asteroid Collision
+# Next Smaller Element
 
 - **Topic:** Stacks & Queues
 - **Difficulty:** Medium
 - **Patterns:** Not classified
-- **Status:** Needs Review
-- **Problem:** [Open original](https://leetcode.com/problems/asteroid-collision/)
-- **Completed:** 2026-09-03T16:54:48.000Z
+- **Status:** Completed
+- **Problem:** [Open original](https://www.geeksforgeeks.org/problems/immediate-smaller-element1142)
+- **Completed:** 2026-09-12T16:22:57.664Z
 
 ## Approach
 

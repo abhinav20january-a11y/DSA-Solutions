@@ -4,8 +4,8 @@
 - **Difficulty:** Medium
 - **Patterns:** Not classified
 - **Status:** Completed
-- **Problem:** [Open original](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)
-- **Completed:** 2026-09-10T18:06:39.212Z
+- **Problem:** [Open original](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809)
+- **Completed:** 2026-09-12T16:22:57.664Z
 
 ## Approach
 

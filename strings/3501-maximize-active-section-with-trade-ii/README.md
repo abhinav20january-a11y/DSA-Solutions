@@ -1,11 +1,11 @@
-# 735. Asteroid Collision
+# 3501. Maximize Active Section with Trade II
 
-- **Topic:** Stacks & Queues
-- **Difficulty:** Medium
+- **Topic:** Strings
+- **Difficulty:** Hard
 - **Patterns:** Not classified
 - **Status:** Needs Review
-- **Problem:** [Open original](https://leetcode.com/problems/asteroid-collision/)
-- **Completed:** 2026-09-03T16:54:48.000Z
+- **Problem:** [Open original](https://leetcode.com/problems/maximize-active-section-with-trade-ii/)
+- **Completed:** 2026-07-22T18:24:38.000Z
 
 ## Approach
 

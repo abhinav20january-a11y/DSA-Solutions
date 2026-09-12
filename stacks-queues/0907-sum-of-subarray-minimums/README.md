@@ -1,11 +1,11 @@
-# 735. Asteroid Collision
+# 907. Sum of Subarray Minimums
 
 - **Topic:** Stacks & Queues
 - **Difficulty:** Medium
-- **Patterns:** Not classified
+- **Patterns:** Array, Dynamic Programming, Stack, Monotonic Stack
 - **Status:** Needs Review
-- **Problem:** [Open original](https://leetcode.com/problems/asteroid-collision/)
-- **Completed:** 2026-09-03T16:54:48.000Z
+- **Problem:** [Open original](https://leetcode.com/problems/sum-of-subarray-minimums/)
+- **Completed:** 2026-08-19T08:50:06.324Z
 
 ## Approach
 

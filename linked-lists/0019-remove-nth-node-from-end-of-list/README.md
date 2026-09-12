@@ -1,11 +1,11 @@
-# 735. Asteroid Collision
+# 19. Remove Nth Node From End of List
 
-- **Topic:** Stacks & Queues
+- **Topic:** Linked Lists
 - **Difficulty:** Medium
 - **Patterns:** Not classified
 - **Status:** Needs Review
-- **Problem:** [Open original](https://leetcode.com/problems/asteroid-collision/)
-- **Completed:** 2026-09-03T16:54:48.000Z
+- **Problem:** [Open original](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- **Completed:** 2026-08-20T15:44:21.793Z
 
 ## Approach
 

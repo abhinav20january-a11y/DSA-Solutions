@@ -1,11 +1,11 @@
-# Subarrays with equal 1s and 0s
+# Find Missing Elements
 
 - **Topic:** Arrays
-- **Difficulty:** Medium
+- **Difficulty:** Easy
 - **Patterns:** Not classified
 - **Status:** Completed
-- **Problem:** [Open original](https://www.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620)
-- **Completed:** 2026-09-12T16:22:57.664Z
+- **Problem:** [Open original](https://leetcode.com/problems/find-missing-elements/)
+- **Completed:** 2026-08-04T18:23:52.278Z
 
 ## Approach
 

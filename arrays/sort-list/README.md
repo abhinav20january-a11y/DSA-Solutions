@@ -1,11 +1,11 @@
-# 735. Asteroid Collision
+# Sort List
 
-- **Topic:** Stacks & Queues
+- **Topic:** Arrays
 - **Difficulty:** Medium
 - **Patterns:** Not classified
-- **Status:** Needs Review
-- **Problem:** [Open original](https://leetcode.com/problems/asteroid-collision/)
-- **Completed:** 2026-09-03T16:54:48.000Z
+- **Status:** Completed
+- **Problem:** [Open original](https://leetcode.com/problems/sort-list/)
+- **Completed:** 2026-08-05T14:11:37.140Z
 
 ## Approach
 
