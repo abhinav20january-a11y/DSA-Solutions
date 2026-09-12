@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-09-07T15:22:51.000Z",
+  "complexity": null,
+  "difficulty": "Medium",
+  "id": "9edd4d00-08b2-48a9-a10d-6f8d13dc5f55",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Sliding Window"
+}

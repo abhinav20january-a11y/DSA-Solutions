@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-09-11T17:02:33.000Z",
+  "complexity": null,
+  "difficulty": "Easy",
+  "id": "18119bce-2bd1-4cde-a034-30bbb96a1191",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/maximum-average-subarray-i/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Sliding Window"
+}

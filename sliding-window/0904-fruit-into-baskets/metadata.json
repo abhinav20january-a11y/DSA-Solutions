@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-09-09T17:48:12.000Z",
+  "complexity": null,
+  "difficulty": "Medium",
+  "id": "25a4d100-5c32-434e-b291-2e2e510a84c1",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/fruit-into-baskets/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Sliding Window"
+}

@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-09-08T14:45:46.000Z",
+  "complexity": null,
+  "difficulty": "Easy",
+  "id": "589d664c-edbb-4fd9-845c-8e7cec49fcc2",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/contains-duplicate/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Arrays"
+}

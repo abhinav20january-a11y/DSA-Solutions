@@ -466,5 +466,122 @@
     "path": "sliding-window/0003-longest-substring-without-repeating-characters/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "8cafbe33-f842-4d18-a564-f4b13772b4bf": {
+    "name": "Richest Customer Wealth",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/1672-richest-customer-wealth",
+    "path": "arrays/1672-richest-customer-wealth/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "589d664c-edbb-4fd9-845c-8e7cec49fcc2": {
+    "name": "Contains Duplicate",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/0217-contains-duplicate",
+    "path": "arrays/0217-contains-duplicate/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "1ff38ef5-c29d-43a2-b947-e10a9533dc4e": {
+    "name": "Subarray Sum Equals K",
+    "topic": "Hash Tables",
+    "difficulty": "Medium",
+    "folder": "hash-tables/0560-subarray-sum-equals-k",
+    "path": "hash-tables/0560-subarray-sum-equals-k/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "84e58119-706c-4451-9be7-4e6aadbb5c68": {
+    "name": "Contiguous Array",
+    "topic": "Hash Tables",
+    "difficulty": "Medium",
+    "folder": "hash-tables/0525-contiguous-array",
+    "path": "hash-tables/0525-contiguous-array/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "aa5daabe-d903-4624-92f2-d1faad22967b": {
+    "name": "Diameter of Binary Tree",
+    "topic": "Trees (Binary Trees, BST)",
+    "difficulty": "Easy",
+    "folder": "trees-binary-trees-bst/0543-diameter-of-binary-tree",
+    "path": "trees-binary-trees-bst/0543-diameter-of-binary-tree/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "2f380ef2-cd79-4222-bebc-6f54790fb9a9": {
+    "name": "Squares of a Sorted Array",
+    "topic": "Two Pointers",
+    "difficulty": "Easy",
+    "folder": "two-pointers/0977-squares-of-a-sorted-array",
+    "path": "two-pointers/0977-squares-of-a-sorted-array/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "53f6e7fa-607a-40fe-9315-154aef3410ea": {
+    "name": "Max Consecutive Ones III",
+    "topic": "Sliding Window",
+    "difficulty": "Medium",
+    "folder": "sliding-window/1004-max-consecutive-ones-iii",
+    "path": "sliding-window/1004-max-consecutive-ones-iii/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "9edd4d00-08b2-48a9-a10d-6f8d13dc5f55": {
+    "name": "Maximum Points You Can Obtain from Cards",
+    "topic": "Sliding Window",
+    "difficulty": "Medium",
+    "folder": "sliding-window/1423-maximum-points-you-can-obtain-from-cards",
+    "path": "sliding-window/1423-maximum-points-you-can-obtain-from-cards/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "25a4d100-5c32-434e-b291-2e2e510a84c1": {
+    "name": "Fruit Into Baskets",
+    "topic": "Sliding Window",
+    "difficulty": "Medium",
+    "folder": "sliding-window/0904-fruit-into-baskets",
+    "path": "sliding-window/0904-fruit-into-baskets/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "97df5edc-25e6-4fc0-9de2-e8e119cfe712": {
+    "name": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+    "topic": "Sliding Window",
+    "difficulty": "Medium",
+    "folder": "sliding-window/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+    "path": "sliding-window/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "18119bce-2bd1-4cde-a034-30bbb96a1191": {
+    "name": "Maximum Average Subarray I",
+    "topic": "Sliding Window",
+    "difficulty": "Easy",
+    "folder": "sliding-window/0643-maximum-average-subarray-i",
+    "path": "sliding-window/0643-maximum-average-subarray-i/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "f65236f5-8fee-4093-a9a8-ae1b7c95f63e": {
+    "name": "Maximum Number of Vowels in a Substring of Given Length",
+    "topic": "Sliding Window",
+    "difficulty": "Medium",
+    "folder": "sliding-window/1456-maximum-number-of-vowels-in-a-substring-of-given-length",
+    "path": "sliding-window/1456-maximum-number-of-vowels-in-a-substring-of-given-length/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "45207b84-12ad-44d3-a7ce-f5df14ce091d": {
+    "name": "Best Time to Buy And Sell Stock",
+    "topic": "Sliding Window",
+    "difficulty": "Easy",
+    "folder": "sliding-window/0121-best-time-to-buy-and-sell-stock",
+    "path": "sliding-window/0121-best-time-to-buy-and-sell-stock/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }

@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 58 | 12 | 27 | 28 | 3 |
+| 71 | 12 | 33 | 35 | 3 |
 
 ## Quality automation
 
@@ -18,6 +18,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 
 - [3 sum](./arrays/3-sum/) — Arrays · Medium
 - [Capacity To Ship Packages Within D Days](./arrays/1011-capacity-to-ship-packages-within-d-days/) — Arrays · Medium
+- [Contains Duplicate](./arrays/0217-contains-duplicate/) — Arrays · Easy
 - [Count Values With Equally Spaced Occurrences I](./arrays/4048-count-values-with-equally-spaced-occurrences-i/) — Arrays · Easy
 - [Count Values With Equally Spaced Occurrences II](./arrays/4049-count-values-with-equally-spaced-occurrences-ii/) — Arrays · Medium
 - [DSA Problem](./arrays/dsa-problem/) — Arrays · Medium
@@ -27,6 +28,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Product of Array Except Self](./arrays/0238-product-of-array-except-self/) — Arrays · Medium
 - [Range Sum Query - Immutable](./arrays/0303-range-sum-query-immutable/) — Arrays · Easy
 - [Remove Element](./arrays/0027-remove-element/) — Arrays · Easy
+- [Richest Customer Wealth](./arrays/1672-richest-customer-wealth/) — Arrays · Easy
 - [Running Sum of 1d Array](./arrays/1480-running-sum-of-1d-array/) — Arrays · Easy
 - [Sort List](./arrays/sort-list/) — Arrays · Medium
 - [Subarrays with equal 1s and 0s](./arrays/subarrays-with-equal-1s-and-0s/) — Arrays · Medium
@@ -36,8 +38,10 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Number of Unique XOR Triplets II](./bit-manipulation/3514-number-of-unique-xor-triplets-ii/) — Bit Manipulation · Medium
 - [hello](./graphs/hello/) — Graphs · Medium
 - [Minimum Number of Pushes to Type Word I](./greedy-algorithms/3014-minimum-number-of-pushes-to-type-word-i/) — Greedy Algorithms · Easy
+- [Contiguous Array](./hash-tables/0525-contiguous-array/) — Hash Tables · Medium
 - [How Many Numbers Are Smaller Than the Current Number](./hash-tables/1365-how-many-numbers-are-smaller-than-the-current-number/) — Hash Tables · Easy
 - [Smallest Palindromic Rearrangement II](./hash-tables/3518-smallest-palindromic-rearrangement-ii/) — Hash Tables · Hard
+- [Subarray Sum Equals K](./hash-tables/0560-subarray-sum-equals-k/) — Hash Tables · Medium
 - [Two Sum](./hash-tables/0001-two-sum/) — Hash Tables · Easy
 - [Add Two Numbers](./linked-lists/0002-add-two-numbers/) — Linked Lists · Medium
 - [Delete the Middle Node of a Linked List](./linked-lists/2095-delete-the-middle-node-of-a-linked-list/) — Linked Lists · Medium
@@ -52,8 +56,15 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Maximum Product of Three Numbers](./math-geometry/0628-maximum-product-of-three-numbers/) — Math & Geometry · Easy
 - [Maximum Product of Two Digits](./math-geometry/3536-maximum-product-of-two-digits/) — Math & Geometry · Easy
 - [Palindrome Number](./math-geometry/0009-palindrome-number/) — Math & Geometry · Easy
+- [Best Time to Buy And Sell Stock](./sliding-window/0121-best-time-to-buy-and-sell-stock/) — Sliding Window · Easy
+- [Fruit Into Baskets](./sliding-window/0904-fruit-into-baskets/) — Sliding Window · Medium
 - [Longest Substring Without Repeating Characters](./sliding-window/0003-longest-substring-without-repeating-characters/) — Sliding Window · Medium
+- [Max Consecutive Ones III](./sliding-window/1004-max-consecutive-ones-iii/) — Sliding Window · Medium
+- [Maximum Average Subarray I](./sliding-window/0643-maximum-average-subarray-i/) — Sliding Window · Easy
+- [Maximum Number of Vowels in a Substring of Given Length](./sliding-window/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) — Sliding Window · Medium
+- [Maximum Points You Can Obtain from Cards](./sliding-window/1423-maximum-points-you-can-obtain-from-cards/) — Sliding Window · Medium
 - [Minimum Size Subarray Sum](./sliding-window/0209-minimum-size-subarray-sum/) — Sliding Window · Medium
+- [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./sliding-window/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) — Sliding Window · Medium
 - [Asteroid Collision](./stacks-queues/0735-asteroid-collision/) — Stacks & Queues · Medium
 - [Daily Temperatures](./stacks-queues/0739-daily-temperatures/) — Stacks & Queues · Medium
 - [First Unique Character in a String](./stacks-queues/0387-first-unique-character-in-a-string/) — Stacks & Queues · Easy
@@ -71,6 +82,8 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Binary Tree Level Order Traversal](./trees-binary-trees-bst/0102-binary-tree-level-order-traversal/) — Trees (Binary Trees, BST) · Medium
 - [Binary Tree Postorder Traversal](./trees-binary-trees-bst/0145-binary-tree-postorder-traversal/) — Trees (Binary Trees, BST) · Easy
 - [Binary Tree Preorder Traversal](./trees-binary-trees-bst/0144-binary-tree-preorder-traversal/) — Trees (Binary Trees, BST) · Easy
+- [Diameter of Binary Tree](./trees-binary-trees-bst/0543-diameter-of-binary-tree/) — Trees (Binary Trees, BST) · Easy
 - [Preorder Traversal](./trees-binary-trees-bst/preorder-traversal/) — Trees (Binary Trees, BST) · Easy
+- [Squares of a Sorted Array](./two-pointers/0977-squares-of-a-sorted-array/) — Two Pointers · Easy
 - [Trapping Rain Water](./two-pointers/0042-trapping-rain-water/) — Two Pointers · Hard
 - [Valid Palindrome](./two-pointers/valid-palindrome/) — Two Pointers · Easy

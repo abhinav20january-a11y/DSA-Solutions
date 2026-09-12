@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-09-10T19:52:31.000Z",
+  "complexity": null,
+  "difficulty": "Easy",
+  "id": "45207b84-12ad-44d3-a7ce-f5df14ce091d",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Sliding Window"
+}
