@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 53 | 12 | 24 | 26 | 3 |
+| 58 | 12 | 27 | 28 | 3 |
 
 ## Quality automation
 
@@ -18,6 +18,8 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 
 - [3 sum](./arrays/3-sum/) — Arrays · Medium
 - [Capacity To Ship Packages Within D Days](./arrays/1011-capacity-to-ship-packages-within-d-days/) — Arrays · Medium
+- [Count Values With Equally Spaced Occurrences I](./arrays/4048-count-values-with-equally-spaced-occurrences-i/) — Arrays · Easy
+- [Count Values With Equally Spaced Occurrences II](./arrays/4049-count-values-with-equally-spaced-occurrences-ii/) — Arrays · Medium
 - [DSA Problem](./arrays/dsa-problem/) — Arrays · Medium
 - [Find Missing Elements](./arrays/find-missing-elements/) — Arrays · Easy
 - [Koko Eating Bananas](./arrays/0875-koko-eating-bananas/) — Arrays · Medium
@@ -50,9 +52,11 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Maximum Product of Three Numbers](./math-geometry/0628-maximum-product-of-three-numbers/) — Math & Geometry · Easy
 - [Maximum Product of Two Digits](./math-geometry/3536-maximum-product-of-two-digits/) — Math & Geometry · Easy
 - [Palindrome Number](./math-geometry/0009-palindrome-number/) — Math & Geometry · Easy
+- [Longest Substring Without Repeating Characters](./sliding-window/0003-longest-substring-without-repeating-characters/) — Sliding Window · Medium
 - [Minimum Size Subarray Sum](./sliding-window/0209-minimum-size-subarray-sum/) — Sliding Window · Medium
 - [Asteroid Collision](./stacks-queues/0735-asteroid-collision/) — Stacks & Queues · Medium
 - [Daily Temperatures](./stacks-queues/0739-daily-temperatures/) — Stacks & Queues · Medium
+- [First Unique Character in a String](./stacks-queues/0387-first-unique-character-in-a-string/) — Stacks & Queues · Easy
 - [Maximum Product of Two Elements in an Array](./stacks-queues/1464-maximum-product-of-two-elements-in-an-array/) — Stacks & Queues · Easy
 - [Min Stack](./stacks-queues/0155-min-stack/) — Stacks & Queues · Medium
 - [Next Greater Element I](./stacks-queues/0496-next-greater-element-i/) — Stacks & Queues · Easy
@@ -69,3 +73,4 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Binary Tree Preorder Traversal](./trees-binary-trees-bst/0144-binary-tree-preorder-traversal/) — Trees (Binary Trees, BST) · Easy
 - [Preorder Traversal](./trees-binary-trees-bst/preorder-traversal/) — Trees (Binary Trees, BST) · Easy
 - [Trapping Rain Water](./two-pointers/0042-trapping-rain-water/) — Two Pointers · Hard
+- [Valid Palindrome](./two-pointers/valid-palindrome/) — Two Pointers · Easy

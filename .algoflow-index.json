@@ -421,5 +421,50 @@
     "folder": "arrays/0001-two-sum",
     "path": "arrays/0001-two-sum/solution.cpp",
     "pinned": false
+  },
+  "845eaf8a-84f4-480a-8d30-86426e986aea": {
+    "name": "Count Values With Equally Spaced Occurrences II",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/4049-count-values-with-equally-spaced-occurrences-ii",
+    "path": "arrays/4049-count-values-with-equally-spaced-occurrences-ii/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "040ad9f8-14c2-4605-9024-f15240675079": {
+    "name": "Count Values With Equally Spaced Occurrences I",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/4048-count-values-with-equally-spaced-occurrences-i",
+    "path": "arrays/4048-count-values-with-equally-spaced-occurrences-i/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "a393f828-df5b-497a-885b-d37fb6c4159d": {
+    "name": "First Unique Character in a String",
+    "topic": "Stacks & Queues",
+    "difficulty": "Easy",
+    "folder": "stacks-queues/0387-first-unique-character-in-a-string",
+    "path": "stacks-queues/0387-first-unique-character-in-a-string/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "fa695422-c454-4a6e-a62f-dc88b96917a5": {
+    "name": "Valid Palindrome",
+    "topic": "Two Pointers",
+    "difficulty": "Easy",
+    "folder": "two-pointers/valid-palindrome",
+    "path": "two-pointers/valid-palindrome/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "76c3874d-b968-4e37-bc15-d93917b2c4e3": {
+    "name": "Longest Substring Without Repeating Characters",
+    "topic": "Sliding Window",
+    "difficulty": "Medium",
+    "folder": "sliding-window/0003-longest-substring-without-repeating-characters",
+    "path": "sliding-window/0003-longest-substring-without-repeating-characters/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
