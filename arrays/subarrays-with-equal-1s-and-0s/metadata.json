@@ -1,11 +1,11 @@
 {
-  "completedAt": "2026-09-12T17:47:20.256Z",
+  "completedAt": "2026-09-13T14:49:47.241Z",
   "complexity": null,
   "difficulty": "Medium",
   "id": "3dfc883c-4f83-438b-9093-e7346e5b4f2e",
   "patterns": [],
   "pinned": false,
-  "source": "https://www.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620",
+  "source": "https://www.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1",
   "syncedBy": "AlgoFlow",
   "topic": "Arrays"
 }

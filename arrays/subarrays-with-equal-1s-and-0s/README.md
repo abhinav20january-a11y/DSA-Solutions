@@ -3,9 +3,9 @@
 - **Topic:** Arrays
 - **Difficulty:** Medium
 - **Patterns:** Not classified
-- **Status:** Needs Review
-- **Problem:** [Open original](https://www.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620)
-- **Completed:** 2026-09-12T17:47:20.256Z
+- **Status:** Completed
+- **Problem:** [Open original](https://www.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1)
+- **Completed:** 2026-09-13T14:49:47.241Z
 - **Solution capture:** Saved
 
 ## Approach

@@ -1,14 +1,12 @@
 class Solution {
   public:
     int countSubarray(vector<int>& arr) {
-        map<int,int>mp;
         int sum=0;
         int cnt=0;
+        map<int,int>mp;
         for(int i=0;i<arr.size();i++){
             if(arr[i]==0){
                 sum--;
-                
-                
             }
             else{
                 sum++;
@@ -22,10 +20,6 @@ class Solution {
             mp[sum]++;
         }
         return cnt;
-        
-        
-        
-          
         
         
     }
