@@ -593,5 +593,14 @@
     "path": "stacks-queues/infix-to-postfix/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "fba57e8e-b06b-44c6-9044-6f7cff655a16": {
+    "name": "Number of Substrings Containing All Three Characters",
+    "topic": "Trees (Binary Trees, BST)",
+    "difficulty": "Medium",
+    "folder": "trees-binary-trees-bst/1358-number-of-substrings-containing-all-three-characters",
+    "path": "trees-binary-trees-bst/1358-number-of-substrings-containing-all-three-characters/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }

@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-09-13T15:42:41.000Z",
+  "complexity": null,
+  "difficulty": "Medium",
+  "id": "fba57e8e-b06b-44c6-9044-6f7cff655a16",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Trees (Binary Trees, BST)"
+}
