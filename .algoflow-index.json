@@ -584,5 +584,14 @@
     "path": "sliding-window/0121-best-time-to-buy-and-sell-stock/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "e5f4ddf8-0c04-4154-a597-c64b47e8744f": {
+    "name": "Infix to Postfix",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "folder": "stacks-queues/infix-to-postfix",
+    "path": "stacks-queues/infix-to-postfix/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }

@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 71 | 12 | 33 | 35 | 3 |
+| 72 | 12 | 33 | 36 | 3 |
 
 ## Quality automation
 
@@ -68,6 +68,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Asteroid Collision](./stacks-queues/0735-asteroid-collision/) — Stacks & Queues · Medium
 - [Daily Temperatures](./stacks-queues/0739-daily-temperatures/) — Stacks & Queues · Medium
 - [First Unique Character in a String](./stacks-queues/0387-first-unique-character-in-a-string/) — Stacks & Queues · Easy
+- [Infix to Postfix](./stacks-queues/infix-to-postfix/) — Stacks & Queues · Medium
 - [Maximum Product of Two Elements in an Array](./stacks-queues/1464-maximum-product-of-two-elements-in-an-array/) — Stacks & Queues · Easy
 - [Min Stack](./stacks-queues/0155-min-stack/) — Stacks & Queues · Medium
 - [Next Greater Element I](./stacks-queues/0496-next-greater-element-i/) — Stacks & Queues · Easy
