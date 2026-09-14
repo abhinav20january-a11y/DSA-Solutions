@@ -611,5 +611,14 @@
     "path": "arrays/0242-valid-anagram/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "2997f2ed-1b1e-4e74-ba9a-1fbe29c7c1eb": {
+    "name": "Find First and Last Position of Element in Sorted Array",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/0034-find-first-and-last-position-of-element-in-sorted-array",
+    "path": "arrays/0034-find-first-and-last-position-of-element-in-sorted-array/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }

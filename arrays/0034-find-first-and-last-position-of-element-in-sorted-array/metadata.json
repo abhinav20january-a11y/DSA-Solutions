@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-09-14T13:09:37.000Z",
+  "complexity": null,
+  "difficulty": "Medium",
+  "id": "2997f2ed-1b1e-4e74-ba9a-1fbe29c7c1eb",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Arrays"
+}
