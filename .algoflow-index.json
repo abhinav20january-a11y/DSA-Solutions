@@ -602,5 +602,14 @@
     "path": "trees-binary-trees-bst/1358-number-of-substrings-containing-all-three-characters/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "c3370819-0035-46e6-9386-36728eae70df": {
+    "name": "Valid Anagram",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/0242-valid-anagram",
+    "path": "arrays/0242-valid-anagram/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
