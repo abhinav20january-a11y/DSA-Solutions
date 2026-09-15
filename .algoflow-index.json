@@ -666,5 +666,14 @@
     "path": "arrays/0088-merge-sorted-array/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "940bc14f-3b2a-452f-956a-c1f3d6006cce": {
+    "name": "Best Time to Buy and Sell Stock II",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/0122-best-time-to-buy-and-sell-stock-ii",
+    "path": "arrays/0122-best-time-to-buy-and-sell-stock-ii/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
