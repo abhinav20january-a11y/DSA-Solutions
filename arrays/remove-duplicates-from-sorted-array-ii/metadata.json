@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-09-15T15:13:42.631Z",
+  "complexity": null,
+  "difficulty": "Medium",
+  "id": "b5587d55-0c79-42e4-b8d4-20dd466fc460",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Arrays"
+}
