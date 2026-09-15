@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 78 | 12 | 36 | 39 | 3 |
+| 79 | 12 | 36 | 40 | 3 |
 
 ## Quality automation
 
@@ -33,6 +33,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Remove Duplicates from Sorted Array II](./arrays/remove-duplicates-from-sorted-array-ii/) — Arrays · Medium
 - [Remove Element](./arrays/0027-remove-element/) — Arrays · Easy
 - [Richest Customer Wealth](./arrays/1672-richest-customer-wealth/) — Arrays · Easy
+- [Rotate Array](./arrays/0189-rotate-array/) — Arrays · Medium
 - [Running Sum of 1d Array](./arrays/1480-running-sum-of-1d-array/) — Arrays · Easy
 - [Sort List](./arrays/sort-list/) — Arrays · Medium
 - [Subarrays with equal 1s and 0s](./arrays/subarrays-with-equal-1s-and-0s/) — Arrays · Medium

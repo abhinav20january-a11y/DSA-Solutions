@@ -648,5 +648,14 @@
     "path": "arrays/0169-majority-element/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "3b731a9c-4c8d-4b3e-a671-3a3587fccca9": {
+    "name": "Rotate Array",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/0189-rotate-array",
+    "path": "arrays/0189-rotate-array/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
