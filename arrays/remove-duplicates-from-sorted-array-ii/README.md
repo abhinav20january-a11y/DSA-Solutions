@@ -5,7 +5,7 @@
 - **Patterns:** Array, Two Pointers
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
-- **Completed:** 2026-09-15T15:13:42.631Z
+- **Completed:** 2026-09-15T15:58:29.000Z
 - **Solution capture:** Pending — reopen the accepted submission with the AlgoFlow companion enabled
 
 ## Approach
