@@ -675,5 +675,14 @@
     "path": "arrays/0122-best-time-to-buy-and-sell-stock-ii/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "631ad52c-ff7d-4afa-9fde-3e4a35f4d063": {
+    "name": "Jump Game",
+    "topic": "Greedy Algorithms",
+    "difficulty": "Medium",
+    "folder": "greedy-algorithms/0055-jump-game",
+    "path": "greedy-algorithms/0055-jump-game/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }

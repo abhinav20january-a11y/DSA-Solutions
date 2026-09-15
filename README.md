@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 81 | 12 | 37 | 41 | 3 |
+| 82 | 12 | 37 | 42 | 3 |
 
 ## Quality automation
 
@@ -45,6 +45,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Number of Unique XOR Triplets I](./bit-manipulation/3513-number-of-unique-xor-triplets-i/) — Bit Manipulation · Medium
 - [Number of Unique XOR Triplets II](./bit-manipulation/3514-number-of-unique-xor-triplets-ii/) — Bit Manipulation · Medium
 - [hello](./graphs/hello/) — Graphs · Medium
+- [Jump Game](./greedy-algorithms/0055-jump-game/) — Greedy Algorithms · Medium
 - [Minimum Number of Pushes to Type Word I](./greedy-algorithms/3014-minimum-number-of-pushes-to-type-word-i/) — Greedy Algorithms · Easy
 - [Contiguous Array](./hash-tables/0525-contiguous-array/) — Hash Tables · Medium
 - [How Many Numbers Are Smaller Than the Current Number](./hash-tables/1365-how-many-numbers-are-smaller-than-the-current-number/) — Hash Tables · Easy
