@@ -657,5 +657,14 @@
     "path": "arrays/0189-rotate-array/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "7f8c6eba-f528-48f4-ab4e-2ec50820fd2e": {
+    "name": "Merge Sorted Array",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/0088-merge-sorted-array",
+    "path": "arrays/0088-merge-sorted-array/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
