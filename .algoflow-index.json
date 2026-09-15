@@ -630,5 +630,14 @@
     "path": "arrays/remove-duplicates-from-sorted-array-ii/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "c5a80355-70a6-48c2-8905-f4ac35ca4722": {
+    "name": "Remove Duplicates from Sorted Array",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/remove-duplicates-from-sorted-array",
+    "path": "arrays/remove-duplicates-from-sorted-array/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }

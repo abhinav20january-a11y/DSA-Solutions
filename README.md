@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 76 | 12 | 34 | 39 | 3 |
+| 77 | 12 | 35 | 39 | 3 |
 
 ## Quality automation
 
@@ -28,6 +28,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Longest Subarray with Sum K](./arrays/longest-subarray-with-sum-k/) — Arrays · Medium
 - [Product of Array Except Self](./arrays/0238-product-of-array-except-self/) — Arrays · Medium
 - [Range Sum Query - Immutable](./arrays/0303-range-sum-query-immutable/) — Arrays · Easy
+- [Remove Duplicates from Sorted Array](./arrays/remove-duplicates-from-sorted-array/) — Arrays · Easy
 - [Remove Duplicates from Sorted Array II](./arrays/remove-duplicates-from-sorted-array-ii/) — Arrays · Medium
 - [Remove Element](./arrays/0027-remove-element/) — Arrays · Easy
 - [Richest Customer Wealth](./arrays/1672-richest-customer-wealth/) — Arrays · Easy
