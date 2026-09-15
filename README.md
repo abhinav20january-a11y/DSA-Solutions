@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 77 | 12 | 35 | 39 | 3 |
+| 78 | 12 | 36 | 39 | 3 |
 
 ## Quality automation
 
@@ -26,6 +26,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Find Missing Elements](./arrays/find-missing-elements/) — Arrays · Easy
 - [Koko Eating Bananas](./arrays/0875-koko-eating-bananas/) — Arrays · Medium
 - [Longest Subarray with Sum K](./arrays/longest-subarray-with-sum-k/) — Arrays · Medium
+- [Majority Element](./arrays/0169-majority-element/) — Arrays · Easy
 - [Product of Array Except Self](./arrays/0238-product-of-array-except-self/) — Arrays · Medium
 - [Range Sum Query - Immutable](./arrays/0303-range-sum-query-immutable/) — Arrays · Easy
 - [Remove Duplicates from Sorted Array](./arrays/remove-duplicates-from-sorted-array/) — Arrays · Easy

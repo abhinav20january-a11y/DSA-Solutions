@@ -639,5 +639,14 @@
     "path": "arrays/remove-duplicates-from-sorted-array/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "e3cae609-7451-42aa-8501-117138612d72": {
+    "name": "Majority Element",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/0169-majority-element",
+    "path": "arrays/0169-majority-element/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
