@@ -5,7 +5,7 @@
 - **Patterns:** Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/majority-element/)
-- **Completed:** 2026-09-15T16:05:31.000Z
+- **Completed:** 2026-09-15T16:43:44.000Z
 - **Solution capture:** Pending — reopen the accepted submission with the AlgoFlow companion enabled
 
 ## Approach
