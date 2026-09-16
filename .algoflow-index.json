@@ -684,5 +684,14 @@
     "path": "greedy-algorithms/0055-jump-game/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "8094534b-6706-4996-a977-3756366ed259": {
+    "name": "Subarray Product Less Than K",
+    "topic": "Sliding Window",
+    "difficulty": "Medium",
+    "folder": "sliding-window/0713-subarray-product-less-than-k",
+    "path": "sliding-window/0713-subarray-product-less-than-k/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
