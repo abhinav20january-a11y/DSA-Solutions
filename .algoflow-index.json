@@ -720,5 +720,14 @@
     "path": "arrays/1732-find-the-highest-altitude/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "0b51e0b1-8d42-4f74-aa95-0fff9346ec61": {
+    "name": "Longest Repeating Character Replacement",
+    "topic": "Sliding Window",
+    "difficulty": "Medium",
+    "folder": "sliding-window/0424-longest-repeating-character-replacement",
+    "path": "sliding-window/0424-longest-repeating-character-replacement/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
