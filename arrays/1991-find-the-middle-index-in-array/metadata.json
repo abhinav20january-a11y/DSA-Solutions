@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-09-17T16:30:51.000Z",
+  "complexity": null,
+  "difficulty": "Easy",
+  "id": "c9062292-d434-4094-be53-3b37668a9afd",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/find-the-middle-index-in-array/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Arrays"
+}

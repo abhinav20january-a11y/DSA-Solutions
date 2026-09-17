@@ -702,5 +702,14 @@
     "path": "arrays/0724-find-pivot-index/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "c9062292-d434-4094-be53-3b37668a9afd": {
+    "name": "Find the Middle Index in Array",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/1991-find-the-middle-index-in-array",
+    "path": "arrays/1991-find-the-middle-index-in-array/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
