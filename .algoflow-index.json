@@ -693,5 +693,14 @@
     "path": "sliding-window/0713-subarray-product-less-than-k/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "4a6f88fb-0dbd-4703-a9a7-73f9ddde7965": {
+    "name": "Find Pivot Index",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/0724-find-pivot-index",
+    "path": "arrays/0724-find-pivot-index/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
