@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 85 | 12 | 39 | 43 | 3 |
+| 86 | 12 | 40 | 43 | 3 |
 
 ## Quality automation
 
@@ -26,6 +26,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Find First and Last Position of Element in Sorted Array](./arrays/0034-find-first-and-last-position-of-element-in-sorted-array/) — Arrays · Medium
 - [Find Missing Elements](./arrays/find-missing-elements/) — Arrays · Easy
 - [Find Pivot Index](./arrays/0724-find-pivot-index/) — Arrays · Easy
+- [Find the Highest Altitude](./arrays/1732-find-the-highest-altitude/) — Arrays · Easy
 - [Find the Middle Index in Array](./arrays/1991-find-the-middle-index-in-array/) — Arrays · Easy
 - [Koko Eating Bananas](./arrays/0875-koko-eating-bananas/) — Arrays · Medium
 - [Longest Subarray with Sum K](./arrays/longest-subarray-with-sum-k/) — Arrays · Medium

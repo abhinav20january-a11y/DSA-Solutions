@@ -711,5 +711,14 @@
     "path": "arrays/1991-find-the-middle-index-in-array/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "34aa6d4f-a789-42b9-ba90-26a11938168d": {
+    "name": "Find the Highest Altitude",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/1732-find-the-highest-altitude",
+    "path": "arrays/1732-find-the-highest-altitude/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
