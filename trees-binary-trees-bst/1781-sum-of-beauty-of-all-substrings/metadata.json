@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-09-18T17:02:11.000Z",
+  "complexity": null,
+  "difficulty": "Medium",
+  "id": "f571aaba-bd31-470d-a2ba-776704151f22",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Trees (Binary Trees, BST)"
+}

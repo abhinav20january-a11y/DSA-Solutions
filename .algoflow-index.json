@@ -729,5 +729,14 @@
     "path": "sliding-window/0424-longest-repeating-character-replacement/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "f571aaba-bd31-470d-a2ba-776704151f22": {
+    "name": "Sum of Beauty of All Substrings",
+    "topic": "Trees (Binary Trees, BST)",
+    "difficulty": "Medium",
+    "folder": "trees-binary-trees-bst/1781-sum-of-beauty-of-all-substrings",
+    "path": "trees-binary-trees-bst/1781-sum-of-beauty-of-all-substrings/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
