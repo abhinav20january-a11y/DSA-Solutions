@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 88 | 12 | 40 | 45 | 3 |
+| 89 | 12 | 41 | 45 | 3 |
 
 ## Quality automation
 
@@ -52,6 +52,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Minimum Number of Pushes to Type Word I](./greedy-algorithms/3014-minimum-number-of-pushes-to-type-word-i/) — Greedy Algorithms · Easy
 - [Contiguous Array](./hash-tables/0525-contiguous-array/) — Hash Tables · Medium
 - [How Many Numbers Are Smaller Than the Current Number](./hash-tables/1365-how-many-numbers-are-smaller-than-the-current-number/) — Hash Tables · Easy
+- [Ransom Note](./hash-tables/0383-ransom-note/) — Hash Tables · Easy
 - [Smallest Palindromic Rearrangement II](./hash-tables/3518-smallest-palindromic-rearrangement-ii/) — Hash Tables · Hard
 - [Subarray Sum Equals K](./hash-tables/0560-subarray-sum-equals-k/) — Hash Tables · Medium
 - [Two Sum](./hash-tables/0001-two-sum/) — Hash Tables · Easy

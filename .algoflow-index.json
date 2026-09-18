@@ -738,5 +738,14 @@
     "path": "trees-binary-trees-bst/1781-sum-of-beauty-of-all-substrings/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "b24fd9be-2c1c-429a-abd0-040ce1457646": {
+    "name": "Ransom Note",
+    "topic": "Hash Tables",
+    "difficulty": "Easy",
+    "folder": "hash-tables/0383-ransom-note",
+    "path": "hash-tables/0383-ransom-note/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
