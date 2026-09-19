@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-09-19T13:51:15.000Z",
+  "complexity": null,
+  "difficulty": "Easy",
+  "id": "c32045b4-9d5a-4cb7-b1d3-62fab387877a",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Arrays"
+}

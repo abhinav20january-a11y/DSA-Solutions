@@ -747,5 +747,14 @@
     "path": "hash-tables/0383-ransom-note/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "c32045b4-9d5a-4cb7-b1d3-62fab387877a": {
+    "name": "Minimum Value to Get Positive Step by Step Sum",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/1413-minimum-value-to-get-positive-step-by-step-sum",
+    "path": "arrays/1413-minimum-value-to-get-positive-step-by-step-sum/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
