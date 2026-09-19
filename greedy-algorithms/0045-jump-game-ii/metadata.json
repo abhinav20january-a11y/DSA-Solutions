@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-09-19T17:53:06.000Z",
+  "complexity": null,
+  "difficulty": "Medium",
+  "id": "800a4405-3357-4bd3-bdbe-85a571e2b0d6",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/jump-game-ii/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Greedy Algorithms"
+}

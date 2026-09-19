@@ -801,5 +801,14 @@
     "path": "arrays/0380-insert-delete-getrandom-o-1/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "800a4405-3357-4bd3-bdbe-85a571e2b0d6": {
+    "name": "Jump Game II",
+    "topic": "Greedy Algorithms",
+    "difficulty": "Medium",
+    "folder": "greedy-algorithms/0045-jump-game-ii",
+    "path": "greedy-algorithms/0045-jump-game-ii/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
