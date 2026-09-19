@@ -774,5 +774,14 @@
     "path": "arrays/2270-number-of-ways-to-split-array/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "e9aa375e-010a-45db-ba48-4714188466b8": {
+    "name": "Subarrays with K Different Integers",
+    "topic": "Sliding Window",
+    "difficulty": "Hard",
+    "folder": "sliding-window/0992-subarrays-with-k-different-integers",
+    "path": "sliding-window/0992-subarrays-with-k-different-integers/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
