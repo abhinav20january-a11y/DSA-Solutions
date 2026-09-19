@@ -792,5 +792,14 @@
     "path": "arrays/0274-h-index/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "0f4b6abc-07f3-48a6-a7e3-30365880935e": {
+    "name": "Insert Delete GetRandom O(1)",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/0380-insert-delete-getrandom-o-1",
+    "path": "arrays/0380-insert-delete-getrandom-o-1/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }

@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-09-19T17:35:54.000Z",
+  "complexity": null,
+  "difficulty": "Medium",
+  "id": "0f4b6abc-07f3-48a6-a7e3-30365880935e",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/insert-delete-getrandom-o1/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Arrays"
+}
