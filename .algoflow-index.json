@@ -783,5 +783,14 @@
     "path": "sliding-window/0992-subarrays-with-k-different-integers/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "6642e568-0d01-4899-b454-98286ce4aac2": {
+    "name": "H-Index",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/0274-h-index",
+    "path": "arrays/0274-h-index/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
