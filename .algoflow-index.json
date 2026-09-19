@@ -765,5 +765,14 @@
     "path": "arrays/1588-sum-of-all-odd-length-subarrays/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "d37988e2-7f84-4391-8058-661eaefc3538": {
+    "name": "Number of Ways to Split Array",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/2270-number-of-ways-to-split-array",
+    "path": "arrays/2270-number-of-ways-to-split-array/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
