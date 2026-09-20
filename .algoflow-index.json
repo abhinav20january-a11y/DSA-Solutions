@@ -864,5 +864,14 @@
     "path": "arrays/1109-corporate-flight-bookings/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "4d80d1ee-6a19-469c-b743-57e67633395f": {
+    "name": "Is Subsequence",
+    "topic": "Two Pointers",
+    "difficulty": "Easy",
+    "folder": "two-pointers/0392-is-subsequence",
+    "path": "two-pointers/0392-is-subsequence/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
