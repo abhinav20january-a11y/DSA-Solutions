@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 101 | 12 | 43 | 54 | 4 |
+| 102 | 12 | 43 | 55 | 4 |
 
 ## Quality automation
 
@@ -21,6 +21,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Capacity To Ship Packages Within D Days](./arrays/1011-capacity-to-ship-packages-within-d-days/) — Arrays · Medium
 - [Car Pooling](./arrays/1094-car-pooling/) — Arrays · Medium
 - [Contains Duplicate](./arrays/0217-contains-duplicate/) — Arrays · Easy
+- [Corporate Flight Bookings](./arrays/1109-corporate-flight-bookings/) — Arrays · Medium
 - [Count Values With Equally Spaced Occurrences I](./arrays/4048-count-values-with-equally-spaced-occurrences-i/) — Arrays · Easy
 - [Count Values With Equally Spaced Occurrences II](./arrays/4049-count-values-with-equally-spaced-occurrences-ii/) — Arrays · Medium
 - [DSA Problem](./arrays/dsa-problem/) — Arrays · Medium

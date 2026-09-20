@@ -855,5 +855,14 @@
     "path": "arrays/1094-car-pooling/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "1c6bb7dd-e1bc-4e3d-a75b-ad3036fe3b4f": {
+    "name": "Corporate Flight Bookings",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/1109-corporate-flight-bookings",
+    "path": "arrays/1109-corporate-flight-bookings/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
