@@ -846,5 +846,14 @@
     "path": "sliding-window/0438-find-all-anagrams-in-a-string/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "c83572bd-10dd-4553-ad1a-5178df3c8b31": {
+    "name": "Car Pooling",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/1094-car-pooling",
+    "path": "arrays/1094-car-pooling/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
