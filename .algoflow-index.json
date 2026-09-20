@@ -873,5 +873,14 @@
     "path": "two-pointers/0392-is-subsequence/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "2b404c8f-e6e9-4661-a7a9-5dd7c721a60e": {
+    "name": "3Sum",
+    "topic": "Two Pointers",
+    "difficulty": "Medium",
+    "folder": "two-pointers/0015-3sum",
+    "path": "two-pointers/0015-3sum/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
