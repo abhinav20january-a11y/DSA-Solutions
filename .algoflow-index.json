@@ -837,5 +837,14 @@
     "path": "greedy-algorithms/0053-maximum-subarray/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "1e10bc8e-fbbe-416b-8408-0bc23b036e21": {
+    "name": "Find All Anagrams in a String",
+    "topic": "Sliding Window",
+    "difficulty": "Medium",
+    "folder": "sliding-window/0438-find-all-anagrams-in-a-string",
+    "path": "sliding-window/0438-find-all-anagrams-in-a-string/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
