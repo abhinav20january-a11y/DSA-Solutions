@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-09-20T13:30:33.000Z",
+  "complexity": null,
+  "difficulty": "Medium",
+  "id": "71008bab-1314-4314-97f3-c9026ca158e0",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Two Pointers"
+}

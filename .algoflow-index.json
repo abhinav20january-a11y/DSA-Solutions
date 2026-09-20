@@ -819,5 +819,14 @@
     "path": "sliding-window/0567-permutation-in-string/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "71008bab-1314-4314-97f3-c9026ca158e0": {
+    "name": "Two Sum II - Input Array Is Sorted",
+    "topic": "Two Pointers",
+    "difficulty": "Medium",
+    "folder": "two-pointers/0167-two-sum-ii-input-array-is-sorted",
+    "path": "two-pointers/0167-two-sum-ii-input-array-is-sorted/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
