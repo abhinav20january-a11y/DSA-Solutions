@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-09-20T08:06:25.000Z",
+  "complexity": null,
+  "difficulty": "Medium",
+  "id": "cf0969f4-c845-4872-b7c1-4d9661448500",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/permutation-in-string/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Sliding Window"
+}

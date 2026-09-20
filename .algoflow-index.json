@@ -810,5 +810,14 @@
     "path": "greedy-algorithms/0045-jump-game-ii/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "cf0969f4-c845-4872-b7c1-4d9661448500": {
+    "name": "Permutation in String",
+    "topic": "Sliding Window",
+    "difficulty": "Medium",
+    "folder": "sliding-window/0567-permutation-in-string",
+    "path": "sliding-window/0567-permutation-in-string/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
