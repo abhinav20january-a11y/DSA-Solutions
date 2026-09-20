@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 98 | 12 | 43 | 51 | 4 |
+| 99 | 12 | 43 | 52 | 4 |
 
 ## Quality automation
 
@@ -55,6 +55,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [hello](./graphs/hello/) — Graphs · Medium
 - [Jump Game](./greedy-algorithms/0055-jump-game/) — Greedy Algorithms · Medium
 - [Jump Game II](./greedy-algorithms/0045-jump-game-ii/) — Greedy Algorithms · Medium
+- [Maximum Subarray](./greedy-algorithms/0053-maximum-subarray/) — Greedy Algorithms · Medium
 - [Minimum Number of Pushes to Type Word I](./greedy-algorithms/3014-minimum-number-of-pushes-to-type-word-i/) — Greedy Algorithms · Easy
 - [Contiguous Array](./hash-tables/0525-contiguous-array/) — Hash Tables · Medium
 - [How Many Numbers Are Smaller Than the Current Number](./hash-tables/1365-how-many-numbers-are-smaller-than-the-current-number/) — Hash Tables · Easy

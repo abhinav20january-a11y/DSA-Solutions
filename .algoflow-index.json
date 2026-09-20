@@ -828,5 +828,14 @@
     "path": "two-pointers/0167-two-sum-ii-input-array-is-sorted/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "c571bf4f-9774-45a3-a3ce-68c285e596d0": {
+    "name": "Maximum Subarray",
+    "topic": "Greedy Algorithms",
+    "difficulty": "Medium",
+    "folder": "greedy-algorithms/0053-maximum-subarray",
+    "path": "greedy-algorithms/0053-maximum-subarray/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
