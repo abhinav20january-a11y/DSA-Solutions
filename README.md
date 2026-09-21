@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 104 | 12 | 44 | 56 | 4 |
+| 105 | 12 | 44 | 57 | 4 |
 
 ## Quality automation
 
@@ -116,6 +116,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Sum of Beauty of All Substrings](./trees-binary-trees-bst/1781-sum-of-beauty-of-all-substrings/) — Trees (Binary Trees, BST) · Medium
 - [3Sum](./two-pointers/0015-3sum/) — Two Pointers · Medium
 - [Is Subsequence](./two-pointers/0392-is-subsequence/) — Two Pointers · Easy
+- [Sort Colors](./two-pointers/0075-sort-colors/) — Two Pointers · Medium
 - [Squares of a Sorted Array](./two-pointers/0977-squares-of-a-sorted-array/) — Two Pointers · Easy
 - [Trapping Rain Water](./two-pointers/0042-trapping-rain-water/) — Two Pointers · Hard
 - [Two Sum II - Input Array Is Sorted](./two-pointers/0167-two-sum-ii-input-array-is-sorted/) — Two Pointers · Medium
