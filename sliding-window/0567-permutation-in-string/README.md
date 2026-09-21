@@ -5,7 +5,7 @@
 - **Patterns:** Hash Table, Two Pointers, String, Sliding Window
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/permutation-in-string/)
-- **Completed:** 2026-09-20T08:06:25.000Z
+- **Completed:** 2026-09-20T14:40:12.000Z
 - **Solution capture:** Pending — reopen the accepted submission with the AlgoFlow companion enabled
 
 ## Approach
