@@ -891,5 +891,14 @@
     "path": "two-pointers/0075-sort-colors/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "cb7fbddd-3270-4a75-ac87-6ebbb5fa574c": {
+    "name": "4Sum",
+    "topic": "Two Pointers",
+    "difficulty": "Medium",
+    "folder": "two-pointers/0018-4sum",
+    "path": "two-pointers/0018-4sum/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
