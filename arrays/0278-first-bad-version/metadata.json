@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-09-23T17:21:01.000Z",
+  "complexity": null,
+  "difficulty": "Easy",
+  "id": "e7645ec9-8a27-43aa-bf67-3aaad2ed37b9",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/first-bad-version/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Arrays"
+}

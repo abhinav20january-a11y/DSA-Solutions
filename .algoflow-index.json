@@ -900,5 +900,14 @@
     "path": "two-pointers/0018-4sum/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "e7645ec9-8a27-43aa-bf67-3aaad2ed37b9": {
+    "name": "First Bad Version",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/0278-first-bad-version",
+    "path": "arrays/0278-first-bad-version/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }

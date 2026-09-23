@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 106 | 12 | 44 | 58 | 4 |
+| 107 | 12 | 45 | 58 | 4 |
 
 ## Quality automation
 
@@ -30,6 +30,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Find Pivot Index](./arrays/0724-find-pivot-index/) — Arrays · Easy
 - [Find the Highest Altitude](./arrays/1732-find-the-highest-altitude/) — Arrays · Easy
 - [Find the Middle Index in Array](./arrays/1991-find-the-middle-index-in-array/) — Arrays · Easy
+- [First Bad Version](./arrays/0278-first-bad-version/) — Arrays · Easy
 - [H-Index](./arrays/0274-h-index/) — Arrays · Medium
 - [Insert Delete GetRandom O(1)](./arrays/0380-insert-delete-getrandom-o-1/) — Arrays · Medium
 - [Koko Eating Bananas](./arrays/0875-koko-eating-bananas/) — Arrays · Medium
