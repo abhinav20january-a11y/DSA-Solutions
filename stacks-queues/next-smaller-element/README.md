@@ -5,7 +5,8 @@
 - **Patterns:** Not classified
 - **Status:** Completed
 - **Problem:** [Open original](https://www.geeksforgeeks.org/problems/immediate-smaller-element1142)
-- **Completed:** 2026-09-12T16:22:57.664Z
+- **Completed:** 2026-09-24T14:18:02.430Z
+- **Solution capture:** Saved
 
 ## Approach
 
