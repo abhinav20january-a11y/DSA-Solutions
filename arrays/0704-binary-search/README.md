@@ -1,11 +1,11 @@
-# 567. Permutation in String
+# 704. Binary Search
 
-- **Topic:** Sliding Window
-- **Difficulty:** Medium
-- **Patterns:** Hash Table, Two Pointers, String, Sliding Window
+- **Topic:** Arrays
+- **Difficulty:** Easy
+- **Patterns:** Array, Binary Search
 - **Status:** Completed
-- **Problem:** [Open original](https://leetcode.com/problems/permutation-in-string/)
-- **Completed:** 2026-09-21T04:29:12.000Z
+- **Problem:** [Open original](https://leetcode.com/problems/binary-search/)
+- **Completed:** 2026-09-24T14:18:53.000Z
 - **Solution capture:** Pending — reopen the accepted submission with the AlgoFlow companion enabled
 
 ## Approach

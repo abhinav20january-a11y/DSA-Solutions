@@ -910,5 +910,14 @@
     "path": "arrays/0278-first-bad-version/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "eb59d5b6-05c2-42dd-9ccc-d476a94d6d96": {
+    "name": "Binary Search",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/0704-binary-search",
+    "path": "arrays/0704-binary-search/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }

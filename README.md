@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 107 | 12 | 45 | 58 | 4 |
+| 108 | 12 | 46 | 58 | 4 |
 
 ## Quality automation
 
@@ -18,6 +18,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 
 - [3 sum](./arrays/3-sum/) — Arrays · Medium
 - [Best Time to Buy and Sell Stock II](./arrays/0122-best-time-to-buy-and-sell-stock-ii/) — Arrays · Medium
+- [Binary Search](./arrays/0704-binary-search/) — Arrays · Easy
 - [Capacity To Ship Packages Within D Days](./arrays/1011-capacity-to-ship-packages-within-d-days/) — Arrays · Medium
 - [Car Pooling](./arrays/1094-car-pooling/) — Arrays · Medium
 - [Contains Duplicate](./arrays/0217-contains-duplicate/) — Arrays · Easy
