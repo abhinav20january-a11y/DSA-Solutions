@@ -919,5 +919,14 @@
     "path": "arrays/0704-binary-search/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "424a7174-c7c0-4332-a671-2fd495124257": {
+    "name": "Integer to Roman",
+    "topic": "Strings",
+    "difficulty": "Medium",
+    "folder": "strings/0012-integer-to-roman",
+    "path": "strings/0012-integer-to-roman/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
