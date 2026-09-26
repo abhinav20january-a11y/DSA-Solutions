@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-09-26T16:52:34.000Z",
+  "complexity": null,
+  "difficulty": "Easy",
+  "id": "ed20a8da-0671-4ab0-b325-8cdcf41fbf41",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/length-of-last-word/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Strings"
+}

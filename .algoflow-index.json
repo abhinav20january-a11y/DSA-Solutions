@@ -928,5 +928,14 @@
     "path": "strings/0012-integer-to-roman/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "ed20a8da-0671-4ab0-b325-8cdcf41fbf41": {
+    "name": "Length of Last Word",
+    "topic": "Strings",
+    "difficulty": "Easy",
+    "folder": "strings/0058-length-of-last-word",
+    "path": "strings/0058-length-of-last-word/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
