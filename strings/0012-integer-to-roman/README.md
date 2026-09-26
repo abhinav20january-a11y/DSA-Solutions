@@ -2,7 +2,7 @@
 
 - **Topic:** Strings
 - **Difficulty:** Medium
-- **Patterns:** Hash Table, Math, String
+- **Patterns:** Not classified
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/integer-to-roman/)
 - **Completed:** 2026-09-25T17:11:27.000Z
