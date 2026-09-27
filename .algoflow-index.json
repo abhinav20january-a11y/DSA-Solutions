@@ -937,5 +937,14 @@
     "path": "strings/0058-length-of-last-word/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "9a7a3eda-2a02-48e8-9582-cb80d84743d4": {
+    "name": "Longest Common Prefix",
+    "topic": "Strings",
+    "difficulty": "Easy",
+    "folder": "strings/0014-longest-common-prefix",
+    "path": "strings/0014-longest-common-prefix/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }

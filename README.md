@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 110 | 12 | 47 | 59 | 4 |
+| 111 | 12 | 48 | 59 | 4 |
 
 ## Quality automation
 
@@ -106,6 +106,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Sum of Subarray Minimums](./stacks-queues/0907-sum-of-subarray-minimums/) — Stacks & Queues · Medium
 - [Integer to Roman](./strings/0012-integer-to-roman/) — Strings · Medium
 - [Length of Last Word](./strings/0058-length-of-last-word/) — Strings · Easy
+- [Longest Common Prefix](./strings/0014-longest-common-prefix/) — Strings · Easy
 - [Maximize Active Section with Trade I](./strings/maximize-active-section-with-trade-i/) — Strings · Medium
 - [Maximize Active Section with Trade II](./strings/3501-maximize-active-section-with-trade-ii/) — Strings · Hard
 - [Reverse String](./strings/reverse-string/) — Strings · Easy
