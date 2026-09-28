@@ -955,5 +955,14 @@
     "path": "arrays/factorail-of-a-number/solution.cpp",
     "hasCode": true,
     "pinned": false
+  },
+  "99f0c2b0-7872-4a93-9bfc-ac5c94e441fc": {
+    "name": "sum using recursion",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/sum-using-recursion",
+    "path": "arrays/sum-using-recursion/solution.cpp",
+    "hasCode": true,
+    "pinned": false
   }
 }

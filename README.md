@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 112 | 12 | 49 | 59 | 4 |
+| 113 | 12 | 50 | 59 | 4 |
 
 ## Quality automation
 
@@ -52,6 +52,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Sort List](./arrays/sort-list/) — Arrays · Medium
 - [Subarrays with equal 1s and 0s](./arrays/subarrays-with-equal-1s-and-0s/) — Arrays · Medium
 - [Sum of All Odd Length Subarrays](./arrays/1588-sum-of-all-odd-length-subarrays/) — Arrays · Easy
+- [sum using recursion](./arrays/sum-using-recursion/) — Arrays · Easy
 - [Two Sum](./arrays/two-sum/) — Arrays · Easy
 - [Two Sum](./arrays/0001-two-sum/) — Arrays · Easy
 - [Valid Anagram](./arrays/0242-valid-anagram/) — Arrays · Easy
