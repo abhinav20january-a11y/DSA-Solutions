@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 111 | 12 | 48 | 59 | 4 |
+| 112 | 12 | 49 | 59 | 4 |
 
 ## Quality automation
 
@@ -26,6 +26,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Count Values With Equally Spaced Occurrences I](./arrays/4048-count-values-with-equally-spaced-occurrences-i/) — Arrays · Easy
 - [Count Values With Equally Spaced Occurrences II](./arrays/4049-count-values-with-equally-spaced-occurrences-ii/) — Arrays · Medium
 - [DSA Problem](./arrays/dsa-problem/) — Arrays · Medium
+- [factorail of a number](./arrays/factorail-of-a-number/) — Arrays · Easy
 - [Find First and Last Position of Element in Sorted Array](./arrays/0034-find-first-and-last-position-of-element-in-sorted-array/) — Arrays · Medium
 - [Find Missing Elements](./arrays/find-missing-elements/) — Arrays · Easy
 - [Find Pivot Index](./arrays/0724-find-pivot-index/) — Arrays · Easy

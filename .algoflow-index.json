@@ -946,5 +946,14 @@
     "path": "strings/0014-longest-common-prefix/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "005c01fb-12d6-4cf3-a16a-9d224a22c991": {
+    "name": "factorail of a number",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/factorail-of-a-number",
+    "path": "arrays/factorail-of-a-number/solution.cpp",
+    "hasCode": true,
+    "pinned": false
   }
 }
