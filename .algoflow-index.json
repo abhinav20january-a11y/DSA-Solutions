@@ -964,5 +964,14 @@
     "path": "arrays/sum-using-recursion/solution.cpp",
     "hasCode": true,
     "pinned": false
+  },
+  "12176d62-291a-4c5f-a114-5536f00ff4e5": {
+    "name": "Zigzag Conversion",
+    "topic": "Strings",
+    "difficulty": "Medium",
+    "folder": "strings/0006-zigzag-conversion",
+    "path": "strings/0006-zigzag-conversion/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }

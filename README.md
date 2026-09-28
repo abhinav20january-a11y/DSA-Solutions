@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 113 | 12 | 50 | 59 | 4 |
+| 114 | 12 | 50 | 60 | 4 |
 
 ## Quality automation
 
@@ -113,6 +113,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Maximize Active Section with Trade II](./strings/3501-maximize-active-section-with-trade-ii/) — Strings · Hard
 - [Reverse String](./strings/reverse-string/) — Strings · Easy
 - [Smallest Palindromic Rearrangement I](./strings/3517-smallest-palindromic-rearrangement-i/) — Strings · Medium
+- [Zigzag Conversion](./strings/0006-zigzag-conversion/) — Strings · Medium
 - [Binary Tree Inorder Traversal](./trees-binary-trees-bst/binary-tree-inorder-traversal/) — Trees (Binary Trees, BST) · Easy
 - [Binary Tree Level Order Traversal](./trees-binary-trees-bst/0102-binary-tree-level-order-traversal/) — Trees (Binary Trees, BST) · Medium
 - [Binary Tree Postorder Traversal](./trees-binary-trees-bst/0145-binary-tree-postorder-traversal/) — Trees (Binary Trees, BST) · Easy
