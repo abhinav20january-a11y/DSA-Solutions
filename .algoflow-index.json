@@ -973,5 +973,14 @@
     "path": "strings/0006-zigzag-conversion/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "8367b720-2fb7-447c-8157-ad734a30c2ff": {
+    "name": "Guess Number Higher or Lower",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/0374-guess-number-higher-or-lower",
+    "path": "arrays/0374-guess-number-higher-or-lower/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
