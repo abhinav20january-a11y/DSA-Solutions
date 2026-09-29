@@ -2,7 +2,7 @@
 
 - **Topic:** Strings
 - **Difficulty:** Medium
-- **Patterns:** String
+- **Patterns:** Not classified
 - **Status:** Completed
 - **Problem:** [Open original](https://leetcode.com/problems/zigzag-conversion/)
 - **Completed:** 2026-09-28T18:29:48.000Z
