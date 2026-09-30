@@ -982,5 +982,14 @@
     "path": "arrays/0374-guess-number-higher-or-lower/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "ba533268-0404-471d-8659-f27f5371887d": {
+    "name": "Text Justification",
+    "topic": "Strings",
+    "difficulty": "Hard",
+    "folder": "strings/0068-text-justification",
+    "path": "strings/0068-text-justification/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
