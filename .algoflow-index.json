@@ -991,5 +991,14 @@
     "path": "strings/0068-text-justification/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "1462e760-e00b-47d5-88f1-ff3a9ca40f46": {
+    "name": "Find the Index of the First Occurrence in a String",
+    "topic": "Strings",
+    "difficulty": "Easy",
+    "folder": "strings/0028-find-the-index-of-the-first-occurrence-in-a-string",
+    "path": "strings/0028-find-the-index-of-the-first-occurrence-in-a-string/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }

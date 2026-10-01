@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 116 | 12 | 51 | 60 | 5 |
+| 117 | 12 | 52 | 60 | 5 |
 
 ## Quality automation
 
@@ -107,6 +107,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Next Greater Element II](./stacks-queues/0503-next-greater-element-ii/) — Stacks & Queues · Medium
 - [Next Smaller Element](./stacks-queues/next-smaller-element/) — Stacks & Queues · Medium
 - [Sum of Subarray Minimums](./stacks-queues/0907-sum-of-subarray-minimums/) — Stacks & Queues · Medium
+- [Find the Index of the First Occurrence in a String](./strings/0028-find-the-index-of-the-first-occurrence-in-a-string/) — Strings · Easy
 - [Integer to Roman](./strings/0012-integer-to-roman/) — Strings · Medium
 - [Length of Last Word](./strings/0058-length-of-last-word/) — Strings · Easy
 - [Longest Common Prefix](./strings/0014-longest-common-prefix/) — Strings · Easy

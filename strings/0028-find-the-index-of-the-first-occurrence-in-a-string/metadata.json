@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-10-01T17:40:34.000Z",
+  "complexity": null,
+  "difficulty": "Easy",
+  "id": "1462e760-e00b-47d5-88f1-ff3a9ca40f46",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Strings"
+}
