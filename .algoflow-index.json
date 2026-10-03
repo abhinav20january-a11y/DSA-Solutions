@@ -1027,5 +1027,14 @@
     "path": "math-geometry/0054-spiral-matrix/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "6584aa86-7562-4a43-91b0-2ac2c840ec33": {
+    "name": "Set Matrix Zeroes",
+    "topic": "Math & Geometry",
+    "difficulty": "Medium",
+    "folder": "math-geometry/0073-set-matrix-zeroes",
+    "path": "math-geometry/0073-set-matrix-zeroes/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
