@@ -1009,5 +1009,14 @@
     "path": "arrays/0036-valid-sudoku/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "a7870e2a-842a-4399-96ba-47906584a9a5": {
+    "name": "Minimum Number of Days to Make m Bouquets",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/1482-minimum-number-of-days-to-make-m-bouquets",
+    "path": "arrays/1482-minimum-number-of-days-to-make-m-bouquets/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
