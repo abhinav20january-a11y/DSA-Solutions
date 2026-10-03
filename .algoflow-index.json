@@ -1018,5 +1018,14 @@
     "path": "arrays/1482-minimum-number-of-days-to-make-m-bouquets/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "6f3ea368-842a-4235-aacc-05cf5d896071": {
+    "name": "Spiral Matrix",
+    "topic": "Math & Geometry",
+    "difficulty": "Medium",
+    "folder": "math-geometry/0054-spiral-matrix",
+    "path": "math-geometry/0054-spiral-matrix/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }

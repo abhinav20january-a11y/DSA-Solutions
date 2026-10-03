@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 119 | 12 | 52 | 62 | 5 |
+| 120 | 12 | 52 | 63 | 5 |
 
 ## Quality automation
 
@@ -85,6 +85,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Maximum Product of Three Numbers](./math-geometry/0628-maximum-product-of-three-numbers/) — Math & Geometry · Easy
 - [Maximum Product of Two Digits](./math-geometry/3536-maximum-product-of-two-digits/) — Math & Geometry · Easy
 - [Palindrome Number](./math-geometry/0009-palindrome-number/) — Math & Geometry · Easy
+- [Spiral Matrix](./math-geometry/0054-spiral-matrix/) — Math & Geometry · Medium
 - [Best Time to Buy And Sell Stock](./sliding-window/0121-best-time-to-buy-and-sell-stock/) — Sliding Window · Easy
 - [Find All Anagrams in a String](./sliding-window/0438-find-all-anagrams-in-a-string/) — Sliding Window · Medium
 - [Fruit Into Baskets](./sliding-window/0904-fruit-into-baskets/) — Sliding Window · Medium
