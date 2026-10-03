@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 117 | 12 | 52 | 60 | 5 |
+| 118 | 12 | 52 | 61 | 5 |
 
 ## Quality automation
 
@@ -57,6 +57,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Two Sum](./arrays/two-sum/) — Arrays · Easy
 - [Two Sum](./arrays/0001-two-sum/) — Arrays · Easy
 - [Valid Anagram](./arrays/0242-valid-anagram/) — Arrays · Easy
+- [Valid Sudoku](./arrays/0036-valid-sudoku/) — Arrays · Medium
 - [Number of Unique XOR Triplets I](./bit-manipulation/3513-number-of-unique-xor-triplets-i/) — Bit Manipulation · Medium
 - [Number of Unique XOR Triplets II](./bit-manipulation/3514-number-of-unique-xor-triplets-ii/) — Bit Manipulation · Medium
 - [hello](./graphs/hello/) — Graphs · Medium
