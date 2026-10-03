@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 121 | 12 | 52 | 64 | 5 |
+| 122 | 12 | 52 | 65 | 5 |
 
 ## Quality automation
 
@@ -51,6 +51,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Richest Customer Wealth](./arrays/1672-richest-customer-wealth/) — Arrays · Easy
 - [Rotate Array](./arrays/0189-rotate-array/) — Arrays · Medium
 - [Running Sum of 1d Array](./arrays/1480-running-sum-of-1d-array/) — Arrays · Easy
+- [Search in Rotated Sorted Array](./arrays/0033-search-in-rotated-sorted-array/) — Arrays · Medium
 - [Sort List](./arrays/sort-list/) — Arrays · Medium
 - [Subarrays with equal 1s and 0s](./arrays/subarrays-with-equal-1s-and-0s/) — Arrays · Medium
 - [Sum of All Odd Length Subarrays](./arrays/1588-sum-of-all-odd-length-subarrays/) — Arrays · Easy

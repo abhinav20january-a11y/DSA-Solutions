@@ -1036,5 +1036,14 @@
     "path": "math-geometry/0073-set-matrix-zeroes/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "2f798912-f6e5-402f-b184-159d4f7fe84b": {
+    "name": "Search in Rotated Sorted Array",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/0033-search-in-rotated-sorted-array",
+    "path": "arrays/0033-search-in-rotated-sorted-array/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
