@@ -1054,5 +1054,14 @@
     "path": "arrays/0081-search-in-rotated-sorted-array-ii/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "8cbad600-4856-4a0f-9f9b-bc5d03a05a64": {
+    "name": "Search a 2D Matrix",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/0074-search-a-2d-matrix",
+    "path": "arrays/0074-search-a-2d-matrix/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
