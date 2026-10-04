@@ -1045,5 +1045,14 @@
     "path": "arrays/0033-search-in-rotated-sorted-array/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "8d62278c-fc7f-4232-9856-dfec0a9826bb": {
+    "name": "Search in Rotated Sorted Array II",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/0081-search-in-rotated-sorted-array-ii",
+    "path": "arrays/0081-search-in-rotated-sorted-array-ii/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }

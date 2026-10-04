@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-10-04T09:36:43.000Z",
+  "complexity": null,
+  "difficulty": "Medium",
+  "id": "8d62278c-fc7f-4232-9856-dfec0a9826bb",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Arrays"
+}
