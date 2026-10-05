@@ -1171,5 +1171,14 @@
     "path": "arrays/0153-find-minimum-in-rotated-sorted-array/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "43ba56c2-41fc-414e-a4cc-7e9463859121": {
+    "name": "Flipping an Image",
+    "topic": "Bit Manipulation",
+    "difficulty": "Easy",
+    "folder": "bit-manipulation/0832-flipping-an-image",
+    "path": "bit-manipulation/0832-flipping-an-image/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
