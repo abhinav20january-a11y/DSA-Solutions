@@ -1189,5 +1189,14 @@
     "path": "math-geometry/0441-arranging-coins/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "d07758ac-05eb-44e5-8d41-ce92e2061f15": {
+    "name": "Convert 1D Array Into 2D Array",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/2022-convert-1d-array-into-2d-array",
+    "path": "arrays/2022-convert-1d-array-into-2d-array/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
