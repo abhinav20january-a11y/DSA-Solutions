@@ -1063,5 +1063,95 @@
     "path": "arrays/0074-search-a-2d-matrix/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "bcfc8a83-1d37-4f49-82b3-657e72d46a57": {
+    "name": "Sqrt(x)",
+    "topic": "Math & Geometry",
+    "difficulty": "Easy",
+    "folder": "math-geometry/0069-sqrt-x",
+    "path": "math-geometry/0069-sqrt-x/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "63a1f59c-dfac-4de3-9fbc-053bde731ce0": {
+    "name": "Count 1's in binary array",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/count-1-s-in-binary-array",
+    "path": "arrays/count-1-s-in-binary-array/solution.cpp",
+    "hasCode": true,
+    "pinned": false
+  },
+  "3d864274-5d21-4654-acc8-065b0945506e": {
+    "name": "Aggressive Cows",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/aggressive-cows",
+    "path": "arrays/aggressive-cows/solution.cpp",
+    "hasCode": true,
+    "pinned": false
+  },
+  "ff8aaedc-686f-48f0-af1f-d9401b29515a": {
+    "name": "Celebrity Problem",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/celebrity-problem",
+    "path": "arrays/celebrity-problem/solution.cpp",
+    "hasCode": true,
+    "pinned": false
+  },
+  "8055e91a-ff4d-42bf-9723-d8c21ca8eb36": {
+    "name": "Find the Smallest Divisor Given a Threshold",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/1283-find-the-smallest-divisor-given-a-threshold",
+    "path": "arrays/1283-find-the-smallest-divisor-given-a-threshold/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "9b5ff075-050f-42cb-8a46-48a656711b75": {
+    "name": "Matrix Diagonal Sum",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/1572-matrix-diagonal-sum",
+    "path": "arrays/1572-matrix-diagonal-sum/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "da4d1027-2c24-4cf7-ab39-4000d696553c": {
+    "name": "Transpose Matrix",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "folder": "arrays/0867-transpose-matrix",
+    "path": "arrays/0867-transpose-matrix/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "f3544f09-2c7a-4781-a43f-4f1d2c7d6ca1": {
+    "name": "Find Peak Element",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/0162-find-peak-element",
+    "path": "arrays/0162-find-peak-element/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "e7349e4f-7a33-4073-bc8a-04908182d9dc": {
+    "name": "Split Array Largest Sum",
+    "topic": "Dynamic Programming",
+    "difficulty": "Hard",
+    "folder": "dynamic-programming/0410-split-array-largest-sum",
+    "path": "dynamic-programming/0410-split-array-largest-sum/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "72732bc4-e862-449e-9ad8-2b2b237a530f": {
+    "name": "Move Zeroes",
+    "topic": "Two Pointers",
+    "difficulty": "Easy",
+    "folder": "two-pointers/0283-move-zeroes",
+    "path": "two-pointers/0283-move-zeroes/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }

@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 124 | 12 | 52 | 67 | 5 |
+| 134 | 13 | 57 | 71 | 6 |
 
 ## Quality automation
 
@@ -17,21 +17,26 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 ## Solutions
 
 - [3 sum](./arrays/3-sum/) — Arrays · Medium
+- [Aggressive Cows](./arrays/aggressive-cows/) — Arrays · Medium
 - [Best Time to Buy and Sell Stock II](./arrays/0122-best-time-to-buy-and-sell-stock-ii/) — Arrays · Medium
 - [Binary Search](./arrays/0704-binary-search/) — Arrays · Easy
 - [Capacity To Ship Packages Within D Days](./arrays/1011-capacity-to-ship-packages-within-d-days/) — Arrays · Medium
 - [Car Pooling](./arrays/1094-car-pooling/) — Arrays · Medium
+- [Celebrity Problem](./arrays/celebrity-problem/) — Arrays · Medium
 - [Contains Duplicate](./arrays/0217-contains-duplicate/) — Arrays · Easy
 - [Corporate Flight Bookings](./arrays/1109-corporate-flight-bookings/) — Arrays · Medium
+- [Count 1's in binary array](./arrays/count-1-s-in-binary-array/) — Arrays · Easy
 - [Count Values With Equally Spaced Occurrences I](./arrays/4048-count-values-with-equally-spaced-occurrences-i/) — Arrays · Easy
 - [Count Values With Equally Spaced Occurrences II](./arrays/4049-count-values-with-equally-spaced-occurrences-ii/) — Arrays · Medium
 - [DSA Problem](./arrays/dsa-problem/) — Arrays · Medium
 - [factorail of a number](./arrays/factorail-of-a-number/) — Arrays · Easy
 - [Find First and Last Position of Element in Sorted Array](./arrays/0034-find-first-and-last-position-of-element-in-sorted-array/) — Arrays · Medium
 - [Find Missing Elements](./arrays/find-missing-elements/) — Arrays · Easy
+- [Find Peak Element](./arrays/0162-find-peak-element/) — Arrays · Medium
 - [Find Pivot Index](./arrays/0724-find-pivot-index/) — Arrays · Easy
 - [Find the Highest Altitude](./arrays/1732-find-the-highest-altitude/) — Arrays · Easy
 - [Find the Middle Index in Array](./arrays/1991-find-the-middle-index-in-array/) — Arrays · Easy
+- [Find the Smallest Divisor Given a Threshold](./arrays/1283-find-the-smallest-divisor-given-a-threshold/) — Arrays · Medium
 - [First Bad Version](./arrays/0278-first-bad-version/) — Arrays · Easy
 - [Guess Number Higher or Lower](./arrays/0374-guess-number-higher-or-lower/) — Arrays · Easy
 - [H-Index](./arrays/0274-h-index/) — Arrays · Medium
@@ -39,6 +44,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Koko Eating Bananas](./arrays/0875-koko-eating-bananas/) — Arrays · Medium
 - [Longest Subarray with Sum K](./arrays/longest-subarray-with-sum-k/) — Arrays · Medium
 - [Majority Element](./arrays/0169-majority-element/) — Arrays · Easy
+- [Matrix Diagonal Sum](./arrays/1572-matrix-diagonal-sum/) — Arrays · Easy
 - [Merge Sorted Array](./arrays/0088-merge-sorted-array/) — Arrays · Easy
 - [Minimum Number of Days to Make m Bouquets](./arrays/1482-minimum-number-of-days-to-make-m-bouquets/) — Arrays · Medium
 - [Minimum Value to Get Positive Step by Step Sum](./arrays/1413-minimum-value-to-get-positive-step-by-step-sum/) — Arrays · Easy
@@ -58,12 +64,14 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Subarrays with equal 1s and 0s](./arrays/subarrays-with-equal-1s-and-0s/) — Arrays · Medium
 - [Sum of All Odd Length Subarrays](./arrays/1588-sum-of-all-odd-length-subarrays/) — Arrays · Easy
 - [sum using recursion](./arrays/sum-using-recursion/) — Arrays · Easy
+- [Transpose Matrix](./arrays/0867-transpose-matrix/) — Arrays · Easy
 - [Two Sum](./arrays/two-sum/) — Arrays · Easy
 - [Two Sum](./arrays/0001-two-sum/) — Arrays · Easy
 - [Valid Anagram](./arrays/0242-valid-anagram/) — Arrays · Easy
 - [Valid Sudoku](./arrays/0036-valid-sudoku/) — Arrays · Medium
 - [Number of Unique XOR Triplets I](./bit-manipulation/3513-number-of-unique-xor-triplets-i/) — Bit Manipulation · Medium
 - [Number of Unique XOR Triplets II](./bit-manipulation/3514-number-of-unique-xor-triplets-ii/) — Bit Manipulation · Medium
+- [Split Array Largest Sum](./dynamic-programming/0410-split-array-largest-sum/) — Dynamic Programming · Hard
 - [hello](./graphs/hello/) — Graphs · Medium
 - [Jump Game](./greedy-algorithms/0055-jump-game/) — Greedy Algorithms · Medium
 - [Jump Game II](./greedy-algorithms/0045-jump-game-ii/) — Greedy Algorithms · Medium
@@ -90,6 +98,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Palindrome Number](./math-geometry/0009-palindrome-number/) — Math & Geometry · Easy
 - [Set Matrix Zeroes](./math-geometry/0073-set-matrix-zeroes/) — Math & Geometry · Medium
 - [Spiral Matrix](./math-geometry/0054-spiral-matrix/) — Math & Geometry · Medium
+- [Sqrt(x)](./math-geometry/0069-sqrt-x/) — Math & Geometry · Easy
 - [Best Time to Buy And Sell Stock](./sliding-window/0121-best-time-to-buy-and-sell-stock/) — Sliding Window · Easy
 - [Find All Anagrams in a String](./sliding-window/0438-find-all-anagrams-in-a-string/) — Sliding Window · Medium
 - [Fruit Into Baskets](./sliding-window/0904-fruit-into-baskets/) — Sliding Window · Medium
@@ -135,6 +144,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [3Sum](./two-pointers/0015-3sum/) — Two Pointers · Medium
 - [4Sum](./two-pointers/0018-4sum/) — Two Pointers · Medium
 - [Is Subsequence](./two-pointers/0392-is-subsequence/) — Two Pointers · Easy
+- [Move Zeroes](./two-pointers/0283-move-zeroes/) — Two Pointers · Easy
 - [Sort Colors](./two-pointers/0075-sort-colors/) — Two Pointers · Medium
 - [Squares of a Sorted Array](./two-pointers/0977-squares-of-a-sorted-array/) — Two Pointers · Easy
 - [Trapping Rain Water](./two-pointers/0042-trapping-rain-water/) — Two Pointers · Hard
