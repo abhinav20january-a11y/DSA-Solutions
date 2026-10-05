@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 135 | 13 | 57 | 72 | 6 |
+| 136 | 13 | 57 | 73 | 6 |
 
 ## Quality automation
 
@@ -31,6 +31,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [DSA Problem](./arrays/dsa-problem/) — Arrays · Medium
 - [factorail of a number](./arrays/factorail-of-a-number/) — Arrays · Easy
 - [Find First and Last Position of Element in Sorted Array](./arrays/0034-find-first-and-last-position-of-element-in-sorted-array/) — Arrays · Medium
+- [Find Minimum in Rotated Sorted Array](./arrays/0153-find-minimum-in-rotated-sorted-array/) — Arrays · Medium
 - [Find Missing Elements](./arrays/find-missing-elements/) — Arrays · Easy
 - [Find Peak Element](./arrays/0162-find-peak-element/) — Arrays · Medium
 - [Find Pivot Index](./arrays/0724-find-pivot-index/) — Arrays · Easy

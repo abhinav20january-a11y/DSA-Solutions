@@ -1162,5 +1162,14 @@
     "path": "math-geometry/0048-rotate-image/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "21781437-5af5-4b24-b3c8-f4ebd08d6bb4": {
+    "name": "Find Minimum in Rotated Sorted Array",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/0153-find-minimum-in-rotated-sorted-array",
+    "path": "arrays/0153-find-minimum-in-rotated-sorted-array/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
