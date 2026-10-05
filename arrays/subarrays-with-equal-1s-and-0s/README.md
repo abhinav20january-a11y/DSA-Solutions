@@ -5,7 +5,7 @@
 - **Patterns:** Not classified
 - **Status:** Completed
 - **Problem:** [Open original](https://www.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1)
-- **Completed:** 2026-09-13T14:49:47.241Z
+- **Completed:** 2026-10-05T09:09:40.551Z
 - **Solution capture:** Saved
 
 ## Approach
