@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 139 | 13 | 60 | 73 | 6 |
+| 140 | 13 | 60 | 74 | 6 |
 
 ## Quality automation
 
@@ -51,6 +51,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Minimum Number of Days to Make m Bouquets](./arrays/1482-minimum-number-of-days-to-make-m-bouquets/) — Arrays · Medium
 - [Minimum Value to Get Positive Step by Step Sum](./arrays/1413-minimum-value-to-get-positive-step-by-step-sum/) — Arrays · Easy
 - [Number of Ways to Split Array](./arrays/2270-number-of-ways-to-split-array/) — Arrays · Medium
+- [Peak Index in a Mountain Array](./arrays/0852-peak-index-in-a-mountain-array/) — Arrays · Medium
 - [Product of Array Except Self](./arrays/0238-product-of-array-except-self/) — Arrays · Medium
 - [Range Sum Query - Immutable](./arrays/0303-range-sum-query-immutable/) — Arrays · Easy
 - [Remove Duplicates from Sorted Array](./arrays/remove-duplicates-from-sorted-array/) — Arrays · Easy
