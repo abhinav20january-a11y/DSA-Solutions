@@ -4,8 +4,8 @@
 - **Difficulty:** Medium
 - **Patterns:** Not classified
 - **Status:** Completed
-- **Problem:** [Open original](https://www.geeksforgeeks.org/problems/the-celebrity-problem)
-- **Completed:** 2026-10-05T01:52:51.759Z
+- **Problem:** [Open original](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1)
+- **Completed:** 2026-10-05T02:23:03.619Z
 - **Solution capture:** Saved
 
 ## Approach
