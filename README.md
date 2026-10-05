@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 140 | 13 | 60 | 74 | 6 |
+| 141 | 13 | 60 | 75 | 6 |
 
 ## Quality automation
 
@@ -61,6 +61,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Rotate Array](./arrays/0189-rotate-array/) — Arrays · Medium
 - [Running Sum of 1d Array](./arrays/1480-running-sum-of-1d-array/) — Arrays · Easy
 - [Search a 2D Matrix](./arrays/0074-search-a-2d-matrix/) — Arrays · Medium
+- [Search a 2D Matrix II](./arrays/0240-search-a-2d-matrix-ii/) — Arrays · Medium
 - [Search in Rotated Sorted Array](./arrays/0033-search-in-rotated-sorted-array/) — Arrays · Medium
 - [Search in Rotated Sorted Array II](./arrays/0081-search-in-rotated-sorted-array-ii/) — Arrays · Medium
 - [Sort List](./arrays/sort-list/) — Arrays · Medium
