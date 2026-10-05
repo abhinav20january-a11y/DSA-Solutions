@@ -1180,5 +1180,14 @@
     "path": "bit-manipulation/0832-flipping-an-image/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "35a5ce7f-ca96-4e33-a478-ca4b6e053b94": {
+    "name": "Arranging Coins",
+    "topic": "Math & Geometry",
+    "difficulty": "Easy",
+    "folder": "math-geometry/0441-arranging-coins",
+    "path": "math-geometry/0441-arranging-coins/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }

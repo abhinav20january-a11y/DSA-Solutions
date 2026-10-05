@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 137 | 13 | 58 | 73 | 6 |
+| 138 | 13 | 59 | 73 | 6 |
 
 ## Quality automation
 
@@ -95,6 +95,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Remove Nth Node From End of List](./linked-lists/0019-remove-nth-node-from-end-of-list/) — Linked Lists · Medium
 - [Reverse Linked List](./linked-lists/0206-reverse-linked-list/) — Linked Lists · Easy
 - [Reverse Linked List II](./linked-lists/reverse-linked-list-ii/) — Linked Lists · Medium
+- [Arranging Coins](./math-geometry/0441-arranging-coins/) — Math & Geometry · Easy
 - [Maximum Product of Three Numbers](./math-geometry/0628-maximum-product-of-three-numbers/) — Math & Geometry · Easy
 - [Maximum Product of Two Digits](./math-geometry/3536-maximum-product-of-two-digits/) — Math & Geometry · Easy
 - [Palindrome Number](./math-geometry/0009-palindrome-number/) — Math & Geometry · Easy
