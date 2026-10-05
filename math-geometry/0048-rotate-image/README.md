@@ -1,0 +1,19 @@
+# 48. Rotate Image
+
+- **Topic:** Math & Geometry
+- **Difficulty:** Medium
+- **Patterns:** Array, Math, Matrix
+- **Status:** Completed
+- **Problem:** [Open original](https://leetcode.com/problems/rotate-image/)
+- **Completed:** 2026-10-05T02:28:52.000Z
+- **Solution capture:** Pending — reopen the accepted submission with the AlgoFlow companion enabled
+
+## Approach
+
+Add your explanation in AlgoFlow.
+
+## Complexity
+
+- **Estimated time:** Not analysed
+- **Estimated auxiliary space:** Not analysed
+- **Confidence:** Not available

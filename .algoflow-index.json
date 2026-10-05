@@ -1153,5 +1153,14 @@
     "path": "two-pointers/0283-move-zeroes/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "8c0a7665-8002-4be9-8a72-179b318e9e99": {
+    "name": "Rotate Image",
+    "topic": "Math & Geometry",
+    "difficulty": "Medium",
+    "folder": "math-geometry/0048-rotate-image",
+    "path": "math-geometry/0048-rotate-image/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
