@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 141 | 13 | 60 | 75 | 6 |
+| 144 | 14 | 60 | 77 | 7 |
 
 ## Quality automation
 
@@ -88,6 +88,8 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Smallest Palindromic Rearrangement II](./hash-tables/3518-smallest-palindromic-rearrangement-ii/) — Hash Tables · Hard
 - [Subarray Sum Equals K](./hash-tables/0560-subarray-sum-equals-k/) — Hash Tables · Medium
 - [Two Sum](./hash-tables/0001-two-sum/) — Hash Tables · Easy
+- [IPO](./heaps-priority-queues/0502-ipo/) — Heaps / Priority Queues · Hard
+- [Kth Largest Element in an Array](./heaps-priority-queues/0215-kth-largest-element-in-an-array/) — Heaps / Priority Queues · Medium
 - [Add Two Numbers](./linked-lists/0002-add-two-numbers/) — Linked Lists · Medium
 - [Delete the Middle Node of a Linked List](./linked-lists/2095-delete-the-middle-node-of-a-linked-list/) — Linked Lists · Medium
 - [Intersection of Two Linked Lists](./linked-lists/0160-intersection-of-two-linked-lists/) — Linked Lists · Easy
@@ -136,6 +138,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Longest Common Prefix](./strings/0014-longest-common-prefix/) — Strings · Easy
 - [Maximize Active Section with Trade I](./strings/maximize-active-section-with-trade-i/) — Strings · Medium
 - [Maximize Active Section with Trade II](./strings/3501-maximize-active-section-with-trade-ii/) — Strings · Hard
+- [Number of Laser Beams in a Bank](./strings/2125-number-of-laser-beams-in-a-bank/) — Strings · Medium
 - [Reverse String](./strings/reverse-string/) — Strings · Easy
 - [Smallest Palindromic Rearrangement I](./strings/3517-smallest-palindromic-rearrangement-i/) — Strings · Medium
 - [Text Justification](./strings/0068-text-justification/) — Strings · Hard

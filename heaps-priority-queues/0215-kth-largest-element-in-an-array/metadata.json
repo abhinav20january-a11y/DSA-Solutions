@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-10-14T17:30:41.000Z",
+  "complexity": null,
+  "difficulty": "Medium",
+  "id": "e86871c7-4e26-4d0e-84a0-fff6c1a28492",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Heaps / Priority Queues"
+}

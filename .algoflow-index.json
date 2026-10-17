@@ -1216,5 +1216,32 @@
     "path": "arrays/0240-search-a-2d-matrix-ii/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "9dec0706-c1b5-4d66-882d-17d9004141a4": {
+    "name": "Number of Laser Beams in a Bank",
+    "topic": "Strings",
+    "difficulty": "Medium",
+    "folder": "strings/2125-number-of-laser-beams-in-a-bank",
+    "path": "strings/2125-number-of-laser-beams-in-a-bank/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "e86871c7-4e26-4d0e-84a0-fff6c1a28492": {
+    "name": "Kth Largest Element in an Array",
+    "topic": "Heaps / Priority Queues",
+    "difficulty": "Medium",
+    "folder": "heaps-priority-queues/0215-kth-largest-element-in-an-array",
+    "path": "heaps-priority-queues/0215-kth-largest-element-in-an-array/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "298512eb-f1b0-4ed2-ac32-c6189bdec35e": {
+    "name": "IPO",
+    "topic": "Heaps / Priority Queues",
+    "difficulty": "Hard",
+    "folder": "heaps-priority-queues/0502-ipo",
+    "path": "heaps-priority-queues/0502-ipo/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
