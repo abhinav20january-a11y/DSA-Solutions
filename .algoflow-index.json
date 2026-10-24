@@ -1252,5 +1252,14 @@
     "path": "linked-lists/delete-head-of-linked-list/solution.cpp",
     "hasCode": true,
     "pinned": false
+  },
+  "5c456e6d-1a41-4902-be48-77feba9c29b1": {
+    "name": "Deletion at End of Linked List",
+    "topic": "Linked Lists",
+    "difficulty": "Medium",
+    "folder": "linked-lists/deletion-at-end-of-linked-list",
+    "path": "linked-lists/deletion-at-end-of-linked-list/solution.cpp",
+    "hasCode": true,
+    "pinned": false
   }
 }
