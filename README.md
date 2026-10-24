@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 144 | 14 | 60 | 77 | 7 |
+| 145 | 14 | 60 | 78 | 7 |
 
 ## Quality automation
 
@@ -91,6 +91,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [IPO](./heaps-priority-queues/0502-ipo/) — Heaps / Priority Queues · Hard
 - [Kth Largest Element in an Array](./heaps-priority-queues/0215-kth-largest-element-in-an-array/) — Heaps / Priority Queues · Medium
 - [Add Two Numbers](./linked-lists/0002-add-two-numbers/) — Linked Lists · Medium
+- [Delete Head of Linked List](./linked-lists/delete-head-of-linked-list/) — Linked Lists · Medium
 - [Delete the Middle Node of a Linked List](./linked-lists/2095-delete-the-middle-node-of-a-linked-list/) — Linked Lists · Medium
 - [Intersection of Two Linked Lists](./linked-lists/0160-intersection-of-two-linked-lists/) — Linked Lists · Easy
 - [Merge Two Sorted Lists](./linked-lists/0021-merge-two-sorted-lists/) — Linked Lists · Easy

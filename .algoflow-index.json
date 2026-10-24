@@ -1243,5 +1243,14 @@
     "path": "heaps-priority-queues/0502-ipo/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "41b0b7cd-569a-4bab-b3c5-ec9edd8570b4": {
+    "name": "Delete Head of Linked List",
+    "topic": "Linked Lists",
+    "difficulty": "Medium",
+    "folder": "linked-lists/delete-head-of-linked-list",
+    "path": "linked-lists/delete-head-of-linked-list/solution.cpp",
+    "hasCode": true,
+    "pinned": false
   }
 }
