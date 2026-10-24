@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 146 | 14 | 60 | 79 | 7 |
+| 147 | 14 | 61 | 79 | 7 |
 
 ## Quality automation
 
@@ -95,6 +95,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Delete the Middle Node of a Linked List](./linked-lists/2095-delete-the-middle-node-of-a-linked-list/) — Linked Lists · Medium
 - [Deletion at End of Linked List](./linked-lists/deletion-at-end-of-linked-list/) — Linked Lists · Medium
 - [Intersection of Two Linked Lists](./linked-lists/0160-intersection-of-two-linked-lists/) — Linked Lists · Easy
+- [Linked List Cycle](./linked-lists/linked-list-cycle/) — Linked Lists · Easy
 - [Merge Two Sorted Lists](./linked-lists/0021-merge-two-sorted-lists/) — Linked Lists · Easy
 - [Middle of the Linked List](./linked-lists/0876-middle-of-the-linked-list/) — Linked Lists · Easy
 - [Odd Even Linked List](./linked-lists/odd-even-linked-list/) — Linked Lists · Medium

@@ -1261,5 +1261,14 @@
     "path": "linked-lists/deletion-at-end-of-linked-list/solution.cpp",
     "hasCode": true,
     "pinned": false
+  },
+  "fd2a4146-1d00-47fa-a538-1df253731b23": {
+    "name": "Linked List Cycle",
+    "topic": "Linked Lists",
+    "difficulty": "Easy",
+    "folder": "linked-lists/linked-list-cycle",
+    "path": "linked-lists/linked-list-cycle/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
