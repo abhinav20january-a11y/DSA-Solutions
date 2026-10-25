@@ -1279,5 +1279,14 @@
     "path": "linked-lists/2487-remove-nodes-from-linked-list/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "484352ef-25c7-4902-b962-eb7f3145ad2b": {
+    "name": "Previous Smaller Element",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/previous-smaller-element",
+    "path": "arrays/previous-smaller-element/solution.cpp",
+    "hasCode": true,
+    "pinned": false
   }
 }
