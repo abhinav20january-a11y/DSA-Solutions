@@ -1288,5 +1288,14 @@
     "path": "arrays/previous-smaller-element/solution.cpp",
     "hasCode": true,
     "pinned": false
+  },
+  "03143e2b-1d1d-4760-bd17-4f36d6449efa": {
+    "name": "Baseball Game",
+    "topic": "Stacks & Queues",
+    "difficulty": "Easy",
+    "folder": "stacks-queues/0682-baseball-game",
+    "path": "stacks-queues/0682-baseball-game/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }

@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 149 | 14 | 61 | 81 | 7 |
+| 150 | 14 | 62 | 81 | 7 |
 
 ## Quality automation
 
@@ -128,6 +128,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Subarray Product Less Than K](./sliding-window/0713-subarray-product-less-than-k/) — Sliding Window · Medium
 - [Subarrays with K Different Integers](./sliding-window/0992-subarrays-with-k-different-integers/) — Sliding Window · Hard
 - [Asteroid Collision](./stacks-queues/0735-asteroid-collision/) — Stacks & Queues · Medium
+- [Baseball Game](./stacks-queues/0682-baseball-game/) — Stacks & Queues · Easy
 - [Daily Temperatures](./stacks-queues/0739-daily-temperatures/) — Stacks & Queues · Medium
 - [First Unique Character in a String](./stacks-queues/0387-first-unique-character-in-a-string/) — Stacks & Queues · Easy
 - [Infix to Postfix](./stacks-queues/infix-to-postfix/) — Stacks & Queues · Medium
