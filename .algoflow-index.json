@@ -1297,5 +1297,14 @@
     "path": "stacks-queues/0682-baseball-game/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "63c2a60a-6713-4405-bebc-cb8037a5aef9": {
+    "name": "Decode String",
+    "topic": "Strings",
+    "difficulty": "Medium",
+    "folder": "strings/0394-decode-string",
+    "path": "strings/0394-decode-string/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }

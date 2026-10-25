@@ -1,0 +1,11 @@
+{
+  "completedAt": "2026-10-25T14:14:18.000Z",
+  "complexity": null,
+  "difficulty": "Medium",
+  "id": "63c2a60a-6713-4405-bebc-cb8037a5aef9",
+  "patterns": [],
+  "pinned": false,
+  "source": "https://leetcode.com/problems/decode-string/",
+  "syncedBy": "AlgoFlow",
+  "topic": "Strings"
+}
