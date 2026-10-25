@@ -1270,5 +1270,14 @@
     "path": "linked-lists/linked-list-cycle/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "ac29d79f-abd7-4139-b6ae-d00135d96fb5": {
+    "name": "Remove Nodes From Linked List",
+    "topic": "Linked Lists",
+    "difficulty": "Medium",
+    "folder": "linked-lists/2487-remove-nodes-from-linked-list",
+    "path": "linked-lists/2487-remove-nodes-from-linked-list/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
