@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 151 | 14 | 62 | 82 | 7 |
+| 152 | 14 | 63 | 82 | 7 |
 
 ## Quality automation
 
@@ -146,6 +146,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Maximize Active Section with Trade I](./strings/maximize-active-section-with-trade-i/) — Strings · Medium
 - [Maximize Active Section with Trade II](./strings/3501-maximize-active-section-with-trade-ii/) — Strings · Hard
 - [Number of Laser Beams in a Bank](./strings/2125-number-of-laser-beams-in-a-bank/) — Strings · Medium
+- [Remove All Adjacent Duplicates In String](./strings/1047-remove-all-adjacent-duplicates-in-string/) — Strings · Easy
 - [Reverse String](./strings/reverse-string/) — Strings · Easy
 - [Smallest Palindromic Rearrangement I](./strings/3517-smallest-palindromic-rearrangement-i/) — Strings · Medium
 - [Text Justification](./strings/0068-text-justification/) — Strings · Hard

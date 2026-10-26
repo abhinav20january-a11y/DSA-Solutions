@@ -1306,5 +1306,14 @@
     "path": "strings/0394-decode-string/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "fd66cb6b-917e-4b01-b317-543774f8b57a": {
+    "name": "Remove All Adjacent Duplicates In String",
+    "topic": "Strings",
+    "difficulty": "Easy",
+    "folder": "strings/1047-remove-all-adjacent-duplicates-in-string",
+    "path": "strings/1047-remove-all-adjacent-duplicates-in-string/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
