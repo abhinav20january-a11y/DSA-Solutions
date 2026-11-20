@@ -1315,5 +1315,14 @@
     "path": "strings/1047-remove-all-adjacent-duplicates-in-string/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "50bdda5a-2cd6-4af9-ba65-3f1582d6f700": {
+    "name": "Maximum Depth of Binary Tree",
+    "topic": "Trees (Binary Trees, BST)",
+    "difficulty": "Easy",
+    "folder": "trees-binary-trees-bst/0104-maximum-depth-of-binary-tree",
+    "path": "trees-binary-trees-bst/0104-maximum-depth-of-binary-tree/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }

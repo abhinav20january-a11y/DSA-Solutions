@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 152 | 14 | 63 | 82 | 7 |
+| 153 | 14 | 64 | 82 | 7 |
 
 ## Quality automation
 
@@ -156,6 +156,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Binary Tree Postorder Traversal](./trees-binary-trees-bst/0145-binary-tree-postorder-traversal/) — Trees (Binary Trees, BST) · Easy
 - [Binary Tree Preorder Traversal](./trees-binary-trees-bst/0144-binary-tree-preorder-traversal/) — Trees (Binary Trees, BST) · Easy
 - [Diameter of Binary Tree](./trees-binary-trees-bst/0543-diameter-of-binary-tree/) — Trees (Binary Trees, BST) · Easy
+- [Maximum Depth of Binary Tree](./trees-binary-trees-bst/0104-maximum-depth-of-binary-tree/) — Trees (Binary Trees, BST) · Easy
 - [Number of Substrings Containing All Three Characters](./trees-binary-trees-bst/1358-number-of-substrings-containing-all-three-characters/) — Trees (Binary Trees, BST) · Medium
 - [Preorder Traversal](./trees-binary-trees-bst/preorder-traversal/) — Trees (Binary Trees, BST) · Easy
 - [Sum of Beauty of All Substrings](./trees-binary-trees-bst/1781-sum-of-beauty-of-all-substrings/) — Trees (Binary Trees, BST) · Medium
