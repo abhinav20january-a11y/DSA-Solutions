@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 158 | 14 | 68 | 83 | 7 |
+| 159 | 14 | 69 | 83 | 7 |
 
 ## Quality automation
 
@@ -163,6 +163,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Maximum Depth of Binary Tree](./trees-binary-trees-bst/0104-maximum-depth-of-binary-tree/) — Trees (Binary Trees, BST) · Easy
 - [Number of Substrings Containing All Three Characters](./trees-binary-trees-bst/1358-number-of-substrings-containing-all-three-characters/) — Trees (Binary Trees, BST) · Medium
 - [Preorder Traversal](./trees-binary-trees-bst/preorder-traversal/) — Trees (Binary Trees, BST) · Easy
+- [Same Tree](./trees-binary-trees-bst/0100-same-tree/) — Trees (Binary Trees, BST) · Easy
 - [Sum of Beauty of All Substrings](./trees-binary-trees-bst/1781-sum-of-beauty-of-all-substrings/) — Trees (Binary Trees, BST) · Medium
 - [Symmetric Tree](./trees-binary-trees-bst/0101-symmetric-tree/) — Trees (Binary Trees, BST) · Easy
 - [3Sum](./two-pointers/0015-3sum/) — Two Pointers · Medium

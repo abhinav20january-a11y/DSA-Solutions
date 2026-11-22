@@ -1369,5 +1369,14 @@
     "path": "trees-binary-trees-bst/0110-balanced-binary-tree/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "c74d800b-88c8-400a-8cf5-bbdb4396e0b3": {
+    "name": "Same Tree",
+    "topic": "Trees (Binary Trees, BST)",
+    "difficulty": "Easy",
+    "folder": "trees-binary-trees-bst/0100-same-tree",
+    "path": "trees-binary-trees-bst/0100-same-tree/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
