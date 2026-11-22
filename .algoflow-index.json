@@ -1324,5 +1324,41 @@
     "path": "trees-binary-trees-bst/0104-maximum-depth-of-binary-tree/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "a7452d3d-0736-4ee9-99fa-8c4321ab9cc7": {
+    "name": "Lemonade Change",
+    "topic": "Greedy Algorithms",
+    "difficulty": "Easy",
+    "folder": "greedy-algorithms/0860-lemonade-change",
+    "path": "greedy-algorithms/0860-lemonade-change/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "544a1ce7-3cb1-44a9-9969-6ccd0eb7c01c": {
+    "name": "Count Islands With Total Value Divisible by K",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "folder": "arrays/3619-count-islands-with-total-value-divisible-by-k",
+    "path": "arrays/3619-count-islands-with-total-value-divisible-by-k/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "66871ad6-5d74-4532-b987-787678c53fe4": {
+    "name": "Implement Queue using Stacks",
+    "topic": "Stacks & Queues",
+    "difficulty": "Easy",
+    "folder": "stacks-queues/0232-implement-queue-using-stacks",
+    "path": "stacks-queues/0232-implement-queue-using-stacks/README.md",
+    "hasCode": false,
+    "pinned": false
+  },
+  "9b185b3b-7605-4667-a6d3-44a8fc2f3f2d": {
+    "name": "Symmetric Tree",
+    "topic": "Trees (Binary Trees, BST)",
+    "difficulty": "Easy",
+    "folder": "trees-binary-trees-bst/0101-symmetric-tree",
+    "path": "trees-binary-trees-bst/0101-symmetric-tree/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }

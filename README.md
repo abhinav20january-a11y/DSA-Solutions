@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 153 | 14 | 64 | 82 | 7 |
+| 157 | 14 | 67 | 83 | 7 |
 
 ## Quality automation
 
@@ -27,6 +27,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Convert 1D Array Into 2D Array](./arrays/2022-convert-1d-array-into-2d-array/) — Arrays · Easy
 - [Corporate Flight Bookings](./arrays/1109-corporate-flight-bookings/) — Arrays · Medium
 - [Count 1's in binary array](./arrays/count-1-s-in-binary-array/) — Arrays · Easy
+- [Count Islands With Total Value Divisible by K](./arrays/3619-count-islands-with-total-value-divisible-by-k/) — Arrays · Medium
 - [Count Values With Equally Spaced Occurrences I](./arrays/4048-count-values-with-equally-spaced-occurrences-i/) — Arrays · Easy
 - [Count Values With Equally Spaced Occurrences II](./arrays/4049-count-values-with-equally-spaced-occurrences-ii/) — Arrays · Medium
 - [DSA Problem](./arrays/dsa-problem/) — Arrays · Medium
@@ -81,6 +82,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [hello](./graphs/hello/) — Graphs · Medium
 - [Jump Game](./greedy-algorithms/0055-jump-game/) — Greedy Algorithms · Medium
 - [Jump Game II](./greedy-algorithms/0045-jump-game-ii/) — Greedy Algorithms · Medium
+- [Lemonade Change](./greedy-algorithms/0860-lemonade-change/) — Greedy Algorithms · Easy
 - [Maximum Subarray](./greedy-algorithms/0053-maximum-subarray/) — Greedy Algorithms · Medium
 - [Minimum Number of Pushes to Type Word I](./greedy-algorithms/3014-minimum-number-of-pushes-to-type-word-i/) — Greedy Algorithms · Easy
 - [Contiguous Array](./hash-tables/0525-contiguous-array/) — Hash Tables · Medium
@@ -131,6 +133,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Baseball Game](./stacks-queues/0682-baseball-game/) — Stacks & Queues · Easy
 - [Daily Temperatures](./stacks-queues/0739-daily-temperatures/) — Stacks & Queues · Medium
 - [First Unique Character in a String](./stacks-queues/0387-first-unique-character-in-a-string/) — Stacks & Queues · Easy
+- [Implement Queue using Stacks](./stacks-queues/0232-implement-queue-using-stacks/) — Stacks & Queues · Easy
 - [Infix to Postfix](./stacks-queues/infix-to-postfix/) — Stacks & Queues · Medium
 - [Maximum Product of Two Elements in an Array](./stacks-queues/1464-maximum-product-of-two-elements-in-an-array/) — Stacks & Queues · Easy
 - [Min Stack](./stacks-queues/0155-min-stack/) — Stacks & Queues · Medium
@@ -160,6 +163,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Number of Substrings Containing All Three Characters](./trees-binary-trees-bst/1358-number-of-substrings-containing-all-three-characters/) — Trees (Binary Trees, BST) · Medium
 - [Preorder Traversal](./trees-binary-trees-bst/preorder-traversal/) — Trees (Binary Trees, BST) · Easy
 - [Sum of Beauty of All Substrings](./trees-binary-trees-bst/1781-sum-of-beauty-of-all-substrings/) — Trees (Binary Trees, BST) · Medium
+- [Symmetric Tree](./trees-binary-trees-bst/0101-symmetric-tree/) — Trees (Binary Trees, BST) · Easy
 - [3Sum](./two-pointers/0015-3sum/) — Two Pointers · Medium
 - [4Sum](./two-pointers/0018-4sum/) — Two Pointers · Medium
 - [Is Subsequence](./two-pointers/0392-is-subsequence/) — Two Pointers · Easy
