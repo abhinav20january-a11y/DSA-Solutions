@@ -8,7 +8,7 @@ A structured, automatically verified record of data-structures and algorithms pr
 
 | Solutions | Topics | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: | ---: |
-| 157 | 14 | 67 | 83 | 7 |
+| 158 | 14 | 68 | 83 | 7 |
 
 ## Quality automation
 
@@ -154,6 +154,7 @@ Every push verifies the folder structure and performs a C++20 syntax compilation
 - [Smallest Palindromic Rearrangement I](./strings/3517-smallest-palindromic-rearrangement-i/) — Strings · Medium
 - [Text Justification](./strings/0068-text-justification/) — Strings · Hard
 - [Zigzag Conversion](./strings/0006-zigzag-conversion/) — Strings · Medium
+- [Balanced Binary Tree](./trees-binary-trees-bst/0110-balanced-binary-tree/) — Trees (Binary Trees, BST) · Easy
 - [Binary Tree Inorder Traversal](./trees-binary-trees-bst/binary-tree-inorder-traversal/) — Trees (Binary Trees, BST) · Easy
 - [Binary Tree Level Order Traversal](./trees-binary-trees-bst/0102-binary-tree-level-order-traversal/) — Trees (Binary Trees, BST) · Medium
 - [Binary Tree Postorder Traversal](./trees-binary-trees-bst/0145-binary-tree-postorder-traversal/) — Trees (Binary Trees, BST) · Easy

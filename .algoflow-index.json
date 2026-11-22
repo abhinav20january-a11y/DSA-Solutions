@@ -1360,5 +1360,14 @@
     "path": "trees-binary-trees-bst/0101-symmetric-tree/README.md",
     "hasCode": false,
     "pinned": false
+  },
+  "f36ea284-eb70-4c06-8247-b9dd4ab85deb": {
+    "name": "Balanced Binary Tree",
+    "topic": "Trees (Binary Trees, BST)",
+    "difficulty": "Easy",
+    "folder": "trees-binary-trees-bst/0110-balanced-binary-tree",
+    "path": "trees-binary-trees-bst/0110-balanced-binary-tree/README.md",
+    "hasCode": false,
+    "pinned": false
   }
 }
